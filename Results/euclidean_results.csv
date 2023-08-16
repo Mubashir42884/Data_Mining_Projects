@@ -1,0 +1,21 @@
+Distance_Metric,K_value,Accuracy,Recall
+Euclidean Distance,1,0.646318439,0.370629371
+Euclidean Distance,2,0.706733795,0.158508159
+Euclidean Distance,3,0.67967275,0.333333333
+Euclidean Distance,4,0.709880428,0.167832168
+Euclidean Distance,5,0.68156073,0.291375291
+Euclidean Distance,6,0.713656388,0.198135198
+Euclidean Distance,7,0.698552549,0.27039627
+Euclidean Distance,8,0.716803021,0.191142191
+Euclidean Distance,9,0.707992448,0.27972028
+Euclidean Distance,10,0.716803021,0.205128205
+Euclidean Distance,11,0.714285714,0.286713287
+Euclidean Distance,12,0.718061674,0.212121212
+Euclidean Distance,13,0.713027061,0.268065268
+Euclidean Distance,14,0.718691001,0.198135198
+Euclidean Distance,15,0.717432347,0.286713287
+Euclidean Distance,16,0.717432347,0.184149184
+Euclidean Distance,17,0.708621775,0.251748252
+Euclidean Distance,18,0.713656388,0.195804196
+Euclidean Distance,19,0.713027061,0.249417249
+Euclidean Distance,20,0.721837634,0.2004662
