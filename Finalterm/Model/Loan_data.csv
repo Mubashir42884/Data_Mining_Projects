@@ -1,0 +1,4091 @@
+"no_of_dependents","education","self_employed","income_annum","loan_amount","loan_term","Class"
+2,"Not Graduate","No","Low","Max",7,1
+5,"Not Graduate","Yes","Medium","Max",2,1
+2,"Not Graduate","Yes","Low","High",4,0
+1,"Not Graduate","No","High","Low",2,0
+1,"Not Graduate","Yes","Medium","High",0,0
+5,"Not Graduate","Yes","Medium","Medium",7,0
+2,"Graduate","No","Medium","High",0,0
+4,"Not Graduate","Yes","Max","Max",10,0
+3,"Graduate","Yes","Low","Low",12,0
+5,"Not Graduate","No","Low","Max",2,1
+5,"Graduate","No","Low","High",7,0
+0,"Graduate","Yes","Max","High",2,0
+1,"Not Graduate","No","Max","Max",1,0
+2,"Not Graduate","Yes","Max","High",6,0
+4,"Not Graduate","Yes","High","Low",1,1
+2,"Not Graduate","Yes","Medium","High",1,1
+2,"Graduate","Yes","Low","Medium",12,1
+0,"Graduate","No","Low","Medium",4,1
+3,"Not Graduate","Yes","High","High",5,1
+0,"Not Graduate","No","High","Medium",11,1
+0,"Graduate","No","Medium","High",11,1
+4,"Not Graduate","No","High","Low",8,1
+2,"Not Graduate","No","Max","Max",12,0
+1,"Graduate","Yes","High","Low",3,1
+1,"Not Graduate","No","High","Low",9,1
+0,"Graduate","Yes","Low","Max",11,0
+5,"Graduate","Yes","High","Max",5,1
+2,"Not Graduate","Yes","Max","High",0,0
+3,"Graduate","Yes","Low","High",7,1
+5,"Graduate","No","Max","Max",10,0
+0,"Graduate","Yes","Max","Max",3,0
+2,"Graduate","No","Max","Low",8,0
+4,"Not Graduate","No","Max","Max",6,0
+3,"Not Graduate","Yes","Max","Low",3,1
+1,"Graduate","No","High","Max",11,0
+4,"Graduate","No","Max","Low",12,1
+0,"Not Graduate","No","Low","Medium",6,0
+0,"Graduate","No","Max","Max",6,0
+1,"Not Graduate","No","Medium","High",2,1
+2,"Not Graduate","No","High","Max",12,1
+3,"Graduate","No","Low","Low",7,0
+4,"Graduate","Yes","Max","Max",3,0
+4,"Graduate","Yes","Medium","Low",8,1
+2,"Not Graduate","Yes","High","Low",0,0
+5,"Not Graduate","Yes","High","Medium",5,0
+0,"Graduate","Yes","Medium","Max",5,0
+1,"Graduate","Yes","Max","Low",0,1
+4,"Graduate","Yes","Low","Low",3,0
+4,"Not Graduate","No","Low","High",9,0
+3,"Not Graduate","No","High","Medium",1,0
+4,"Not Graduate","No","Max","Max",10,1
+1,"Not Graduate","No","High","Max",10,1
+0,"Not Graduate","Yes","High","Max",11,0
+0,"Not Graduate","Yes","Low","Medium",6,1
+2,"Not Graduate","No","Low","Max",1,1
+0,"Not Graduate","No","High","High",8,0
+5,"Not Graduate","Yes","Max","Low",0,1
+4,"Not Graduate","No","Max","Low",2,0
+0,"Not Graduate","No","High","Low",1,0
+1,"Not Graduate","Yes","Low","High",10,0
+3,"Graduate","Yes","Max","High",9,1
+3,"Not Graduate","No","Low","Max",11,1
+5,"Not Graduate","No","Low","Medium",5,1
+5,"Graduate","Yes","Max","High",12,0
+2,"Not Graduate","Yes","Low","Max",4,1
+5,"Graduate","Yes","Medium","Max",11,0
+5,"Not Graduate","Yes","Medium","High",4,0
+0,"Graduate","No","Max","Low",7,0
+5,"Not Graduate","Yes","Max","High",0,0
+1,"Graduate","Yes","Low","High",1,1
+0,"Not Graduate","Yes","Medium","High",9,1
+1,"Graduate","Yes","Low","Low",9,0
+3,"Not Graduate","No","Medium","Medium",8,1
+4,"Graduate","Yes","Low","Low",2,0
+4,"Graduate","Yes","Low","Medium",2,1
+5,"Graduate","Yes","Max","High",6,1
+2,"Graduate","Yes","Medium","Max",4,1
+0,"Not Graduate","No","Low","Max",8,1
+3,"Not Graduate","No","Medium","Max",11,0
+5,"Not Graduate","No","High","High",1,0
+0,"Graduate","No","Medium","Medium",1,0
+5,"Not Graduate","No","Low","Medium",6,0
+0,"Not Graduate","Yes","Low","Max",12,1
+2,"Not Graduate","Yes","High","Max",9,0
+5,"Graduate","Yes","Medium","Medium",10,1
+3,"Not Graduate","Yes","Max","Low",2,1
+0,"Not Graduate","No","Medium","High",5,1
+5,"Graduate","Yes","Medium","Low",4,0
+5,"Graduate","Yes","Medium","Medium",7,0
+2,"Graduate","No","Medium","Medium",5,0
+5,"Graduate","Yes","High","High",11,0
+4,"Not Graduate","Yes","Max","Low",6,0
+2,"Graduate","No","Max","High",4,0
+5,"Not Graduate","Yes","Medium","High",10,1
+1,"Not Graduate","Yes","Max","Low",11,0
+4,"Graduate","No","Medium","Max",3,1
+4,"Not Graduate","No","Medium","Medium",10,1
+2,"Not Graduate","No","Medium","Medium",3,1
+1,"Not Graduate","No","Low","Low",7,1
+1,"Graduate","Yes","Low","Max",6,1
+1,"Not Graduate","No","Max","Max",10,1
+3,"Not Graduate","No","Low","Medium",8,1
+1,"Graduate","No","Low","Medium",9,1
+1,"Not Graduate","No","Medium","Max",0,1
+5,"Not Graduate","No","High","Medium",7,0
+3,"Not Graduate","Yes","Medium","Medium",10,0
+3,"Graduate","No","Low","High",9,0
+5,"Not Graduate","No","Max","Max",0,1
+0,"Not Graduate","Yes","Low","Max",7,0
+5,"Not Graduate","No","Low","High",2,0
+5,"Graduate","Yes","High","Medium",12,0
+5,"Graduate","No","Medium","Max",10,1
+2,"Graduate","Yes","Low","Max",2,0
+5,"Graduate","No","Medium","Max",1,0
+2,"Graduate","No","Max","High",5,1
+5,"Graduate","No","Medium","High",5,0
+0,"Graduate","No","Max","Max",7,1
+2,"Not Graduate","No","Max","Max",6,1
+4,"Graduate","No","High","High",12,1
+1,"Graduate","Yes","Low","High",3,1
+5,"Not Graduate","No","Max","Medium",5,1
+5,"Graduate","Yes","High","Max",9,1
+2,"Not Graduate","Yes","High","Max",1,1
+1,"Not Graduate","No","Max","High",0,1
+4,"Graduate","No","High","Medium",5,1
+5,"Not Graduate","Yes","High","Max",7,0
+4,"Not Graduate","No","Max","Medium",7,1
+2,"Graduate","No","Medium","Max",6,1
+3,"Graduate","No","Max","Low",9,0
+3,"Graduate","Yes","High","Low",5,0
+5,"Graduate","Yes","Medium","Max",4,1
+3,"Graduate","Yes","Low","Low",11,1
+4,"Not Graduate","Yes","High","High",9,1
+2,"Not Graduate","No","Low","Low",1,1
+0,"Graduate","Yes","Max","High",0,0
+5,"Not Graduate","Yes","High","Low",2,0
+1,"Graduate","No","High","Max",0,0
+0,"Graduate","Yes","Low","High",2,0
+1,"Graduate","Yes","Low","Max",8,0
+4,"Graduate","No","Low","Medium",11,1
+2,"Graduate","No","Medium","Max",1,1
+3,"Graduate","Yes","Max","Low",7,0
+3,"Not Graduate","Yes","High","Low",5,1
+0,"Graduate","No","High","Max",0,1
+5,"Graduate","Yes","Medium","High",0,0
+5,"Not Graduate","Yes","Low","Medium",9,1
+3,"Not Graduate","No","High","Medium",0,1
+0,"Graduate","Yes","Low","Low",3,0
+5,"Not Graduate","No","High","High",10,0
+2,"Not Graduate","Yes","Max","High",11,1
+3,"Graduate","Yes","Max","Low",8,0
+2,"Not Graduate","Yes","Low","High",12,0
+4,"Graduate","No","High","High",5,1
+3,"Not Graduate","No","Max","High",12,1
+3,"Graduate","No","Max","Max",7,1
+3,"Graduate","No","Medium","Medium",11,0
+5,"Graduate","Yes","Medium","High",2,0
+0,"Graduate","No","High","Max",1,0
+1,"Graduate","No","Medium","Medium",10,0
+2,"Not Graduate","Yes","Low","High",9,0
+3,"Graduate","Yes","Low","High",5,1
+2,"Not Graduate","No","High","Low",7,0
+0,"Graduate","No","Max","Low",3,1
+5,"Not Graduate","No","Low","Max",3,0
+4,"Graduate","No","Low","Medium",10,0
+4,"Not Graduate","No","Low","Max",1,1
+1,"Graduate","Yes","Max","High",0,1
+2,"Graduate","Yes","Low","Low",0,0
+4,"Graduate","No","Medium","Max",4,1
+5,"Not Graduate","No","Max","Max",0,1
+5,"Graduate","Yes","Low","Low",12,1
+0,"Graduate","No","Low","Max",12,1
+3,"Graduate","Yes","Medium","Low",12,1
+1,"Graduate","No","Medium","Max",4,1
+3,"Not Graduate","Yes","High","Low",9,1
+4,"Not Graduate","Yes","Medium","Medium",9,0
+4,"Not Graduate","Yes","Low","Low",2,0
+5,"Graduate","No","High","High",4,1
+4,"Not Graduate","Yes","Low","Max",3,0
+4,"Graduate","Yes","Low","Low",5,1
+0,"Not Graduate","Yes","Medium","Low",12,0
+1,"Not Graduate","Yes","High","Low",12,1
+0,"Graduate","Yes","High","Medium",10,1
+1,"Not Graduate","Yes","Low","High",4,1
+4,"Not Graduate","Yes","Low","Low",5,1
+4,"Not Graduate","No","Medium","Max",9,1
+0,"Graduate","Yes","High","Max",5,1
+1,"Not Graduate","Yes","Max","Max",10,1
+4,"Graduate","No","High","Max",4,0
+3,"Not Graduate","Yes","Max","High",3,0
+1,"Not Graduate","Yes","Medium","Low",2,0
+5,"Graduate","No","Low","High",5,0
+1,"Graduate","Yes","Low","Medium",0,0
+2,"Not Graduate","Yes","High","Medium",2,1
+0,"Graduate","No","Medium","High",1,0
+0,"Not Graduate","No","Max","Low",7,1
+4,"Not Graduate","Yes","Low","Low",6,1
+4,"Not Graduate","No","Max","Max",4,1
+2,"Graduate","No","Low","Low",11,0
+1,"Graduate","Yes","Medium","Max",8,1
+4,"Not Graduate","No","Low","High",1,1
+5,"Not Graduate","No","Max","Medium",12,1
+4,"Graduate","No","Max","Low",7,1
+2,"Graduate","No","Max","Medium",10,0
+2,"Graduate","No","Low","Max",10,1
+0,"Not Graduate","Yes","High","Max",3,0
+3,"Graduate","No","Low","Low",10,0
+1,"Graduate","No","Max","High",9,1
+0,"Not Graduate","No","Medium","Max",11,0
+1,"Not Graduate","No","High","Low",7,1
+3,"Graduate","Yes","Medium","Medium",6,1
+4,"Not Graduate","No","Low","High",3,0
+0,"Not Graduate","Yes","Max","Max",4,0
+0,"Not Graduate","No","Medium","Max",6,0
+0,"Graduate","Yes","Max","Low",3,1
+4,"Not Graduate","Yes","High","Medium",0,1
+5,"Graduate","No","Medium","Max",12,0
+5,"Graduate","Yes","Max","Low",5,1
+5,"Not Graduate","No","High","Low",7,0
+2,"Not Graduate","No","Max","High",7,0
+0,"Not Graduate","No","Medium","High",3,1
+1,"Not Graduate","No","High","Max",7,0
+1,"Graduate","Yes","Max","High",12,1
+0,"Not Graduate","Yes","Medium","High",1,1
+1,"Graduate","Yes","Medium","Max",7,1
+0,"Not Graduate","No","Max","Low",7,1
+4,"Graduate","Yes","High","Medium",8,0
+1,"Graduate","Yes","High","Low",7,0
+2,"Not Graduate","Yes","Max","High",6,1
+4,"Graduate","Yes","Max","Low",2,0
+3,"Not Graduate","No","Medium","Max",12,1
+4,"Graduate","Yes","Medium","Low",3,0
+1,"Not Graduate","Yes","Max","Low",4,0
+0,"Graduate","Yes","Medium","Medium",12,0
+3,"Not Graduate","No","High","Max",1,0
+5,"Graduate","Yes","High","Low",11,1
+1,"Graduate","No","Max","High",3,0
+5,"Not Graduate","Yes","High","High",3,1
+4,"Graduate","No","Medium","Medium",3,1
+0,"Graduate","Yes","Low","High",1,0
+4,"Not Graduate","No","Max","Medium",5,0
+0,"Not Graduate","Yes","High","High",0,1
+3,"Graduate","Yes","Low","High",5,0
+2,"Graduate","Yes","Max","High",3,0
+0,"Graduate","No","Low","Low",5,1
+5,"Not Graduate","Yes","Low","Max",5,0
+0,"Not Graduate","Yes","Medium","High",9,1
+1,"Not Graduate","Yes","High","Low",7,1
+3,"Not Graduate","Yes","Max","Medium",9,1
+1,"Graduate","No","Low","Medium",1,1
+0,"Not Graduate","Yes","High","Medium",3,0
+4,"Graduate","No","Medium","Max",1,0
+4,"Not Graduate","No","Medium","Medium",8,0
+0,"Not Graduate","No","High","Max",5,0
+0,"Graduate","No","Low","High",8,1
+4,"Graduate","Yes","Max","Medium",11,1
+4,"Graduate","Yes","Low","High",8,1
+1,"Graduate","No","Max","Medium",2,1
+1,"Graduate","Yes","Medium","Medium",8,1
+5,"Not Graduate","Yes","Low","Medium",11,1
+4,"Not Graduate","No","High","High",3,1
+0,"Graduate","Yes","High","Low",10,0
+0,"Graduate","No","Max","High",4,1
+4,"Graduate","No","High","Medium",5,0
+4,"Graduate","Yes","High","Low",1,0
+3,"Graduate","No","Low","Low",5,0
+4,"Graduate","Yes","Medium","Max",5,0
+4,"Not Graduate","No","Max","Low",5,1
+3,"Graduate","Yes","Medium","High",7,1
+1,"Not Graduate","Yes","Low","Low",11,0
+4,"Not Graduate","No","Max","Low",8,1
+0,"Graduate","Yes","Medium","High",11,0
+0,"Not Graduate","Yes","High","High",2,0
+1,"Graduate","No","Low","Low",10,0
+0,"Graduate","No","Medium","High",11,0
+1,"Not Graduate","No","Max","Low",4,1
+4,"Not Graduate","No","Low","High",2,0
+0,"Not Graduate","Yes","Medium","High",0,1
+2,"Graduate","Yes","Medium","High",1,1
+1,"Graduate","Yes","Medium","Medium",4,1
+1,"Not Graduate","No","Medium","Max",10,0
+4,"Not Graduate","No","Medium","Max",9,0
+3,"Graduate","No","Medium","Max",7,1
+0,"Not Graduate","No","Low","Max",0,0
+4,"Not Graduate","No","Low","Medium",12,0
+1,"Graduate","No","High","Max",3,0
+4,"Not Graduate","No","Medium","Max",12,1
+5,"Graduate","Yes","Max","Low",12,1
+1,"Not Graduate","No","Medium","Low",7,0
+1,"Graduate","No","Medium","Max",3,1
+5,"Not Graduate","Yes","High","High",2,1
+3,"Graduate","Yes","High","Max",10,1
+2,"Not Graduate","Yes","Max","Max",7,0
+3,"Not Graduate","Yes","Medium","Max",8,0
+2,"Not Graduate","Yes","Max","Max",12,1
+2,"Graduate","No","Medium","High",10,1
+2,"Graduate","No","Max","Low",6,1
+4,"Not Graduate","Yes","High","Medium",3,0
+2,"Not Graduate","No","Medium","Max",5,1
+1,"Not Graduate","No","Medium","Medium",3,0
+2,"Graduate","No","Medium","Low",2,0
+0,"Graduate","Yes","Max","Low",7,0
+4,"Not Graduate","No","Max","Low",12,0
+5,"Graduate","Yes","Low","Medium",2,0
+5,"Not Graduate","No","Medium","High",7,0
+0,"Not Graduate","No","Low","Medium",7,1
+3,"Not Graduate","Yes","High","High",1,1
+1,"Not Graduate","No","Low","Medium",5,1
+5,"Graduate","No","Max","Medium",8,1
+1,"Not Graduate","No","High","Medium",11,0
+3,"Graduate","Yes","Max","Low",3,1
+0,"Graduate","Yes","Low","Low",5,1
+3,"Not Graduate","No","Medium","Max",6,1
+4,"Graduate","No","Medium","High",3,0
+4,"Graduate","Yes","Medium","High",2,1
+2,"Graduate","Yes","Medium","Max",0,1
+4,"Not Graduate","No","High","Low",7,1
+4,"Graduate","No","Low","Low",0,0
+2,"Graduate","Yes","High","Max",9,1
+0,"Graduate","No","Low","Medium",12,1
+2,"Graduate","Yes","High","Max",1,0
+3,"Graduate","Yes","Medium","Medium",7,1
+1,"Not Graduate","No","Max","Medium",7,1
+4,"Graduate","No","Medium","Max",10,1
+0,"Graduate","No","Max","Max",7,1
+3,"Not Graduate","Yes","Medium","Medium",5,0
+5,"Not Graduate","Yes","High","Low",3,1
+2,"Not Graduate","No","High","Max",10,0
+5,"Graduate","Yes","Medium","High",10,0
+0,"Graduate","No","Max","Medium",7,1
+1,"Not Graduate","Yes","Low","Low",7,1
+5,"Not Graduate","No","Low","High",2,0
+2,"Graduate","Yes","Max","Medium",5,0
+2,"Not Graduate","No","Max","High",7,0
+0,"Not Graduate","No","Max","Low",5,1
+1,"Graduate","Yes","Low","Low",12,0
+0,"Not Graduate","Yes","Medium","Low",8,1
+5,"Not Graduate","Yes","Low","High",6,0
+1,"Graduate","No","Medium","High",1,1
+1,"Not Graduate","Yes","High","High",7,0
+1,"Graduate","No","Max","Max",8,1
+4,"Graduate","Yes","Medium","Low",11,1
+3,"Not Graduate","No","Max","Max",5,1
+5,"Not Graduate","Yes","Max","High",5,1
+3,"Not Graduate","No","Medium","Max",1,0
+4,"Graduate","No","Max","Medium",6,0
+3,"Not Graduate","No","Max","High",5,0
+5,"Graduate","Yes","Medium","Medium",12,0
+0,"Graduate","Yes","Low","Medium",5,0
+1,"Not Graduate","No","Medium","Medium",8,0
+0,"Graduate","Yes","Low","Medium",12,1
+1,"Graduate","No","Medium","Low",4,0
+2,"Not Graduate","No","Medium","Medium",2,1
+1,"Not Graduate","Yes","Medium","Max",12,0
+2,"Not Graduate","No","Medium","Medium",1,1
+0,"Not Graduate","Yes","Low","Max",12,1
+3,"Graduate","No","Medium","Medium",6,1
+1,"Graduate","No","Max","Low",9,0
+2,"Not Graduate","No","Medium","Medium",7,0
+4,"Graduate","No","High","Medium",11,1
+4,"Not Graduate","Yes","Medium","Medium",6,0
+5,"Graduate","No","Max","Max",5,1
+2,"Not Graduate","Yes","High","Low",1,0
+5,"Graduate","No","Max","Max",6,0
+5,"Graduate","No","Medium","Low",8,1
+1,"Graduate","No","High","Medium",5,0
+4,"Not Graduate","No","Low","Low",0,0
+3,"Graduate","No","Low","Max",9,0
+1,"Graduate","Yes","Low","Max",6,0
+0,"Not Graduate","Yes","Low","High",11,1
+3,"Not Graduate","Yes","Max","Medium",2,0
+0,"Graduate","Yes","Medium","Low",10,1
+3,"Not Graduate","Yes","Low","Medium",3,1
+4,"Graduate","Yes","Medium","Medium",0,0
+3,"Not Graduate","Yes","Low","Medium",8,0
+1,"Graduate","Yes","Medium","Max",4,1
+1,"Not Graduate","No","High","Medium",8,0
+3,"Not Graduate","Yes","Max","Low",8,1
+2,"Not Graduate","No","Low","Low",7,0
+4,"Not Graduate","No","Low","Medium",10,0
+5,"Not Graduate","Yes","High","Medium",0,1
+1,"Not Graduate","Yes","Max","High",0,1
+2,"Graduate","No","Max","Max",10,0
+2,"Not Graduate","No","Medium","Medium",12,0
+2,"Graduate","Yes","Medium","Max",12,1
+5,"Graduate","Yes","Low","Max",12,1
+0,"Graduate","No","Low","Max",0,0
+0,"Graduate","No","Medium","Low",1,0
+2,"Graduate","Yes","Low","Max",3,1
+3,"Graduate","No","Low","Medium",7,0
+3,"Not Graduate","Yes","Max","Max",11,0
+4,"Not Graduate","Yes","Medium","Low",8,1
+1,"Graduate","No","Low","Medium",6,1
+1,"Not Graduate","Yes","Max","High",0,0
+3,"Graduate","Yes","Medium","Low",12,0
+1,"Graduate","Yes","Medium","High",5,1
+0,"Not Graduate","No","Max","Low",11,1
+3,"Not Graduate","Yes","Medium","High",1,0
+2,"Graduate","No","High","Max",4,0
+0,"Not Graduate","Yes","Medium","High",12,1
+4,"Graduate","Yes","High","Low",9,0
+2,"Graduate","No","Max","High",6,0
+3,"Not Graduate","No","Low","Max",9,1
+1,"Not Graduate","No","Low","High",8,0
+4,"Not Graduate","Yes","Medium","High",11,0
+4,"Not Graduate","No","Max","Max",3,0
+1,"Not Graduate","No","High","High",10,1
+5,"Not Graduate","No","Medium","Medium",10,1
+1,"Graduate","No","Medium","High",9,1
+1,"Graduate","No","Max","Max",1,1
+0,"Graduate","Yes","High","Low",6,1
+2,"Graduate","Yes","Medium","Medium",1,1
+5,"Not Graduate","Yes","High","Low",11,1
+3,"Not Graduate","Yes","Max","Medium",5,0
+2,"Not Graduate","No","Medium","Low",6,1
+2,"Graduate","No","Low","High",3,1
+2,"Not Graduate","Yes","Max","Max",2,1
+5,"Not Graduate","No","High","High",7,0
+3,"Not Graduate","No","Max","Max",2,0
+3,"Not Graduate","No","Low","High",1,1
+2,"Not Graduate","Yes","High","Medium",9,0
+5,"Graduate","Yes","Low","Low",7,1
+5,"Graduate","Yes","Max","Medium",10,1
+3,"Graduate","Yes","Max","Medium",5,0
+1,"Graduate","No","High","High",10,0
+2,"Graduate","Yes","Max","High",1,1
+5,"Graduate","No","High","Medium",11,1
+3,"Not Graduate","Yes","Max","Low",2,0
+1,"Not Graduate","No","Low","Low",5,1
+0,"Not Graduate","No","Max","Medium",5,0
+5,"Not Graduate","Yes","High","High",10,0
+2,"Graduate","No","High","Max",10,0
+3,"Not Graduate","Yes","Max","Max",11,0
+0,"Graduate","Yes","Max","Low",5,0
+0,"Not Graduate","Yes","High","High",8,0
+3,"Not Graduate","No","Medium","Low",9,0
+3,"Not Graduate","Yes","Medium","Max",0,1
+5,"Graduate","Yes","Max","Medium",1,0
+4,"Graduate","No","Low","Low",1,0
+0,"Graduate","No","High","Medium",8,0
+3,"Not Graduate","No","Medium","Max",8,1
+4,"Graduate","Yes","Medium","Low",8,0
+5,"Graduate","Yes","Medium","Max",2,1
+5,"Graduate","Yes","High","Low",3,0
+2,"Not Graduate","No","Medium","Low",6,0
+1,"Graduate","Yes","Medium","Max",10,0
+4,"Not Graduate","Yes","Max","Max",5,1
+3,"Graduate","No","Low","Low",6,0
+3,"Graduate","No","Medium","Max",10,1
+5,"Not Graduate","Yes","High","Max",3,0
+0,"Not Graduate","No","High","Medium",7,1
+2,"Not Graduate","Yes","Max","High",11,0
+2,"Graduate","No","Medium","Low",3,1
+2,"Not Graduate","Yes","Medium","Low",4,1
+5,"Graduate","No","Max","Max",6,0
+4,"Not Graduate","No","Medium","Medium",5,0
+1,"Not Graduate","Yes","High","Medium",2,1
+4,"Graduate","No","Medium","Low",12,1
+1,"Graduate","No","High","Low",6,1
+0,"Not Graduate","No","Medium","High",0,0
+5,"Graduate","Yes","High","Low",11,1
+5,"Graduate","No","Low","Max",10,0
+3,"Not Graduate","No","Medium","High",9,0
+5,"Not Graduate","No","Max","Max",6,1
+5,"Not Graduate","Yes","Max","Low",4,1
+5,"Graduate","Yes","Max","Max",2,1
+1,"Graduate","No","High","Max",3,1
+1,"Graduate","No","Medium","High",6,0
+2,"Graduate","Yes","Low","Max",10,1
+4,"Not Graduate","Yes","Medium","High",12,0
+0,"Not Graduate","No","High","Max",7,0
+2,"Graduate","Yes","High","High",1,0
+2,"Graduate","Yes","High","Medium",1,0
+1,"Not Graduate","No","High","Max",9,1
+4,"Graduate","Yes","High","Medium",12,0
+0,"Graduate","Yes","High","Max",11,1
+5,"Graduate","Yes","Low","Medium",10,1
+3,"Graduate","No","Medium","Max",0,0
+5,"Not Graduate","Yes","Max","Max",0,1
+3,"Not Graduate","Yes","Low","Low",7,1
+0,"Not Graduate","Yes","Medium","Medium",11,0
+2,"Not Graduate","Yes","Medium","High",4,1
+3,"Not Graduate","No","High","High",8,1
+3,"Graduate","Yes","Low","Low",3,0
+0,"Not Graduate","No","High","High",5,0
+4,"Not Graduate","Yes","Low","Low",2,1
+2,"Graduate","Yes","High","High",4,1
+3,"Not Graduate","Yes","Max","High",10,1
+1,"Graduate","No","High","Medium",11,1
+5,"Graduate","No","Medium","High",10,1
+5,"Not Graduate","Yes","High","Medium",3,1
+2,"Not Graduate","Yes","High","Max",5,1
+1,"Graduate","No","Low","Low",0,1
+2,"Graduate","Yes","Max","High",7,0
+2,"Graduate","No","Max","Medium",12,1
+0,"Not Graduate","No","Max","Medium",2,1
+4,"Graduate","Yes","Medium","Medium",6,1
+5,"Not Graduate","Yes","High","Medium",4,1
+3,"Not Graduate","Yes","High","High",0,1
+3,"Graduate","Yes","Max","High",3,0
+4,"Graduate","Yes","Max","Max",12,0
+2,"Graduate","No","Low","Max",1,1
+1,"Graduate","No","Max","High",3,0
+3,"Graduate","Yes","High","Low",11,1
+5,"Not Graduate","No","Medium","Max",2,0
+4,"Graduate","No","High","Low",6,1
+1,"Graduate","No","Low","Low",5,0
+2,"Not Graduate","No","Max","Max",0,1
+2,"Graduate","Yes","Max","Medium",3,0
+5,"Not Graduate","No","High","Low",1,0
+0,"Graduate","Yes","Low","Low",11,1
+5,"Graduate","No","Max","Low",10,1
+2,"Graduate","No","High","High",11,1
+1,"Graduate","No","Max","Low",1,1
+2,"Graduate","Yes","Low","Medium",7,0
+2,"Graduate","No","Medium","High",3,1
+0,"Not Graduate","No","Low","Low",12,0
+5,"Not Graduate","Yes","Low","Medium",12,1
+1,"Not Graduate","No","Medium","Max",0,0
+1,"Graduate","No","Medium","High",9,0
+1,"Not Graduate","No","Low","High",4,0
+3,"Not Graduate","No","Max","High",6,1
+5,"Not Graduate","Yes","High","Max",3,1
+0,"Not Graduate","Yes","High","High",11,0
+4,"Not Graduate","Yes","Max","Max",3,0
+4,"Graduate","Yes","High","High",11,1
+2,"Not Graduate","Yes","Medium","Low",9,1
+5,"Not Graduate","No","Medium","Max",11,0
+2,"Not Graduate","No","Low","Medium",11,0
+5,"Graduate","Yes","High","Low",4,0
+4,"Graduate","No","Max","Low",3,1
+0,"Not Graduate","Yes","High","Medium",9,0
+3,"Graduate","No","Low","Max",1,0
+1,"Graduate","No","Medium","Medium",7,0
+4,"Not Graduate","Yes","Low","Low",10,1
+5,"Graduate","No","Low","Medium",8,1
+3,"Graduate","No","High","Max",3,0
+5,"Graduate","Yes","Medium","Medium",12,1
+4,"Not Graduate","Yes","Low","Low",11,1
+0,"Graduate","No","High","High",6,1
+1,"Not Graduate","No","High","Low",4,1
+2,"Graduate","No","Max","High",8,0
+0,"Graduate","Yes","High","Max",7,1
+0,"Not Graduate","Yes","High","Medium",10,1
+2,"Graduate","Yes","Medium","Medium",9,1
+1,"Graduate","No","Max","Medium",5,0
+3,"Graduate","Yes","Low","Low",9,1
+4,"Graduate","No","Max","Low",6,0
+2,"Graduate","Yes","Medium","Medium",7,1
+3,"Graduate","No","Max","Low",6,0
+4,"Not Graduate","Yes","Medium","High",7,1
+2,"Not Graduate","Yes","Medium","Low",2,1
+0,"Not Graduate","No","Low","High",6,0
+5,"Not Graduate","No","Max","Medium",4,1
+4,"Not Graduate","No","High","Medium",10,0
+1,"Graduate","Yes","High","Max",4,0
+3,"Not Graduate","Yes","Low","High",1,1
+1,"Graduate","No","Max","High",8,0
+0,"Graduate","Yes","Medium","High",4,1
+4,"Not Graduate","Yes","High","Low",11,0
+5,"Graduate","Yes","High","Max",0,0
+1,"Graduate","No","Medium","Max",1,1
+4,"Graduate","No","Max","Max",4,1
+5,"Graduate","No","Max","Max",6,0
+0,"Graduate","Yes","Medium","Low",8,0
+0,"Graduate","Yes","Low","Low",11,0
+5,"Not Graduate","Yes","High","Max",4,1
+1,"Graduate","Yes","Medium","Medium",12,0
+5,"Not Graduate","Yes","Max","Max",10,0
+3,"Graduate","No","Low","Medium",1,0
+1,"Graduate","Yes","High","Medium",10,1
+0,"Graduate","Yes","Low","Medium",1,0
+0,"Graduate","No","Low","Low",11,1
+0,"Graduate","Yes","Low","High",9,0
+3,"Not Graduate","Yes","Medium","Medium",12,0
+0,"Not Graduate","Yes","High","High",4,0
+2,"Graduate","Yes","Medium","Medium",9,0
+1,"Graduate","Yes","Medium","High",11,0
+0,"Not Graduate","No","Low","Max",4,0
+0,"Not Graduate","Yes","High","High",5,0
+4,"Not Graduate","No","Low","High",0,1
+4,"Graduate","No","Medium","Max",0,0
+3,"Graduate","Yes","High","Max",3,1
+5,"Not Graduate","No","High","Max",3,1
+3,"Graduate","No","Medium","Medium",6,1
+3,"Not Graduate","No","High","Low",1,1
+4,"Not Graduate","Yes","Low","Medium",1,0
+3,"Graduate","No","Low","High",9,0
+0,"Not Graduate","No","High","Low",0,0
+2,"Not Graduate","No","Low","Medium",8,1
+4,"Graduate","No","High","Max",3,1
+3,"Not Graduate","Yes","High","Max",6,0
+1,"Graduate","No","High","Medium",2,1
+5,"Not Graduate","Yes","Medium","High",9,0
+0,"Graduate","No","Medium","Medium",7,0
+3,"Not Graduate","No","Max","High",9,1
+0,"Not Graduate","No","Max","Low",0,1
+2,"Graduate","Yes","Medium","Medium",9,1
+0,"Graduate","Yes","Medium","High",1,0
+2,"Graduate","No","Medium","Max",10,1
+2,"Not Graduate","No","Max","Medium",9,0
+1,"Graduate","Yes","High","Low",7,0
+2,"Not Graduate","No","Max","Max",8,0
+5,"Not Graduate","Yes","High","Low",1,0
+3,"Not Graduate","Yes","Medium","Medium",0,0
+1,"Not Graduate","No","Medium","Medium",12,1
+0,"Not Graduate","Yes","Max","Medium",6,0
+4,"Not Graduate","Yes","Max","Medium",9,0
+2,"Not Graduate","No","Low","High",3,1
+3,"Graduate","Yes","Medium","Low",7,1
+4,"Graduate","Yes","High","Low",5,1
+5,"Not Graduate","Yes","High","Low",9,0
+4,"Graduate","Yes","Low","Max",4,0
+5,"Graduate","No","High","High",9,0
+3,"Graduate","Yes","Low","High",10,0
+5,"Not Graduate","Yes","High","High",3,0
+0,"Not Graduate","No","Max","Max",4,0
+0,"Graduate","No","Max","Max",11,0
+3,"Not Graduate","No","Max","Medium",1,0
+5,"Graduate","Yes","High","Low",7,0
+2,"Not Graduate","Yes","High","Low",12,0
+4,"Not Graduate","Yes","Low","High",9,0
+1,"Not Graduate","Yes","High","Low",5,0
+0,"Not Graduate","Yes","Low","Low",0,0
+3,"Graduate","Yes","Max","Max",8,0
+3,"Graduate","Yes","Low","Medium",3,0
+5,"Graduate","No","Medium","Low",6,0
+3,"Not Graduate","Yes","Max","High",10,1
+2,"Not Graduate","No","Max","High",2,1
+1,"Not Graduate","No","Max","Low",9,1
+1,"Not Graduate","No","High","Low",9,0
+2,"Not Graduate","No","Medium","Medium",10,0
+4,"Not Graduate","No","Max","Low",9,1
+5,"Graduate","No","Low","High",3,0
+3,"Not Graduate","Yes","Medium","Max",3,0
+2,"Graduate","No","High","High",4,0
+2,"Not Graduate","Yes","Low","High",10,0
+0,"Not Graduate","Yes","Max","Low",4,0
+4,"Not Graduate","Yes","Medium","Max",9,0
+4,"Not Graduate","No","High","Max",2,1
+0,"Graduate","Yes","Max","High",3,1
+0,"Graduate","Yes","Low","High",2,1
+0,"Graduate","No","Low","Max",0,1
+4,"Not Graduate","Yes","Medium","Low",4,1
+4,"Not Graduate","Yes","Medium","Low",2,1
+3,"Graduate","Yes","Low","High",10,0
+1,"Graduate","No","High","Max",5,1
+5,"Graduate","Yes","Max","High",6,0
+1,"Graduate","No","Medium","High",10,1
+3,"Not Graduate","No","Max","Max",4,1
+1,"Not Graduate","No","Max","High",7,0
+5,"Graduate","No","Medium","High",1,0
+0,"Graduate","No","High","Medium",11,1
+2,"Not Graduate","Yes","Max","Medium",11,1
+4,"Graduate","Yes","Medium","Low",6,1
+2,"Not Graduate","Yes","Medium","Low",12,0
+0,"Graduate","Yes","High","Medium",3,0
+1,"Graduate","No","Low","Low",4,0
+3,"Not Graduate","No","Low","Low",11,0
+3,"Not Graduate","No","High","High",10,0
+0,"Not Graduate","Yes","Medium","Max",6,0
+4,"Not Graduate","No","Low","Medium",1,1
+0,"Not Graduate","Yes","Max","High",5,0
+3,"Graduate","No","Max","Low",12,1
+2,"Not Graduate","Yes","Medium","Low",12,1
+3,"Not Graduate","No","Max","Medium",3,1
+4,"Not Graduate","Yes","Low","High",10,1
+4,"Not Graduate","Yes","Medium","Medium",9,0
+5,"Not Graduate","Yes","Max","Medium",0,1
+3,"Not Graduate","Yes","High","Low",0,1
+2,"Not Graduate","No","High","High",8,0
+2,"Graduate","No","Medium","Max",0,0
+1,"Not Graduate","Yes","Max","High",11,1
+4,"Not Graduate","Yes","Max","Medium",9,1
+4,"Graduate","Yes","High","Max",10,0
+0,"Not Graduate","Yes","Max","Medium",6,0
+2,"Not Graduate","No","High","Low",0,0
+1,"Not Graduate","Yes","High","High",7,1
+2,"Not Graduate","No","Low","Medium",3,0
+3,"Not Graduate","No","Medium","High",2,0
+1,"Not Graduate","Yes","Max","Max",6,0
+4,"Not Graduate","Yes","Low","High",9,1
+2,"Not Graduate","Yes","Medium","Max",9,0
+2,"Not Graduate","No","Medium","Max",7,1
+1,"Not Graduate","Yes","High","Max",8,1
+1,"Not Graduate","No","Max","Medium",4,0
+3,"Not Graduate","Yes","Low","Low",2,1
+1,"Not Graduate","Yes","Low","Medium",0,0
+5,"Not Graduate","No","Low","Low",3,0
+0,"Graduate","No","Max","Medium",1,1
+3,"Not Graduate","Yes","Max","High",8,1
+0,"Graduate","Yes","Medium","High",11,1
+4,"Graduate","Yes","Max","High",9,1
+1,"Not Graduate","Yes","High","Low",3,0
+4,"Graduate","Yes","Low","Max",10,1
+1,"Graduate","No","Low","Medium",0,0
+1,"Not Graduate","Yes","Low","Max",4,0
+2,"Graduate","Yes","High","Medium",11,0
+1,"Graduate","No","High","High",10,0
+5,"Graduate","No","Max","High",7,1
+5,"Graduate","No","High","Medium",10,0
+2,"Not Graduate","Yes","High","High",7,0
+2,"Graduate","Yes","High","Medium",1,1
+0,"Not Graduate","No","High","Medium",0,0
+0,"Not Graduate","No","High","Low",5,1
+5,"Graduate","No","Low","High",6,1
+4,"Graduate","No","Low","Low",4,1
+0,"Graduate","No","Medium","Low",1,1
+4,"Graduate","No","High","Max",6,1
+0,"Not Graduate","Yes","Low","Low",11,0
+1,"Not Graduate","Yes","Medium","Low",11,0
+0,"Not Graduate","Yes","Max","Medium",12,0
+2,"Not Graduate","Yes","Low","High",2,0
+2,"Not Graduate","No","Max","High",10,1
+3,"Not Graduate","No","Low","Low",2,0
+1,"Not Graduate","No","Max","Medium",6,0
+3,"Graduate","No","Max","High",11,0
+2,"Graduate","Yes","Max","Medium",11,1
+5,"Graduate","No","Low","Medium",11,1
+0,"Not Graduate","Yes","High","Low",8,0
+2,"Graduate","No","High","Low",2,1
+3,"Not Graduate","No","Max","High",1,1
+1,"Graduate","No","High","Max",5,1
+5,"Not Graduate","Yes","Medium","Low",5,1
+4,"Graduate","No","Low","Medium",6,0
+1,"Graduate","No","Max","High",4,1
+0,"Not Graduate","Yes","High","Medium",0,1
+1,"Graduate","No","High","Medium",6,1
+2,"Graduate","Yes","Medium","Max",11,0
+2,"Not Graduate","No","Medium","High",5,1
+1,"Not Graduate","No","Low","Max",9,1
+1,"Graduate","Yes","Low","Medium",6,0
+3,"Not Graduate","No","Low","Medium",3,0
+4,"Graduate","No","Medium","Medium",2,1
+1,"Graduate","No","Medium","Medium",6,0
+2,"Not Graduate","No","Medium","High",8,1
+5,"Not Graduate","Yes","Medium","Medium",8,0
+0,"Graduate","Yes","Low","Low",3,1
+5,"Graduate","Yes","Max","Medium",10,1
+4,"Not Graduate","No","Max","Low",1,1
+5,"Not Graduate","No","Max","High",0,1
+2,"Not Graduate","Yes","High","High",7,1
+1,"Not Graduate","Yes","High","Low",12,0
+0,"Not Graduate","No","High","Max",8,0
+3,"Graduate","No","Low","High",6,0
+3,"Not Graduate","No","Medium","High",9,1
+2,"Not Graduate","No","Low","Max",9,1
+0,"Not Graduate","No","Max","Max",11,0
+5,"Graduate","Yes","Low","Medium",2,0
+5,"Not Graduate","No","Max","Low",3,0
+1,"Graduate","No","High","Medium",2,1
+2,"Not Graduate","No","Low","High",4,1
+0,"Not Graduate","No","Max","Medium",3,0
+0,"Not Graduate","Yes","Medium","High",5,0
+1,"Graduate","No","High","Max",2,1
+1,"Not Graduate","No","Low","High",10,0
+3,"Graduate","Yes","Low","High",6,1
+2,"Graduate","No","Low","Medium",1,0
+1,"Not Graduate","No","Medium","High",4,1
+1,"Graduate","Yes","Medium","Max",8,1
+4,"Graduate","Yes","Medium","Low",12,0
+0,"Graduate","Yes","Max","Low",9,1
+2,"Not Graduate","Yes","High","Max",10,0
+1,"Graduate","Yes","High","Max",7,1
+1,"Graduate","No","Medium","High",6,1
+3,"Graduate","No","Low","High",2,1
+3,"Not Graduate","Yes","Medium","Max",2,1
+3,"Not Graduate","No","Medium","Medium",12,0
+4,"Graduate","Yes","High","Medium",11,1
+4,"Not Graduate","Yes","Medium","Medium",10,0
+3,"Not Graduate","No","Medium","High",12,0
+3,"Graduate","Yes","Medium","Medium",12,0
+1,"Not Graduate","Yes","Max","Max",10,0
+4,"Not Graduate","No","High","Max",12,0
+1,"Not Graduate","No","Max","Low",12,0
+1,"Not Graduate","Yes","Low","Medium",6,1
+3,"Graduate","No","Low","Medium",3,1
+5,"Graduate","No","Medium","Low",1,1
+4,"Not Graduate","No","Medium","Max",7,1
+2,"Graduate","Yes","Low","High",12,0
+2,"Graduate","Yes","Max","High",11,1
+5,"Graduate","Yes","High","Max",0,1
+1,"Graduate","No","High","High",0,1
+1,"Graduate","Yes","Medium","Medium",10,1
+0,"Graduate","Yes","Max","Max",1,1
+2,"Graduate","No","Max","Low",11,1
+4,"Graduate","No","Low","Max",12,1
+5,"Graduate","No","Max","Max",1,0
+2,"Not Graduate","Yes","Medium","Medium",1,0
+4,"Graduate","No","High","Low",2,1
+0,"Graduate","Yes","Max","Max",2,1
+1,"Not Graduate","Yes","Medium","High",7,0
+3,"Graduate","No","Max","Low",5,0
+2,"Not Graduate","Yes","Low","High",4,1
+4,"Graduate","No","Low","Low",12,1
+5,"Graduate","Yes","Medium","Medium",4,1
+4,"Not Graduate","Yes","Medium","Low",1,1
+4,"Graduate","No","Max","Max",10,1
+3,"Graduate","No","Low","Max",8,0
+2,"Graduate","Yes","Medium","High",4,1
+2,"Graduate","No","High","Medium",10,0
+1,"Not Graduate","Yes","Low","Medium",7,1
+1,"Graduate","Yes","High","Low",2,0
+1,"Not Graduate","No","Medium","Medium",5,1
+1,"Not Graduate","No","High","Low",7,1
+1,"Not Graduate","No","Medium","Low",6,0
+2,"Graduate","Yes","Medium","High",12,1
+5,"Not Graduate","Yes","Low","Max",7,1
+0,"Graduate","Yes","Max","Medium",7,1
+0,"Graduate","Yes","Medium","Max",6,0
+5,"Not Graduate","Yes","Max","Medium",9,0
+0,"Graduate","No","High","Low",11,0
+0,"Not Graduate","No","Medium","High",5,0
+2,"Graduate","No","Medium","High",8,1
+0,"Not Graduate","No","Low","Low",9,0
+1,"Not Graduate","Yes","Max","Max",2,1
+2,"Graduate","Yes","High","Medium",7,1
+3,"Not Graduate","Yes","Medium","Medium",1,1
+3,"Graduate","No","Low","Low",0,1
+2,"Not Graduate","No","High","Low",6,1
+3,"Not Graduate","Yes","Medium","Medium",3,0
+1,"Not Graduate","Yes","Medium","High",7,0
+5,"Graduate","Yes","High","Medium",11,0
+5,"Not Graduate","Yes","Max","Low",9,1
+2,"Not Graduate","Yes","Max","Max",0,1
+3,"Graduate","Yes","Medium","Low",2,1
+2,"Graduate","Yes","High","Medium",2,1
+5,"Graduate","No","Max","High",11,0
+3,"Graduate","Yes","Medium","Low",10,1
+4,"Graduate","Yes","Medium","Max",5,1
+0,"Graduate","Yes","Max","Max",9,1
+4,"Not Graduate","No","Max","Medium",11,0
+3,"Not Graduate","No","Max","Medium",9,1
+4,"Not Graduate","Yes","Low","Max",1,1
+0,"Not Graduate","No","High","Max",4,0
+0,"Graduate","No","High","Low",4,1
+5,"Not Graduate","No","High","High",0,1
+0,"Graduate","Yes","Medium","Max",9,1
+1,"Not Graduate","Yes","Max","Max",7,1
+1,"Graduate","Yes","Max","Max",5,0
+3,"Not Graduate","No","Medium","Medium",5,1
+0,"Graduate","Yes","Low","Low",1,0
+5,"Not Graduate","No","Max","Medium",9,0
+1,"Graduate","No","Medium","Medium",0,0
+0,"Not Graduate","No","Low","Medium",1,0
+2,"Not Graduate","No","Max","Medium",1,0
+2,"Graduate","Yes","Medium","Max",8,1
+5,"Not Graduate","Yes","Max","Medium",8,1
+0,"Graduate","Yes","Medium","Low",5,1
+3,"Not Graduate","No","Low","Medium",1,1
+2,"Graduate","No","Medium","High",10,1
+5,"Not Graduate","No","Medium","High",4,0
+4,"Graduate","Yes","High","Low",11,1
+1,"Not Graduate","Yes","High","High",9,0
+5,"Not Graduate","Yes","Max","High",11,0
+3,"Graduate","No","Max","Medium",3,1
+1,"Graduate","No","Max","Medium",5,0
+5,"Not Graduate","No","High","Medium",7,0
+1,"Not Graduate","No","Max","Low",5,0
+0,"Graduate","Yes","Max","Low",3,0
+0,"Graduate","Yes","Low","Max",5,0
+2,"Not Graduate","Yes","Medium","Low",5,0
+4,"Not Graduate","No","Max","Low",10,0
+4,"Not Graduate","No","Max","Max",5,0
+0,"Not Graduate","No","Max","High",6,0
+3,"Graduate","No","Medium","Low",5,1
+1,"Not Graduate","No","Max","High",3,1
+2,"Not Graduate","No","Medium","Max",11,0
+2,"Not Graduate","No","High","High",2,1
+5,"Not Graduate","No","Medium","High",10,0
+1,"Not Graduate","Yes","Medium","High",8,0
+4,"Not Graduate","No","Medium","Medium",7,0
+3,"Not Graduate","Yes","Max","Medium",4,1
+0,"Graduate","No","Low","High",10,0
+3,"Not Graduate","Yes","Max","Low",1,0
+2,"Graduate","Yes","High","High",0,1
+4,"Not Graduate","Yes","High","Max",4,1
+4,"Not Graduate","No","Medium","Max",12,1
+3,"Graduate","Yes","Medium","Medium",4,1
+5,"Graduate","Yes","High","High",12,1
+4,"Not Graduate","Yes","Low","Max",7,1
+0,"Graduate","No","Medium","Low",7,0
+4,"Not Graduate","No","Medium","Medium",12,1
+3,"Not Graduate","Yes","Medium","Low",2,0
+4,"Not Graduate","No","High","Max",11,1
+4,"Not Graduate","No","High","Medium",6,1
+4,"Not Graduate","No","Medium","High",4,0
+2,"Not Graduate","No","Medium","High",0,1
+3,"Graduate","Yes","High","Low",11,0
+4,"Not Graduate","No","Low","Low",1,0
+4,"Not Graduate","Yes","Low","Low",6,1
+3,"Graduate","No","Medium","High",12,1
+3,"Graduate","Yes","Medium","Medium",6,1
+5,"Not Graduate","Yes","Max","Low",11,1
+5,"Graduate","No","Medium","Max",8,0
+2,"Graduate","Yes","Medium","Max",7,1
+5,"Graduate","Yes","Medium","Medium",6,1
+2,"Not Graduate","No","Medium","High",9,1
+3,"Not Graduate","No","Medium","Low",10,1
+0,"Graduate","Yes","Medium","Medium",4,0
+5,"Not Graduate","Yes","Low","Low",10,1
+3,"Not Graduate","No","High","Medium",5,0
+1,"Not Graduate","Yes","Max","Low",1,0
+5,"Not Graduate","Yes","High","Low",3,1
+1,"Not Graduate","No","Low","Medium",1,1
+3,"Graduate","No","Max","Max",9,1
+0,"Not Graduate","No","High","Medium",10,0
+0,"Graduate","No","Medium","High",8,1
+5,"Not Graduate","Yes","Medium","Medium",1,1
+1,"Graduate","Yes","High","High",0,0
+3,"Not Graduate","Yes","High","Max",3,0
+4,"Graduate","No","High","Medium",0,1
+2,"Not Graduate","Yes","Max","Max",3,0
+0,"Graduate","Yes","Low","Low",7,1
+2,"Graduate","Yes","Max","Low",10,0
+2,"Not Graduate","Yes","Low","Low",3,1
+1,"Graduate","No","Max","High",6,1
+3,"Graduate","Yes","Low","Medium",10,1
+0,"Not Graduate","No","Max","High",4,0
+2,"Graduate","No","High","High",11,0
+4,"Not Graduate","No","High","Medium",2,0
+4,"Not Graduate","Yes","Medium","Medium",7,0
+4,"Graduate","Yes","Max","Medium",6,1
+5,"Graduate","No","Medium","Low",10,0
+1,"Graduate","No","High","Max",1,0
+4,"Not Graduate","Yes","Low","Max",1,0
+4,"Not Graduate","Yes","Low","Medium",2,0
+0,"Graduate","No","Max","Max",9,1
+4,"Graduate","No","High","Max",2,0
+0,"Graduate","No","Medium","High",6,0
+1,"Not Graduate","Yes","Medium","Low",6,0
+0,"Not Graduate","Yes","Medium","High",6,0
+0,"Graduate","No","Max","High",11,1
+1,"Graduate","Yes","Low","Max",8,0
+3,"Graduate","Yes","Max","Medium",7,1
+5,"Not Graduate","Yes","Medium","Max",8,0
+4,"Not Graduate","Yes","Max","Low",4,1
+1,"Graduate","No","High","High",8,0
+1,"Graduate","No","Medium","Low",2,1
+1,"Graduate","Yes","Max","Max",3,1
+5,"Not Graduate","Yes","High","Medium",1,1
+5,"Not Graduate","Yes","High","Medium",8,1
+3,"Graduate","Yes","Low","High",6,1
+4,"Not Graduate","No","High","High",6,1
+1,"Graduate","No","Max","Low",12,1
+2,"Not Graduate","No","Low","High",12,0
+5,"Not Graduate","No","Low","Max",4,0
+0,"Not Graduate","No","Low","Medium",7,0
+5,"Not Graduate","Yes","Max","Max",2,0
+3,"Graduate","No","Low","Medium",3,1
+2,"Graduate","No","Max","High",3,0
+5,"Graduate","Yes","Low","High",9,0
+2,"Not Graduate","Yes","High","Low",6,0
+2,"Not Graduate","No","High","Medium",7,1
+5,"Graduate","No","High","Medium",10,0
+1,"Graduate","Yes","Max","Medium",3,1
+3,"Graduate","No","High","Max",8,0
+3,"Graduate","Yes","Low","Medium",5,0
+1,"Graduate","Yes","Medium","Max",7,0
+2,"Not Graduate","Yes","Low","Low",8,1
+0,"Not Graduate","No","Max","Low",4,1
+3,"Not Graduate","No","Medium","High",7,0
+0,"Graduate","Yes","High","Max",5,0
+0,"Graduate","No","Low","Max",9,0
+3,"Not Graduate","No","Medium","High",8,0
+2,"Not Graduate","No","Low","High",12,1
+4,"Graduate","No","Max","High",1,0
+1,"Graduate","Yes","High","High",1,1
+4,"Graduate","Yes","Low","High",2,1
+5,"Graduate","Yes","Medium","Low",8,0
+5,"Not Graduate","Yes","Max","Medium",11,1
+1,"Not Graduate","No","High","Low",6,0
+3,"Graduate","No","Low","Max",5,1
+1,"Not Graduate","No","Low","Medium",10,0
+1,"Not Graduate","Yes","Medium","Max",9,1
+3,"Graduate","No","High","Low",12,0
+3,"Not Graduate","No","Low","Max",2,1
+0,"Not Graduate","Yes","Medium","Low",3,1
+2,"Graduate","No","Max","Low",6,1
+0,"Graduate","Yes","Max","Medium",9,1
+2,"Graduate","Yes","Low","Max",10,1
+2,"Not Graduate","Yes","Max","Low",7,1
+5,"Not Graduate","Yes","High","Low",5,1
+2,"Not Graduate","No","Medium","High",4,1
+5,"Graduate","No","Medium","Low",6,1
+4,"Graduate","No","Medium","Low",5,0
+1,"Graduate","Yes","Medium","Max",10,0
+5,"Not Graduate","Yes","Low","Max",4,0
+0,"Not Graduate","Yes","High","Medium",6,0
+4,"Graduate","Yes","Low","Medium",8,0
+2,"Graduate","No","High","Low",10,1
+2,"Not Graduate","Yes","High","High",0,1
+5,"Not Graduate","No","High","High",0,0
+2,"Graduate","No","Low","Max",11,1
+2,"Graduate","Yes","Low","High",12,1
+5,"Not Graduate","No","Low","Max",0,1
+0,"Graduate","No","Low","High",0,1
+2,"Graduate","Yes","High","High",12,0
+2,"Graduate","No","High","Medium",2,1
+5,"Graduate","No","Low","High",0,1
+1,"Graduate","Yes","Low","Low",12,1
+4,"Not Graduate","No","High","High",0,1
+4,"Not Graduate","Yes","Low","Low",10,0
+1,"Not Graduate","Yes","Max","Max",10,1
+4,"Not Graduate","No","High","High",11,0
+1,"Not Graduate","Yes","Max","High",10,0
+2,"Graduate","No","High","High",1,0
+0,"Graduate","No","Low","Max",8,0
+2,"Graduate","Yes","Low","High",6,1
+5,"Graduate","No","Low","Medium",10,0
+5,"Graduate","No","Medium","Low",4,0
+2,"Graduate","No","Medium","Max",6,0
+4,"Graduate","Yes","High","Max",3,1
+4,"Graduate","No","Medium","Low",3,0
+1,"Graduate","Yes","High","Low",8,0
+3,"Not Graduate","Yes","Max","Low",0,0
+2,"Not Graduate","Yes","Medium","Low",12,1
+4,"Graduate","Yes","Max","Medium",5,1
+0,"Not Graduate","No","Low","Medium",10,0
+0,"Graduate","No","Low","Medium",10,1
+4,"Graduate","No","Medium","Medium",8,1
+2,"Not Graduate","No","Low","High",9,0
+1,"Graduate","Yes","Max","Low",0,1
+5,"Graduate","No","Medium","Max",11,0
+4,"Not Graduate","No","Medium","Medium",2,1
+5,"Not Graduate","No","Low","High",4,1
+3,"Graduate","No","Max","High",7,0
+0,"Not Graduate","Yes","High","Max",7,0
+4,"Graduate","No","Medium","Medium",9,1
+4,"Graduate","No","High","Medium",7,0
+0,"Not Graduate","Yes","Low","High",10,1
+0,"Graduate","No","Low","Max",8,1
+4,"Graduate","Yes","Medium","High",3,0
+5,"Graduate","Yes","Medium","High",3,1
+5,"Not Graduate","Yes","Max","High",2,1
+5,"Not Graduate","Yes","Max","High",1,0
+3,"Graduate","No","Low","Low",2,0
+5,"Not Graduate","Yes","Low","High",0,0
+5,"Not Graduate","Yes","High","High",6,1
+5,"Graduate","No","Max","Low",12,1
+4,"Graduate","No","High","Low",10,0
+5,"Not Graduate","Yes","Low","Max",4,0
+3,"Graduate","Yes","Medium","Max",4,1
+4,"Not Graduate","Yes","Medium","Max",9,1
+4,"Not Graduate","Yes","Low","Low",7,1
+5,"Not Graduate","Yes","Max","Max",12,1
+0,"Graduate","No","Low","Low",2,1
+1,"Not Graduate","No","Max","High",8,1
+5,"Graduate","No","Max","High",8,1
+4,"Not Graduate","No","Low","High",9,0
+0,"Not Graduate","No","Low","High",5,1
+4,"Not Graduate","No","Medium","Max",1,0
+3,"Graduate","Yes","Max","Medium",6,1
+5,"Graduate","Yes","Max","Low",6,1
+2,"Not Graduate","No","Medium","Low",5,1
+3,"Not Graduate","No","Max","Low",3,0
+2,"Not Graduate","Yes","Medium","Medium",10,1
+0,"Graduate","Yes","Max","High",4,0
+0,"Not Graduate","Yes","High","Max",4,0
+0,"Not Graduate","Yes","Low","Low",7,1
+4,"Graduate","No","High","High",2,0
+5,"Graduate","No","High","Medium",0,1
+5,"Not Graduate","Yes","High","Max",3,0
+5,"Graduate","Yes","High","Low",7,1
+0,"Graduate","No","High","Medium",11,1
+3,"Graduate","No","Low","Low",3,1
+4,"Not Graduate","No","Low","Medium",11,0
+1,"Not Graduate","No","Low","Max",10,0
+0,"Graduate","No","Low","High",11,1
+3,"Graduate","Yes","High","Max",12,1
+4,"Graduate","Yes","Max","Max",5,0
+5,"Not Graduate","Yes","Medium","Max",4,0
+2,"Graduate","Yes","Medium","Low",1,0
+0,"Not Graduate","Yes","Low","Max",11,0
+5,"Not Graduate","Yes","Max","Max",0,0
+3,"Graduate","Yes","Medium","Max",2,0
+3,"Not Graduate","No","Low","Medium",4,1
+0,"Graduate","Yes","High","Medium",12,0
+5,"Not Graduate","No","Low","Low",1,1
+5,"Not Graduate","Yes","Low","Low",8,1
+0,"Not Graduate","No","Max","Max",8,1
+2,"Graduate","Yes","High","High",11,1
+3,"Graduate","No","Low","High",2,1
+4,"Not Graduate","Yes","High","Medium",10,1
+5,"Graduate","Yes","High","Low",1,0
+0,"Graduate","No","Medium","Medium",4,0
+0,"Not Graduate","Yes","High","High",2,0
+4,"Not Graduate","No","High","High",11,1
+2,"Not Graduate","Yes","Max","Low",11,1
+3,"Graduate","No","Medium","Medium",7,0
+2,"Not Graduate","Yes","High","Medium",4,1
+5,"Not Graduate","No","Max","High",10,1
+1,"Graduate","Yes","Max","Max",5,0
+1,"Not Graduate","No","Max","Low",12,0
+3,"Not Graduate","No","High","Medium",1,1
+2,"Not Graduate","No","Max","Low",12,1
+1,"Not Graduate","Yes","High","High",0,1
+3,"Graduate","No","Low","Low",4,0
+3,"Graduate","No","Medium","Medium",3,0
+4,"Graduate","No","Medium","High",1,1
+4,"Not Graduate","No","Max","Max",7,0
+0,"Graduate","No","Medium","Max",2,1
+4,"Graduate","Yes","Medium","Max",6,0
+2,"Graduate","Yes","Medium","Low",12,1
+5,"Graduate","No","Low","Low",6,0
+1,"Graduate","No","Medium","Low",12,1
+0,"Not Graduate","No","Max","High",9,0
+0,"Graduate","No","Max","Max",10,0
+2,"Not Graduate","No","High","High",2,1
+1,"Not Graduate","No","High","Max",7,0
+1,"Not Graduate","No","Max","Max",10,1
+5,"Graduate","Yes","Medium","Max",9,0
+2,"Not Graduate","No","Medium","High",9,1
+4,"Not Graduate","No","High","High",8,0
+4,"Graduate","Yes","Low","Max",6,0
+4,"Graduate","No","High","Medium",10,0
+5,"Not Graduate","No","High","Medium",12,1
+3,"Not Graduate","Yes","Medium","High",5,1
+0,"Graduate","No","Max","Max",10,1
+5,"Not Graduate","Yes","Medium","Low",11,1
+5,"Not Graduate","Yes","Max","Max",1,1
+1,"Not Graduate","No","High","Low",4,1
+3,"Graduate","No","Medium","Medium",0,0
+4,"Not Graduate","No","Max","Low",12,1
+1,"Not Graduate","No","Low","Medium",3,1
+3,"Not Graduate","No","Medium","High",4,1
+0,"Graduate","Yes","High","Medium",9,0
+4,"Not Graduate","Yes","Max","Low",11,0
+5,"Graduate","No","Max","High",4,1
+3,"Not Graduate","Yes","Low","Medium",6,0
+4,"Graduate","Yes","Medium","Medium",6,0
+1,"Not Graduate","Yes","Max","Medium",10,1
+5,"Not Graduate","Yes","Medium","Max",9,0
+4,"Graduate","No","Max","Max",10,0
+5,"Graduate","No","Max","Low",10,1
+3,"Not Graduate","No","Max","Max",9,0
+0,"Graduate","No","Low","Low",6,1
+1,"Not Graduate","No","High","Low",2,1
+5,"Graduate","Yes","Max","Medium",7,1
+1,"Graduate","Yes","High","Medium",7,0
+1,"Not Graduate","Yes","Low","Medium",8,0
+5,"Not Graduate","Yes","Low","Max",6,0
+4,"Graduate","Yes","High","Max",1,0
+4,"Graduate","No","Low","Max",10,0
+2,"Not Graduate","No","High","Medium",1,1
+1,"Graduate","No","High","Max",7,1
+5,"Graduate","No","Low","Low",8,0
+5,"Graduate","Yes","Medium","High",6,1
+1,"Graduate","Yes","Low","Low",10,1
+2,"Graduate","No","Low","Max",6,0
+5,"Graduate","Yes","Max","High",7,0
+2,"Graduate","No","Low","Max",11,0
+2,"Not Graduate","No","Medium","High",11,1
+3,"Not Graduate","No","Max","Max",8,1
+0,"Not Graduate","No","High","Low",4,0
+4,"Not Graduate","Yes","Low","High",5,0
+5,"Not Graduate","Yes","Low","High",5,0
+1,"Not Graduate","Yes","Max","Max",0,1
+0,"Not Graduate","No","Max","High",9,0
+0,"Not Graduate","No","Max","Medium",12,1
+0,"Not Graduate","Yes","Low","Low",9,1
+5,"Not Graduate","Yes","Medium","Low",12,0
+4,"Not Graduate","Yes","Medium","High",1,1
+0,"Graduate","Yes","High","Medium",10,0
+5,"Not Graduate","No","Low","High",10,0
+1,"Graduate","Yes","Max","High",2,1
+3,"Not Graduate","Yes","Max","High",9,1
+1,"Graduate","No","High","Max",10,0
+4,"Graduate","Yes","Low","High",10,1
+1,"Not Graduate","No","Low","Medium",7,0
+1,"Graduate","Yes","Low","Medium",0,1
+4,"Not Graduate","Yes","Low","High",0,1
+3,"Not Graduate","Yes","Max","Medium",6,1
+2,"Graduate","No","Low","Medium",8,0
+5,"Not Graduate","No","Medium","Max",11,1
+4,"Not Graduate","No","Low","Max",2,1
+5,"Not Graduate","No","Medium","Max",0,1
+2,"Not Graduate","No","Max","Medium",7,0
+3,"Not Graduate","No","Low","Medium",1,1
+0,"Not Graduate","Yes","High","Medium",11,1
+5,"Not Graduate","Yes","Max","Max",11,0
+3,"Graduate","Yes","Max","High",1,1
+5,"Graduate","No","Max","Low",6,1
+1,"Graduate","Yes","High","Max",11,0
+0,"Not Graduate","No","Low","Low",9,0
+5,"Not Graduate","Yes","Medium","Medium",12,1
+4,"Not Graduate","Yes","Medium","Max",8,1
+2,"Graduate","No","Max","Medium",11,0
+3,"Graduate","Yes","High","High",10,1
+3,"Not Graduate","No","High","High",9,1
+0,"Graduate","Yes","Low","Low",8,0
+3,"Graduate","Yes","Low","High",5,0
+3,"Graduate","Yes","High","High",5,0
+2,"Not Graduate","No","Medium","Medium",8,0
+0,"Graduate","No","Medium","High",1,1
+4,"Graduate","No","Low","Low",1,1
+3,"Not Graduate","Yes","High","Max",7,1
+5,"Graduate","No","Medium","Max",1,0
+2,"Graduate","Yes","High","Max",7,0
+3,"Not Graduate","No","Medium","Max",8,0
+3,"Graduate","Yes","Medium","Medium",12,0
+3,"Graduate","No","Low","Medium",7,1
+2,"Not Graduate","Yes","High","Max",3,0
+2,"Graduate","No","Low","Max",5,1
+2,"Not Graduate","No","Medium","Medium",3,0
+3,"Graduate","No","Medium","Low",8,0
+5,"Graduate","Yes","High","Medium",12,0
+2,"Graduate","No","High","Low",4,0
+2,"Graduate","No","Max","High",12,1
+1,"Not Graduate","Yes","Max","High",6,0
+3,"Graduate","Yes","Max","Low",5,1
+5,"Not Graduate","No","Max","Max",5,0
+3,"Graduate","No","Medium","Medium",3,1
+1,"Not Graduate","No","Low","High",4,1
+5,"Graduate","No","Medium","Max",11,1
+3,"Not Graduate","No","Max","Max",8,0
+4,"Graduate","Yes","Medium","Low",5,1
+3,"Graduate","No","Medium","Medium",10,0
+0,"Graduate","Yes","Low","High",1,1
+4,"Graduate","Yes","Low","Low",5,0
+2,"Not Graduate","No","High","Low",5,0
+2,"Graduate","No","High","Medium",5,1
+0,"Graduate","Yes","High","High",11,0
+0,"Not Graduate","Yes","Low","Max",1,0
+2,"Not Graduate","No","Low","Medium",12,1
+3,"Not Graduate","No","Medium","Medium",6,0
+3,"Graduate","Yes","Low","High",10,0
+2,"Graduate","Yes","Max","Max",7,0
+4,"Not Graduate","No","High","Max",11,1
+0,"Not Graduate","Yes","High","Low",2,1
+4,"Not Graduate","No","Max","Medium",3,1
+0,"Not Graduate","Yes","Medium","Medium",0,0
+0,"Not Graduate","Yes","Max","Max",8,1
+3,"Not Graduate","Yes","Medium","High",0,1
+5,"Graduate","No","Low","Max",5,0
+2,"Graduate","Yes","Low","High",4,0
+3,"Not Graduate","No","Medium","High",12,0
+2,"Graduate","No","High","Medium",11,0
+0,"Graduate","No","High","High",9,0
+1,"Not Graduate","Yes","High","Low",7,0
+5,"Not Graduate","Yes","Low","Medium",9,0
+2,"Not Graduate","Yes","Low","High",12,1
+2,"Graduate","Yes","High","High",0,1
+5,"Graduate","No","Medium","High",6,1
+0,"Not Graduate","Yes","Max","Medium",1,0
+0,"Graduate","No","High","Max",12,1
+0,"Graduate","Yes","Low","Low",4,0
+0,"Graduate","No","Low","Max",4,1
+1,"Not Graduate","No","Low","Low",11,0
+1,"Graduate","Yes","High","Max",4,1
+5,"Graduate","Yes","Medium","Low",4,1
+0,"Graduate","Yes","Low","Max",6,0
+1,"Graduate","No","Low","High",3,1
+3,"Graduate","Yes","High","Medium",12,0
+0,"Not Graduate","No","Low","Max",11,1
+2,"Graduate","No","Max","Low",3,0
+2,"Not Graduate","Yes","High","Max",8,0
+4,"Not Graduate","No","Max","High",12,0
+5,"Graduate","Yes","Max","High",6,1
+5,"Not Graduate","Yes","High","Max",1,0
+1,"Graduate","Yes","High","Max",2,1
+3,"Not Graduate","Yes","Max","Max",12,0
+3,"Not Graduate","Yes","Max","Max",10,1
+1,"Graduate","No","Medium","Medium",1,1
+0,"Not Graduate","No","Max","Medium",10,0
+1,"Graduate","No","High","Low",3,0
+4,"Not Graduate","Yes","High","High",1,1
+1,"Not Graduate","No","Max","Max",12,0
+4,"Graduate","Yes","Low","Max",0,1
+5,"Not Graduate","No","Low","Low",3,1
+0,"Not Graduate","Yes","Max","High",0,0
+2,"Not Graduate","No","High","Medium",5,0
+5,"Not Graduate","No","Medium","Max",2,0
+3,"Not Graduate","Yes","Medium","Low",0,0
+0,"Graduate","Yes","Medium","Low",2,1
+0,"Not Graduate","No","Medium","High",0,1
+3,"Graduate","No","High","Low",6,1
+4,"Graduate","No","Max","Low",7,1
+1,"Graduate","No","High","High",9,1
+0,"Graduate","No","Low","High",5,0
+0,"Not Graduate","No","High","High",8,1
+1,"Graduate","No","Low","Max",1,1
+3,"Not Graduate","No","Medium","Low",5,0
+2,"Graduate","No","Low","Max",8,0
+2,"Graduate","Yes","Medium","Low",1,0
+5,"Graduate","No","Low","High",5,0
+0,"Not Graduate","No","Low","Low",9,0
+1,"Graduate","No","High","Max",4,1
+4,"Not Graduate","Yes","High","Medium",12,1
+2,"Not Graduate","No","Max","Low",11,0
+1,"Not Graduate","Yes","Low","Max",4,0
+2,"Not Graduate","No","Max","High",10,0
+2,"Not Graduate","No","Max","High",9,1
+1,"Not Graduate","Yes","Max","Low",10,1
+2,"Not Graduate","Yes","Low","High",3,1
+3,"Not Graduate","No","Max","Max",2,1
+2,"Graduate","Yes","Max","Medium",12,0
+2,"Not Graduate","Yes","Medium","Low",9,1
+1,"Graduate","No","High","Medium",11,1
+4,"Graduate","Yes","Max","Medium",10,1
+4,"Graduate","Yes","Max","High",4,1
+3,"Graduate","No","Low","High",2,0
+3,"Not Graduate","Yes","Low","Low",2,1
+5,"Not Graduate","No","High","Max",11,1
+5,"Graduate","No","Medium","High",6,0
+2,"Graduate","Yes","Low","Low",6,1
+0,"Graduate","Yes","Max","Medium",5,0
+4,"Not Graduate","Yes","Low","High",11,1
+4,"Not Graduate","Yes","High","Medium",1,1
+4,"Not Graduate","No","Medium","Medium",10,0
+4,"Graduate","No","Max","Low",12,0
+2,"Not Graduate","No","Low","Max",12,0
+3,"Graduate","No","Medium","High",4,1
+5,"Graduate","Yes","Low","High",10,1
+5,"Not Graduate","No","Low","Medium",2,1
+0,"Graduate","Yes","Low","Max",0,1
+4,"Not Graduate","No","Max","High",11,1
+1,"Not Graduate","Yes","Low","Low",2,0
+0,"Graduate","No","Max","High",11,0
+4,"Graduate","Yes","Max","Low",1,1
+2,"Graduate","No","Medium","Low",2,0
+5,"Not Graduate","Yes","Max","Max",4,0
+0,"Not Graduate","No","Max","Max",5,0
+1,"Not Graduate","Yes","Max","Max",9,0
+1,"Graduate","Yes","High","Medium",9,1
+1,"Not Graduate","No","Low","Max",2,1
+4,"Graduate","No","Low","Medium",8,0
+5,"Not Graduate","No","High","Max",4,0
+4,"Not Graduate","Yes","Max","Medium",0,0
+3,"Not Graduate","No","Max","Medium",3,1
+2,"Graduate","Yes","Low","Max",3,1
+2,"Not Graduate","No","Low","High",11,1
+0,"Graduate","Yes","Medium","Medium",8,0
+5,"Graduate","Yes","Max","Medium",7,0
+2,"Not Graduate","No","Max","Max",8,1
+5,"Not Graduate","Yes","Medium","High",6,1
+2,"Not Graduate","No","High","Low",3,1
+0,"Graduate","No","Low","High",12,1
+3,"Graduate","No","High","Medium",1,1
+3,"Graduate","Yes","Max","High",0,0
+5,"Graduate","No","High","Medium",0,0
+2,"Not Graduate","Yes","Low","Max",11,1
+2,"Not Graduate","Yes","Medium","Medium",7,1
+2,"Graduate","No","Medium","Max",11,0
+0,"Graduate","No","Medium","Medium",6,0
+4,"Graduate","No","Low","Low",3,1
+5,"Not Graduate","Yes","Max","Low",6,0
+3,"Not Graduate","Yes","High","Max",3,1
+2,"Graduate","No","Low","Low",0,0
+4,"Graduate","Yes","High","Low",3,0
+0,"Not Graduate","No","Medium","Medium",11,1
+5,"Graduate","Yes","High","Low",4,1
+4,"Graduate","No","High","Low",10,0
+0,"Not Graduate","Yes","Medium","Max",12,0
+5,"Not Graduate","No","High","Medium",5,0
+0,"Graduate","Yes","Medium","Medium",5,1
+2,"Not Graduate","No","Low","High",0,1
+4,"Not Graduate","Yes","High","Max",10,0
+5,"Graduate","No","Max","Medium",3,0
+5,"Graduate","Yes","Medium","High",0,0
+4,"Graduate","No","Low","High",10,1
+2,"Not Graduate","Yes","Medium","Max",0,0
+5,"Graduate","No","Low","Max",11,1
+5,"Not Graduate","No","Max","Low",9,0
+4,"Graduate","Yes","Max","Max",5,0
+5,"Not Graduate","Yes","High","Low",2,0
+3,"Not Graduate","No","High","High",1,1
+3,"Graduate","No","Max","High",5,0
+3,"Graduate","Yes","Max","Low",9,0
+2,"Graduate","No","Medium","High",6,0
+3,"Graduate","No","Low","Medium",8,1
+4,"Not Graduate","Yes","Low","High",5,0
+3,"Graduate","Yes","High","Low",2,1
+5,"Graduate","Yes","Medium","High",1,0
+1,"Graduate","No","High","Low",12,1
+3,"Not Graduate","No","Max","Medium",12,0
+2,"Graduate","Yes","Medium","High",10,1
+0,"Graduate","No","Max","Medium",11,1
+2,"Graduate","Yes","Low","Low",4,0
+4,"Graduate","No","Medium","Medium",8,0
+4,"Graduate","Yes","Max","High",2,0
+1,"Not Graduate","Yes","Low","Medium",6,1
+2,"Graduate","Yes","Medium","Medium",12,0
+2,"Graduate","Yes","Low","High",7,0
+0,"Graduate","No","Low","High",0,1
+1,"Graduate","No","Max","High",1,1
+3,"Graduate","No","Low","High",5,1
+5,"Not Graduate","No","Medium","High",10,0
+2,"Graduate","No","Max","Max",4,1
+3,"Graduate","No","Max","Max",3,0
+1,"Not Graduate","No","Medium","High",11,1
+3,"Graduate","No","High","High",4,0
+3,"Graduate","No","Low","Max",3,1
+1,"Not Graduate","No","Max","High",10,1
+0,"Not Graduate","Yes","Low","High",12,0
+0,"Not Graduate","No","High","Max",6,0
+4,"Graduate","Yes","Max","Low",1,1
+0,"Graduate","Yes","High","Low",6,1
+4,"Graduate","No","High","Low",6,0
+3,"Graduate","Yes","High","Max",2,0
+0,"Graduate","No","Max","Low",8,1
+0,"Not Graduate","Yes","High","Medium",12,1
+2,"Not Graduate","No","Max","Max",10,0
+4,"Graduate","Yes","Medium","Low",6,1
+4,"Graduate","No","Medium","Low",2,1
+0,"Graduate","Yes","Low","Max",4,1
+5,"Graduate","No","Max","High",11,1
+0,"Not Graduate","Yes","Medium","Medium",0,1
+2,"Graduate","No","Max","Medium",11,0
+0,"Not Graduate","No","Medium","High",5,0
+0,"Graduate","Yes","Medium","Medium",7,0
+2,"Graduate","No","High","Low",7,1
+2,"Graduate","Yes","Max","Max",8,1
+5,"Not Graduate","Yes","High","Max",1,0
+1,"Graduate","No","Max","High",8,1
+0,"Graduate","No","High","High",7,0
+4,"Graduate","Yes","Low","Max",11,1
+3,"Graduate","Yes","Medium","Medium",12,1
+4,"Not Graduate","No","High","High",10,1
+1,"Graduate","Yes","Medium","Medium",9,0
+4,"Graduate","No","High","Low",7,1
+0,"Not Graduate","Yes","High","Medium",4,0
+5,"Not Graduate","Yes","Low","Low",3,1
+2,"Graduate","Yes","Low","High",10,1
+5,"Graduate","Yes","Low","High",7,0
+0,"Graduate","No","High","Max",10,0
+5,"Graduate","No","Low","Max",3,1
+0,"Not Graduate","Yes","Medium","Medium",12,1
+5,"Graduate","Yes","High","Medium",11,0
+5,"Not Graduate","No","Max","Max",4,1
+4,"Graduate","No","Low","Max",4,0
+1,"Not Graduate","No","Medium","Medium",7,1
+0,"Not Graduate","Yes","Low","Max",8,1
+1,"Graduate","No","Low","Medium",1,0
+2,"Graduate","Yes","High","Max",5,1
+0,"Not Graduate","No","Low","Low",1,0
+4,"Not Graduate","Yes","Max","Low",0,1
+1,"Not Graduate","No","Medium","High",7,0
+5,"Not Graduate","No","Medium","Max",7,0
+1,"Not Graduate","No","High","Low",7,0
+0,"Not Graduate","No","Medium","Max",8,0
+2,"Graduate","Yes","Low","High",8,0
+0,"Not Graduate","No","Max","High",11,0
+5,"Graduate","No","Medium","Low",4,1
+5,"Not Graduate","No","Low","High",8,1
+5,"Graduate","No","Medium","Max",1,1
+3,"Graduate","Yes","High","Max",1,0
+5,"Not Graduate","Yes","Low","Medium",9,1
+0,"Graduate","No","Low","High",0,0
+3,"Not Graduate","No","Medium","Medium",3,0
+5,"Not Graduate","No","Low","Medium",2,0
+1,"Graduate","No","Max","Medium",9,1
+2,"Not Graduate","Yes","Medium","High",2,1
+5,"Graduate","Yes","Max","Max",1,0
+5,"Not Graduate","No","High","Max",6,1
+2,"Not Graduate","No","Low","Medium",2,0
+4,"Graduate","No","Max","Max",11,1
+0,"Graduate","No","Low","Max",0,1
+2,"Graduate","Yes","High","Max",6,1
+0,"Graduate","Yes","Max","Max",4,0
+3,"Not Graduate","Yes","High","Max",0,1
+5,"Graduate","No","Medium","Medium",11,0
+5,"Not Graduate","Yes","Max","High",10,1
+2,"Not Graduate","Yes","Low","Max",7,0
+0,"Not Graduate","No","Medium","High",0,0
+2,"Not Graduate","Yes","High","High",12,0
+0,"Graduate","Yes","Max","Low",3,1
+5,"Graduate","No","Medium","Max",7,1
+2,"Graduate","Yes","High","Medium",6,0
+3,"Not Graduate","No","High","Low",12,1
+0,"Graduate","No","Medium","Low",9,1
+0,"Graduate","No","Low","High",3,0
+5,"Not Graduate","No","Low","Low",8,0
+1,"Not Graduate","Yes","Medium","Low",9,1
+4,"Not Graduate","No","High","Medium",7,1
+1,"Graduate","No","High","Medium",3,1
+4,"Not Graduate","No","High","High",11,1
+2,"Graduate","No","High","Medium",3,0
+1,"Not Graduate","No","Medium","High",1,0
+3,"Graduate","Yes","High","High",10,1
+4,"Graduate","No","Max","Medium",7,0
+5,"Not Graduate","No","Max","Medium",1,1
+0,"Not Graduate","No","Medium","Max",5,0
+4,"Not Graduate","No","High","High",4,1
+0,"Graduate","No","Low","Max",1,1
+0,"Not Graduate","No","Max","Low",3,1
+1,"Graduate","No","Low","Medium",8,0
+1,"Graduate","Yes","Low","Medium",0,1
+0,"Not Graduate","No","Medium","Max",1,0
+2,"Graduate","Yes","Max","Low",10,0
+0,"Not Graduate","No","Medium","Max",2,1
+1,"Not Graduate","Yes","Medium","Low",3,1
+2,"Graduate","Yes","Medium","Max",7,0
+0,"Not Graduate","No","Max","Medium",8,0
+0,"Not Graduate","Yes","High","Medium",0,1
+5,"Graduate","No","Medium","Max",10,0
+5,"Graduate","No","Medium","Low",12,0
+1,"Graduate","No","High","High",7,0
+5,"Not Graduate","No","Low","Low",0,1
+3,"Not Graduate","No","High","High",12,1
+4,"Graduate","Yes","Low","Low",1,1
+0,"Not Graduate","No","High","Medium",2,0
+4,"Graduate","Yes","Max","Low",6,0
+1,"Not Graduate","No","High","Medium",2,1
+0,"Graduate","Yes","Low","Medium",11,0
+3,"Graduate","No","High","Medium",4,1
+5,"Graduate","No","High","Low",2,1
+3,"Not Graduate","No","Low","Low",6,1
+2,"Not Graduate","No","Low","Max",5,1
+1,"Graduate","No","Max","Low",12,1
+3,"Not Graduate","No","High","Max",6,0
+2,"Not Graduate","No","Medium","Max",8,0
+2,"Not Graduate","Yes","High","High",12,0
+5,"Graduate","Yes","Medium","High",9,1
+1,"Not Graduate","No","High","High",3,1
+0,"Graduate","Yes","Low","Max",2,0
+5,"Graduate","No","Medium","Max",7,1
+5,"Not Graduate","No","Low","Low",4,0
+5,"Graduate","No","Medium","Medium",12,0
+3,"Graduate","No","Max","Max",9,1
+4,"Graduate","No","Max","Max",12,1
+4,"Graduate","No","High","High",4,0
+4,"Not Graduate","No","Medium","High",10,0
+4,"Not Graduate","Yes","High","Max",3,1
+5,"Not Graduate","Yes","Low","Max",5,0
+1,"Graduate","Yes","Low","Low",3,1
+5,"Graduate","No","Low","Max",7,1
+1,"Not Graduate","Yes","High","Max",0,1
+5,"Not Graduate","No","Medium","Low",11,0
+5,"Graduate","No","Low","Medium",10,1
+4,"Not Graduate","Yes","High","High",10,0
+2,"Graduate","No","Low","Medium",4,1
+0,"Graduate","No","High","High",10,1
+1,"Not Graduate","Yes","High","Medium",6,1
+1,"Not Graduate","Yes","Low","Max",11,1
+4,"Graduate","No","Max","Max",5,1
+4,"Graduate","No","Low","Max",12,0
+0,"Not Graduate","No","Medium","High",3,1
+0,"Graduate","No","Max","High",11,0
+1,"Graduate","Yes","Max","Medium",11,0
+1,"Not Graduate","Yes","Medium","High",8,0
+1,"Graduate","No","Low","Low",12,1
+2,"Graduate","Yes","Max","Low",7,1
+5,"Graduate","Yes","High","Max",8,0
+2,"Graduate","Yes","High","Medium",10,0
+4,"Not Graduate","No","Max","Medium",0,0
+0,"Not Graduate","No","Medium","Low",9,1
+5,"Graduate","Yes","High","Medium",4,1
+2,"Graduate","No","Max","Max",5,0
+1,"Graduate","Yes","Medium","Max",7,1
+4,"Not Graduate","Yes","Max","Max",11,0
+0,"Not Graduate","Yes","Low","Max",2,0
+5,"Not Graduate","Yes","Medium","High",12,0
+2,"Not Graduate","No","Medium","Low",0,0
+1,"Graduate","Yes","Medium","Max",1,0
+3,"Graduate","No","Max","Low",4,0
+0,"Graduate","No","Max","Medium",9,1
+0,"Graduate","No","High","Max",4,1
+2,"Graduate","No","Medium","Low",5,1
+1,"Graduate","No","Medium","Medium",9,0
+0,"Not Graduate","Yes","Max","Medium",11,1
+5,"Not Graduate","No","Medium","Medium",11,0
+1,"Not Graduate","Yes","High","High",10,1
+2,"Graduate","No","High","Max",1,1
+1,"Not Graduate","Yes","Medium","Low",8,0
+5,"Not Graduate","Yes","Low","Low",4,1
+5,"Not Graduate","Yes","Low","High",7,0
+5,"Not Graduate","No","Low","Low",3,1
+3,"Graduate","Yes","Max","High",5,0
+3,"Not Graduate","No","High","Max",0,0
+1,"Graduate","Yes","High","Low",6,1
+0,"Not Graduate","No","High","High",0,1
+1,"Graduate","Yes","Max","Medium",5,1
+2,"Graduate","Yes","High","Max",8,1
+3,"Graduate","No","Max","Max",10,1
+4,"Not Graduate","Yes","Max","High",1,1
+2,"Graduate","Yes","Medium","Low",6,0
+2,"Graduate","Yes","Medium","Max",6,0
+1,"Graduate","Yes","Max","Low",12,1
+2,"Not Graduate","No","High","Low",1,1
+3,"Not Graduate","No","High","Low",4,1
+0,"Graduate","No","Low","Medium",7,0
+2,"Graduate","Yes","High","Low",3,0
+1,"Graduate","Yes","Low","Medium",6,1
+0,"Graduate","Yes","High","Max",9,1
+4,"Graduate","Yes","Low","Max",3,1
+3,"Graduate","No","Max","Medium",6,1
+5,"Graduate","No","Max","Max",4,0
+4,"Graduate","Yes","Medium","Low",8,0
+1,"Graduate","Yes","Low","Medium",9,0
+5,"Graduate","No","Medium","Medium",11,1
+1,"Not Graduate","No","Low","Max",10,1
+0,"Not Graduate","No","High","Low",4,0
+2,"Graduate","Yes","Low","Medium",11,1
+5,"Graduate","No","Medium","High",12,0
+2,"Not Graduate","Yes","Max","High",4,0
+4,"Not Graduate","Yes","Low","Max",6,0
+2,"Not Graduate","No","Max","Low",3,1
+5,"Not Graduate","Yes","Low","Low",0,0
+2,"Graduate","Yes","Low","Medium",12,0
+3,"Not Graduate","No","Low","Max",3,1
+2,"Graduate","No","Max","Low",8,0
+2,"Graduate","Yes","Medium","Max",4,1
+0,"Graduate","Yes","Max","High",6,0
+0,"Not Graduate","Yes","Medium","Medium",8,1
+3,"Graduate","No","High","Max",12,1
+3,"Graduate","Yes","Low","Medium",8,1
+5,"Not Graduate","Yes","High","Max",1,1
+4,"Graduate","No","Medium","Medium",10,1
+3,"Not Graduate","Yes","High","Low",8,1
+0,"Not Graduate","No","High","High",6,1
+2,"Not Graduate","Yes","Low","Low",0,1
+2,"Not Graduate","Yes","Medium","High",0,0
+5,"Not Graduate","No","Medium","Low",12,1
+4,"Graduate","Yes","Low","Medium",7,1
+0,"Not Graduate","No","High","Medium",12,1
+2,"Not Graduate","No","Medium","Low",11,0
+0,"Graduate","Yes","Medium","Low",5,0
+5,"Graduate","Yes","Low","Max",9,1
+2,"Not Graduate","No","Low","High",3,1
+3,"Graduate","No","Low","Medium",6,0
+5,"Not Graduate","Yes","Medium","Low",2,0
+4,"Not Graduate","Yes","High","Max",5,1
+1,"Graduate","No","High","Medium",8,0
+5,"Not Graduate","Yes","Low","High",6,0
+4,"Not Graduate","Yes","Max","Low",9,0
+4,"Graduate","No","Low","Max",11,1
+3,"Not Graduate","Yes","Max","High",6,0
+2,"Graduate","No","Max","Max",0,0
+3,"Not Graduate","No","Max","High",0,0
+1,"Not Graduate","No","Low","Max",0,0
+4,"Graduate","Yes","High","Low",7,0
+3,"Not Graduate","Yes","Medium","High",2,1
+3,"Not Graduate","No","Max","Max",3,0
+4,"Not Graduate","No","Max","Max",1,0
+3,"Not Graduate","Yes","Max","Low",10,1
+2,"Graduate","Yes","High","High",10,1
+0,"Graduate","No","Max","High",5,0
+3,"Not Graduate","No","Low","High",8,0
+1,"Not Graduate","No","Medium","Low",6,0
+4,"Graduate","Yes","Medium","Low",9,1
+2,"Graduate","Yes","Low","Max",6,1
+4,"Graduate","Yes","High","Medium",6,0
+5,"Graduate","Yes","Low","Medium",3,0
+4,"Graduate","Yes","Low","Max",10,0
+3,"Graduate","No","Medium","Low",2,1
+2,"Graduate","No","Medium","Low",7,0
+2,"Not Graduate","No","Medium","Max",8,0
+5,"Not Graduate","Yes","Medium","Medium",7,0
+1,"Not Graduate","Yes","Medium","High",12,1
+3,"Not Graduate","No","Low","High",4,1
+4,"Not Graduate","Yes","High","Low",9,0
+5,"Graduate","No","Max","Medium",2,0
+1,"Graduate","No","High","High",11,1
+1,"Not Graduate","Yes","High","Max",0,1
+5,"Not Graduate","Yes","Medium","Medium",4,1
+2,"Graduate","No","Low","Medium",3,0
+2,"Not Graduate","No","Medium","Max",5,0
+4,"Graduate","No","High","Low",9,0
+5,"Not Graduate","Yes","Max","Medium",11,1
+0,"Not Graduate","No","High","Medium",3,1
+5,"Not Graduate","No","Low","Low",8,1
+4,"Not Graduate","No","Low","Max",0,0
+1,"Graduate","No","Max","Low",1,0
+2,"Graduate","No","Low","Low",0,1
+2,"Graduate","Yes","Low","Medium",12,0
+3,"Graduate","Yes","High","Medium",12,0
+4,"Not Graduate","Yes","Low","Low",1,0
+0,"Graduate","No","High","Medium",11,0
+5,"Not Graduate","No","Low","Medium",9,1
+4,"Not Graduate","No","Medium","Medium",2,0
+1,"Not Graduate","Yes","Medium","Low",11,0
+1,"Not Graduate","No","Max","Low",0,0
+0,"Graduate","Yes","Low","Low",7,1
+4,"Graduate","Yes","Medium","Low",11,1
+4,"Graduate","Yes","High","Medium",12,1
+2,"Graduate","No","High","Medium",3,1
+4,"Graduate","No","High","Max",3,1
+2,"Graduate","Yes","Max","Max",12,0
+0,"Graduate","Yes","Low","Medium",9,0
+3,"Graduate","Yes","Medium","Max",1,0
+1,"Not Graduate","Yes","Medium","Low",2,1
+3,"Not Graduate","No","Medium","Low",7,0
+3,"Not Graduate","No","Medium","Medium",8,1
+4,"Not Graduate","Yes","Low","High",7,0
+5,"Not Graduate","Yes","High","Low",6,1
+0,"Graduate","Yes","Low","Medium",1,1
+3,"Graduate","Yes","High","Low",0,0
+1,"Graduate","No","High","Medium",3,1
+5,"Graduate","No","Medium","High",3,0
+3,"Not Graduate","No","Low","High",8,0
+3,"Graduate","No","Max","Low",12,0
+2,"Graduate","Yes","Max","High",5,0
+5,"Graduate","No","High","High",4,1
+2,"Not Graduate","No","High","Low",8,1
+5,"Not Graduate","Yes","Max","High",9,0
+0,"Not Graduate","No","High","Medium",11,0
+1,"Graduate","Yes","Max","Low",2,1
+1,"Not Graduate","Yes","Low","Max",11,1
+5,"Not Graduate","Yes","High","Medium",8,0
+3,"Graduate","No","Low","Low",10,0
+5,"Not Graduate","No","Medium","Medium",1,1
+1,"Not Graduate","No","Medium","High",11,1
+2,"Graduate","Yes","Medium","High",1,1
+3,"Not Graduate","Yes","High","High",4,1
+5,"Graduate","Yes","Low","Low",9,1
+2,"Not Graduate","Yes","Medium","Medium",6,0
+0,"Graduate","Yes","Low","High",3,1
+3,"Not Graduate","No","Low","Low",7,0
+3,"Not Graduate","No","High","High",10,0
+4,"Graduate","Yes","Low","Low",2,1
+0,"Not Graduate","No","Medium","High",8,1
+2,"Not Graduate","No","High","Medium",9,1
+1,"Graduate","No","Max","High",6,0
+1,"Not Graduate","Yes","Max","Medium",10,1
+3,"Not Graduate","Yes","Max","High",10,1
+3,"Not Graduate","No","High","Max",11,0
+1,"Graduate","Yes","Low","Low",6,1
+4,"Graduate","Yes","High","High",12,0
+4,"Graduate","No","High","Max",2,0
+0,"Not Graduate","No","Low","Max",2,0
+5,"Not Graduate","No","Medium","Medium",4,1
+0,"Graduate","No","Medium","Max",10,1
+4,"Graduate","Yes","High","Max",6,1
+2,"Not Graduate","Yes","High","High",1,0
+5,"Graduate","No","Max","High",12,0
+0,"Graduate","Yes","Medium","High",0,1
+2,"Not Graduate","No","Max","Max",4,1
+2,"Graduate","No","Low","Max",10,1
+2,"Graduate","Yes","High","Medium",2,1
+3,"Not Graduate","No","High","Medium",11,1
+0,"Graduate","No","Max","Medium",11,1
+5,"Graduate","Yes","Low","Max",9,0
+4,"Graduate","No","Low","High",5,0
+2,"Graduate","Yes","Low","Max",3,1
+4,"Graduate","No","Medium","High",8,1
+3,"Graduate","No","Max","Medium",12,0
+0,"Not Graduate","No","Max","Medium",8,0
+4,"Not Graduate","No","Max","Low",8,1
+3,"Not Graduate","Yes","High","High",0,1
+5,"Not Graduate","No","Max","Low",1,1
+0,"Graduate","Yes","High","Medium",10,0
+3,"Graduate","No","Low","Medium",7,1
+0,"Graduate","Yes","Medium","Medium",7,0
+0,"Graduate","Yes","High","Max",1,1
+3,"Not Graduate","No","Max","Medium",11,1
+2,"Not Graduate","Yes","Low","Max",11,1
+0,"Not Graduate","Yes","Medium","High",12,1
+1,"Graduate","Yes","Max","High",2,1
+4,"Graduate","Yes","Max","Max",4,0
+0,"Not Graduate","Yes","Max","High",0,1
+3,"Not Graduate","Yes","Max","High",6,0
+5,"Not Graduate","No","High","Medium",6,0
+1,"Graduate","No","Low","Medium",6,1
+1,"Not Graduate","Yes","High","Max",3,0
+1,"Not Graduate","No","High","Low",11,0
+2,"Not Graduate","No","High","Low",1,1
+1,"Graduate","Yes","Medium","Max",4,1
+4,"Not Graduate","Yes","Low","Max",7,1
+0,"Not Graduate","Yes","Max","Max",12,0
+0,"Not Graduate","Yes","Max","Medium",12,0
+1,"Not Graduate","No","Low","Max",5,1
+2,"Not Graduate","Yes","Medium","Low",5,0
+3,"Not Graduate","Yes","Low","Low",11,0
+1,"Not Graduate","No","Max","Low",6,1
+5,"Not Graduate","No","High","Medium",8,0
+5,"Not Graduate","Yes","Max","Low",4,1
+3,"Graduate","No","Medium","High",6,1
+3,"Not Graduate","No","High","Max",5,1
+0,"Graduate","Yes","Low","Max",0,0
+2,"Not Graduate","No","Medium","Max",4,0
+2,"Graduate","No","Max","High",0,0
+3,"Graduate","No","Max","Max",2,1
+1,"Graduate","Yes","Medium","Medium",2,0
+1,"Not Graduate","No","High","High",0,1
+0,"Graduate","Yes","Medium","Max",3,0
+1,"Graduate","No","Medium","High",2,0
+0,"Graduate","No","Low","Low",7,0
+2,"Not Graduate","Yes","High","Low",11,0
+1,"Graduate","No","Low","Low",4,1
+2,"Not Graduate","No","Low","Low",11,0
+5,"Graduate","Yes","Max","High",11,0
+0,"Not Graduate","Yes","Low","Max",10,0
+0,"Not Graduate","Yes","Medium","Low",11,1
+0,"Graduate","No","Low","Low",7,1
+5,"Graduate","No","Max","Medium",3,0
+4,"Not Graduate","Yes","Medium","Medium",10,1
+5,"Not Graduate","No","Low","Medium",4,1
+0,"Not Graduate","No","Low","Low",1,1
+0,"Graduate","No","High","Medium",0,0
+3,"Not Graduate","Yes","High","Max",2,1
+2,"Not Graduate","Yes","Medium","Medium",0,1
+1,"Graduate","Yes","High","Max",3,1
+5,"Graduate","No","Medium","Low",10,1
+1,"Not Graduate","Yes","Max","Medium",4,1
+3,"Not Graduate","Yes","High","High",5,0
+0,"Graduate","Yes","Max","Medium",8,1
+0,"Not Graduate","No","Max","Medium",3,0
+3,"Not Graduate","Yes","Max","Max",6,0
+0,"Graduate","Yes","Low","Max",5,0
+0,"Graduate","Yes","Max","Medium",0,1
+4,"Graduate","Yes","Low","Medium",4,1
+5,"Not Graduate","No","Low","High",10,0
+0,"Not Graduate","Yes","Max","Medium",8,0
+1,"Not Graduate","Yes","Low","High",8,0
+2,"Not Graduate","Yes","High","Medium",11,0
+4,"Not Graduate","No","Medium","Max",8,1
+2,"Not Graduate","No","High","Low",0,1
+0,"Not Graduate","Yes","Low","Medium",2,1
+1,"Not Graduate","Yes","Low","Medium",5,0
+4,"Not Graduate","Yes","Low","Medium",6,1
+2,"Graduate","Yes","Max","Low",3,1
+0,"Not Graduate","No","Medium","High",3,0
+1,"Graduate","No","Medium","Max",7,1
+1,"Not Graduate","No","High","Low",3,0
+3,"Not Graduate","No","Low","Medium",1,0
+5,"Graduate","No","High","Max",9,1
+3,"Not Graduate","Yes","Medium","Medium",7,0
+2,"Graduate","No","Low","High",9,0
+3,"Graduate","Yes","Low","High",7,0
+2,"Not Graduate","Yes","Medium","High",0,0
+3,"Graduate","Yes","Max","High",12,1
+4,"Not Graduate","Yes","High","Low",7,1
+1,"Graduate","No","Medium","Max",10,0
+5,"Graduate","No","High","Low",1,1
+4,"Graduate","Yes","Low","Medium",10,0
+4,"Graduate","No","Low","High",7,0
+4,"Graduate","No","Max","High",11,0
+5,"Not Graduate","Yes","Low","Low",7,0
+2,"Not Graduate","Yes","Low","Low",12,0
+2,"Not Graduate","No","High","High",5,1
+3,"Graduate","Yes","Max","High",3,0
+2,"Not Graduate","Yes","Medium","Max",5,1
+4,"Graduate","No","Medium","Medium",5,1
+0,"Graduate","No","Low","Max",10,0
+2,"Not Graduate","Yes","Max","High",5,0
+0,"Not Graduate","Yes","High","Max",9,1
+0,"Graduate","Yes","Low","Medium",0,0
+0,"Graduate","Yes","Low","Max",4,1
+3,"Graduate","Yes","High","Medium",6,1
+2,"Graduate","Yes","High","High",11,1
+3,"Not Graduate","No","Low","Medium",9,0
+1,"Graduate","No","Max","Medium",8,0
+1,"Not Graduate","No","High","Medium",12,1
+3,"Not Graduate","Yes","Max","High",11,0
+1,"Not Graduate","No","Medium","Low",11,1
+5,"Not Graduate","Yes","Medium","High",9,0
+1,"Graduate","No","High","Medium",8,1
+2,"Graduate","No","Max","Max",8,0
+1,"Not Graduate","Yes","Medium","High",4,0
+3,"Not Graduate","Yes","Max","Max",10,0
+2,"Graduate","No","Low","Low",1,1
+1,"Not Graduate","No","Max","Low",0,0
+0,"Graduate","No","Max","Low",9,1
+0,"Not Graduate","Yes","Max","Low",5,0
+4,"Not Graduate","No","Medium","High",0,1
+1,"Not Graduate","Yes","Low","High",9,0
+5,"Graduate","Yes","Low","Max",12,0
+1,"Graduate","No","High","Medium",8,0
+0,"Not Graduate","Yes","High","High",0,1
+2,"Graduate","Yes","Low","Low",8,1
+3,"Not Graduate","Yes","Low","Low",6,0
+1,"Not Graduate","Yes","Medium","Low",5,1
+5,"Not Graduate","Yes","Max","High",9,0
+1,"Graduate","No","Low","Low",9,0
+4,"Graduate","No","Low","Low",7,1
+1,"Not Graduate","Yes","High","Medium",10,1
+2,"Not Graduate","Yes","Medium","Max",4,1
+4,"Graduate","No","Low","High",0,1
+2,"Graduate","Yes","Medium","Medium",9,1
+2,"Not Graduate","No","Medium","High",1,1
+1,"Not Graduate","Yes","Max","Low",6,0
+2,"Not Graduate","Yes","Max","Low",10,1
+2,"Graduate","Yes","Medium","High",7,1
+5,"Graduate","Yes","Low","Max",1,1
+0,"Not Graduate","No","Low","Max",3,1
+0,"Graduate","No","Max","Low",2,1
+4,"Graduate","Yes","High","Low",3,0
+2,"Graduate","Yes","High","Max",1,0
+1,"Graduate","No","High","Max",12,0
+3,"Graduate","Yes","Medium","High",10,0
+4,"Not Graduate","Yes","High","Max",2,0
+0,"Not Graduate","No","High","High",3,0
+4,"Graduate","No","Medium","Max",7,0
+2,"Not Graduate","Yes","High","Low",9,0
+4,"Graduate","Yes","Medium","Low",12,0
+1,"Graduate","No","Max","Max",2,1
+0,"Graduate","Yes","High","Max",5,0
+5,"Graduate","Yes","Max","High",6,1
+4,"Graduate","No","High","High",10,1
+3,"Graduate","No","High","Medium",2,1
+5,"Graduate","No","High","Max",8,0
+1,"Graduate","Yes","High","Low",2,1
+5,"Not Graduate","No","Max","High",10,1
+2,"Not Graduate","Yes","Medium","Max",0,1
+2,"Not Graduate","Yes","Max","Low",12,0
+5,"Graduate","No","Max","Low",1,0
+3,"Graduate","Yes","Medium","Low",9,0
+1,"Not Graduate","No","Max","Medium",11,0
+5,"Not Graduate","Yes","Low","High",11,1
+3,"Not Graduate","No","Low","Medium",3,1
+0,"Graduate","No","High","Medium",7,0
+2,"Graduate","Yes","High","Low",6,1
+0,"Graduate","No","Medium","Medium",12,0
+5,"Not Graduate","No","High","Max",10,0
+2,"Graduate","Yes","High","Low",5,0
+5,"Not Graduate","No","Low","Max",3,1
+1,"Graduate","No","High","Low",1,0
+0,"Graduate","Yes","High","Medium",5,0
+5,"Not Graduate","Yes","Low","Medium",11,0
+3,"Not Graduate","Yes","High","Low",9,1
+2,"Not Graduate","No","Max","Low",3,0
+1,"Graduate","Yes","Medium","Medium",11,0
+2,"Not Graduate","Yes","Max","High",11,0
+3,"Graduate","No","Low","Low",6,1
+5,"Not Graduate","Yes","Max","Medium",4,0
+0,"Not Graduate","Yes","Low","Medium",10,0
+4,"Not Graduate","Yes","Medium","Max",0,0
+5,"Graduate","No","High","Medium",10,1
+1,"Not Graduate","No","High","Max",5,0
+4,"Not Graduate","No","Medium","Medium",1,0
+4,"Not Graduate","No","Low","Medium",5,1
+0,"Graduate","No","Low","High",11,1
+2,"Not Graduate","Yes","Medium","Medium",0,0
+4,"Not Graduate","Yes","Medium","Low",4,1
+3,"Not Graduate","No","High","Medium",11,0
+1,"Graduate","No","Medium","Max",4,1
+2,"Graduate","No","Max","Max",10,1
+2,"Graduate","Yes","Medium","High",5,0
+2,"Graduate","No","Low","Low",1,0
+5,"Graduate","No","Medium","High",6,1
+4,"Graduate","No","High","Low",0,0
+2,"Graduate","No","High","Max",10,0
+5,"Graduate","Yes","Max","Max",2,0
+4,"Graduate","Yes","High","Low",9,0
+4,"Not Graduate","No","Max","Medium",8,1
+1,"Graduate","No","Low","Low",2,1
+5,"Not Graduate","No","Low","Low",11,1
+3,"Graduate","No","Medium","Low",6,1
+5,"Not Graduate","Yes","Low","High",2,0
+5,"Not Graduate","No","Low","Medium",1,0
+1,"Not Graduate","Yes","Medium","Low",8,1
+4,"Graduate","Yes","Medium","Max",9,1
+3,"Not Graduate","Yes","Low","Medium",4,0
+3,"Graduate","No","Medium","Max",9,0
+2,"Not Graduate","No","Medium","High",6,0
+2,"Graduate","Yes","Max","Medium",4,0
+5,"Not Graduate","Yes","Medium","Medium",10,0
+1,"Not Graduate","Yes","Max","High",10,1
+0,"Graduate","Yes","Low","Low",12,0
+4,"Not Graduate","No","High","Low",6,1
+2,"Graduate","No","Max","High",6,0
+2,"Graduate","Yes","High","Low",0,1
+5,"Not Graduate","No","High","Low",7,1
+4,"Graduate","No","High","Max",11,0
+4,"Not Graduate","No","Low","Max",10,0
+0,"Graduate","No","Low","High",6,1
+0,"Not Graduate","Yes","High","Low",4,0
+4,"Not Graduate","No","Low","Medium",2,1
+3,"Graduate","Yes","Max","Max",11,0
+1,"Graduate","No","Medium","Max",10,1
+0,"Graduate","No","Low","Max",3,0
+1,"Graduate","Yes","Low","Medium",1,1
+1,"Not Graduate","No","High","Medium",3,0
+2,"Graduate","No","Low","Medium",8,1
+4,"Not Graduate","Yes","Medium","Medium",11,1
+4,"Graduate","No","Low","Low",4,1
+5,"Graduate","Yes","Max","Medium",0,1
+3,"Not Graduate","No","Low","Max",12,0
+5,"Not Graduate","No","Medium","High",7,1
+4,"Not Graduate","No","High","Low",10,0
+1,"Not Graduate","Yes","Max","Max",8,1
+0,"Graduate","No","Max","Max",8,1
+2,"Graduate","Yes","Max","Medium",10,1
+0,"Graduate","Yes","Max","Max",7,1
+1,"Graduate","Yes","Max","Max",6,1
+1,"Graduate","Yes","Low","High",9,1
+3,"Not Graduate","No","High","Max",12,0
+3,"Graduate","No","Max","High",4,1
+0,"Graduate","No","Low","Medium",12,1
+3,"Graduate","Yes","Medium","Max",0,0
+3,"Not Graduate","No","Max","Medium",11,1
+0,"Not Graduate","Yes","High","Max",11,0
+2,"Graduate","No","Max","High",8,1
+1,"Not Graduate","Yes","High","Medium",12,0
+2,"Graduate","No","Low","Medium",10,0
+2,"Graduate","Yes","Medium","Low",12,1
+4,"Graduate","No","Medium","Low",11,0
+0,"Graduate","No","High","Medium",0,0
+4,"Graduate","No","High","Max",5,0
+4,"Graduate","No","Medium","Max",2,1
+5,"Not Graduate","Yes","Medium","Max",4,1
+1,"Not Graduate","No","Low","Max",2,1
+0,"Graduate","Yes","Low","Low",5,1
+3,"Not Graduate","Yes","Medium","High",3,1
+4,"Not Graduate","No","Low","Medium",11,1
+1,"Graduate","Yes","High","Medium",5,1
+4,"Graduate","Yes","Max","High",6,1
+5,"Not Graduate","Yes","Max","High",12,0
+4,"Not Graduate","Yes","Max","High",5,1
+0,"Not Graduate","No","Max","Medium",2,0
+1,"Not Graduate","Yes","High","Max",2,0
+4,"Graduate","No","Low","High",12,1
+2,"Graduate","Yes","Low","Medium",4,1
+3,"Not Graduate","Yes","Max","Low",5,0
+4,"Not Graduate","No","High","Max",11,1
+2,"Not Graduate","Yes","Medium","High",6,1
+0,"Graduate","Yes","High","High",5,0
+2,"Graduate","No","Medium","Low",4,0
+5,"Not Graduate","Yes","Medium","Low",0,1
+5,"Graduate","No","Low","Medium",8,1
+1,"Graduate","Yes","Max","Low",1,1
+3,"Graduate","Yes","Max","High",7,0
+3,"Graduate","Yes","Medium","High",8,0
+4,"Graduate","No","High","High",8,1
+5,"Graduate","No","Low","Max",6,1
+0,"Not Graduate","Yes","Low","Medium",0,1
+3,"Not Graduate","Yes","High","High",9,1
+3,"Graduate","Yes","High","Medium",3,1
+0,"Not Graduate","No","Max","Medium",6,0
+3,"Graduate","No","Max","High",3,0
+2,"Graduate","Yes","Low","Low",10,1
+2,"Graduate","Yes","Max","High",6,0
+4,"Graduate","No","Medium","Low",9,0
+4,"Graduate","No","Medium","Low",2,0
+0,"Graduate","Yes","Medium","Low",2,0
+3,"Not Graduate","No","Max","High",1,0
+0,"Not Graduate","No","High","High",11,0
+2,"Not Graduate","No","Max","Low",3,1
+3,"Not Graduate","No","Medium","Max",3,0
+1,"Graduate","No","Low","Medium",4,1
+0,"Not Graduate","Yes","Max","Medium",2,1
+1,"Graduate","No","Medium","Low",9,1
+4,"Not Graduate","Yes","Max","Low",12,1
+2,"Not Graduate","No","Max","Medium",7,0
+0,"Not Graduate","Yes","Low","Max",3,1
+3,"Not Graduate","Yes","Medium","Max",5,0
+4,"Not Graduate","No","Max","Medium",4,1
+5,"Graduate","Yes","Medium","Medium",11,0
+3,"Graduate","Yes","Max","Medium",4,0
+3,"Graduate","Yes","Max","High",3,0
+1,"Graduate","No","Max","High",4,0
+0,"Not Graduate","No","High","Medium",7,1
+2,"Graduate","No","Medium","Low",7,0
+2,"Not Graduate","No","Low","High",1,0
+4,"Graduate","Yes","High","High",0,1
+2,"Not Graduate","No","Low","Max",9,1
+4,"Not Graduate","No","Low","Max",3,0
+1,"Graduate","Yes","High","Low",5,0
+0,"Graduate","Yes","Max","Medium",9,0
+1,"Not Graduate","Yes","Medium","High",5,1
+4,"Graduate","Yes","Max","Medium",0,0
+3,"Graduate","Yes","Low","Max",6,1
+5,"Graduate","Yes","Low","High",7,1
+1,"Not Graduate","No","Low","Max",3,1
+3,"Not Graduate","Yes","Low","Max",12,1
+5,"Graduate","Yes","Low","Medium",4,0
+2,"Not Graduate","No","Medium","Low",6,1
+3,"Not Graduate","No","Low","Low",2,0
+5,"Graduate","Yes","Medium","Max",4,0
+5,"Not Graduate","No","Medium","Max",0,1
+2,"Not Graduate","Yes","Max","High",2,0
+0,"Not Graduate","No","Low","High",3,1
+2,"Not Graduate","No","Max","Low",1,1
+4,"Not Graduate","No","High","Low",4,1
+4,"Not Graduate","Yes","Medium","Low",12,0
+1,"Not Graduate","No","Low","High",0,0
+4,"Graduate","Yes","High","Medium",1,0
+0,"Not Graduate","No","Medium","High",9,0
+5,"Graduate","Yes","Max","High",9,1
+3,"Not Graduate","No","Max","High",6,0
+0,"Graduate","Yes","Low","Medium",3,0
+2,"Graduate","Yes","High","Medium",3,0
+1,"Not Graduate","Yes","Max","Max",10,1
+5,"Not Graduate","Yes","Medium","Low",5,0
+2,"Not Graduate","Yes","Low","High",9,1
+1,"Graduate","No","Low","Medium",6,0
+0,"Not Graduate","Yes","Medium","Max",8,1
+2,"Not Graduate","Yes","High","High",4,0
+4,"Graduate","No","Medium","Medium",8,1
+4,"Not Graduate","Yes","Low","Max",8,0
+2,"Not Graduate","No","Medium","Medium",2,0
+4,"Not Graduate","No","Low","Low",1,0
+0,"Graduate","Yes","Low","High",12,1
+0,"Graduate","No","Low","Max",9,0
+5,"Graduate","No","Max","Max",9,0
+0,"Graduate","No","Medium","Medium",11,1
+0,"Not Graduate","Yes","High","Low",9,0
+4,"Not Graduate","Yes","Max","High",12,0
+4,"Not Graduate","Yes","Low","Low",7,0
+4,"Not Graduate","No","Max","Medium",9,0
+3,"Graduate","No","Max","Max",5,1
+3,"Not Graduate","No","Max","High",5,0
+3,"Graduate","Yes","Low","High",1,0
+4,"Graduate","No","Medium","Max",9,1
+0,"Graduate","No","Low","Low",0,1
+1,"Not Graduate","No","Low","High",4,0
+2,"Not Graduate","Yes","Low","Medium",2,0
+2,"Not Graduate","Yes","Low","Max",7,1
+4,"Not Graduate","Yes","High","Medium",12,0
+3,"Graduate","No","Max","Max",10,1
+4,"Graduate","No","Max","Max",8,0
+1,"Graduate","Yes","Max","High",0,0
+3,"Not Graduate","Yes","Max","Low",9,0
+0,"Not Graduate","Yes","Max","Max",8,0
+1,"Graduate","Yes","Max","Low",1,0
+5,"Graduate","No","Medium","Max",1,0
+5,"Graduate","Yes","Max","High",11,0
+3,"Not Graduate","No","Max","Max",5,0
+0,"Not Graduate","Yes","Low","Max",3,1
+0,"Graduate","Yes","Max","High",12,1
+4,"Not Graduate","Yes","Medium","Low",12,1
+0,"Graduate","No","Max","High",5,0
+0,"Not Graduate","Yes","Medium","Medium",11,0
+1,"Not Graduate","Yes","Medium","Low",6,1
+4,"Graduate","No","Medium","Max",4,0
+4,"Graduate","Yes","Max","Medium",6,0
+2,"Graduate","No","Low","Max",3,1
+5,"Graduate","No","Max","Medium",3,1
+2,"Graduate","Yes","High","Medium",4,1
+3,"Graduate","Yes","Low","High",9,0
+0,"Graduate","No","High","High",1,1
+5,"Graduate","No","Medium","Medium",8,0
+4,"Graduate","No","Medium","Low",8,1
+5,"Not Graduate","No","Low","Medium",8,0
+1,"Not Graduate","No","Low","High",9,0
+4,"Graduate","No","Low","High",2,0
+3,"Graduate","Yes","Medium","High",12,0
+0,"Graduate","No","Low","Max",9,0
+4,"Graduate","Yes","High","Low",6,1
+5,"Graduate","No","Low","Medium",8,1
+4,"Graduate","Yes","Max","Low",12,1
+1,"Graduate","Yes","Medium","Max",5,0
+4,"Not Graduate","No","Low","Medium",11,1
+5,"Graduate","No","High","High",9,0
+2,"Not Graduate","Yes","Low","Low",0,1
+2,"Graduate","Yes","Medium","Max",12,0
+4,"Not Graduate","Yes","Medium","Max",9,1
+0,"Not Graduate","No","Low","Max",8,1
+5,"Graduate","No","High","Medium",6,0
+4,"Graduate","Yes","Medium","Max",8,1
+5,"Not Graduate","No","Medium","Max",3,0
+0,"Graduate","Yes","High","Medium",2,0
+4,"Graduate","No","High","Low",4,0
+4,"Graduate","Yes","High","Medium",7,1
+5,"Not Graduate","No","Low","Medium",6,0
+1,"Not Graduate","Yes","Low","Max",3,1
+3,"Not Graduate","No","Max","Medium",1,0
+3,"Graduate","Yes","Medium","Low",3,1
+2,"Graduate","Yes","Low","Medium",0,1
+0,"Not Graduate","No","High","High",8,0
+4,"Graduate","No","Medium","Low",4,1
+1,"Not Graduate","No","Medium","Medium",3,0
+0,"Graduate","No","Max","High",10,1
+3,"Graduate","Yes","High","High",6,1
+0,"Graduate","Yes","Max","Low",7,0
+4,"Not Graduate","No","High","Max",7,0
+1,"Graduate","No","Medium","Max",1,0
+4,"Not Graduate","Yes","Low","High",11,1
+0,"Graduate","Yes","Low","Medium",6,1
+4,"Not Graduate","Yes","Max","Medium",1,1
+4,"Graduate","No","High","Max",4,1
+5,"Not Graduate","No","Medium","Max",4,1
+5,"Graduate","No","Low","Medium",12,0
+0,"Not Graduate","Yes","Low","Medium",7,0
+3,"Graduate","No","Medium","Low",4,1
+5,"Not Graduate","No","Medium","Medium",11,0
+3,"Graduate","Yes","Max","Medium",3,0
+1,"Not Graduate","No","Medium","High",7,1
+4,"Not Graduate","Yes","Low","Medium",11,1
+1,"Graduate","No","Medium","Low",1,0
+3,"Not Graduate","Yes","Medium","High",6,1
+1,"Graduate","Yes","Medium","Medium",12,1
+0,"Not Graduate","Yes","High","Low",2,0
+0,"Graduate","Yes","Max","Low",5,1
+2,"Not Graduate","No","Low","Medium",9,0
+1,"Not Graduate","Yes","High","Max",12,1
+5,"Not Graduate","Yes","Medium","Max",3,1
+3,"Not Graduate","Yes","High","Max",7,1
+1,"Graduate","No","Medium","High",5,0
+0,"Not Graduate","No","Max","High",1,0
+5,"Graduate","Yes","Medium","Low",9,1
+4,"Graduate","No","High","Max",2,1
+2,"Graduate","Yes","Max","Medium",12,1
+2,"Graduate","No","Low","Low",10,0
+1,"Graduate","No","Medium","Medium",9,1
+4,"Graduate","No","Max","Low",6,0
+4,"Graduate","Yes","Low","Low",1,0
+3,"Not Graduate","No","Max","High",0,0
+0,"Graduate","Yes","Max","Low",12,0
+2,"Not Graduate","Yes","Medium","Medium",2,1
+1,"Graduate","No","Low","Low",3,1
+2,"Not Graduate","No","Medium","Low",0,0
+0,"Graduate","No","High","Medium",1,1
+2,"Not Graduate","Yes","Max","Max",7,1
+4,"Graduate","Yes","High","Max",6,1
+1,"Graduate","Yes","Max","Max",0,0
+2,"Graduate","No","Medium","Medium",0,1
+5,"Not Graduate","Yes","Low","Medium",7,1
+0,"Not Graduate","Yes","High","Medium",0,1
+3,"Graduate","Yes","Low","Max",9,1
+2,"Not Graduate","Yes","Medium","High",12,1
+1,"Not Graduate","Yes","High","High",5,1
+2,"Not Graduate","No","High","High",5,1
+4,"Not Graduate","No","Medium","Max",4,1
+2,"Not Graduate","No","Max","Medium",8,0
+4,"Not Graduate","No","High","Low",8,0
+3,"Not Graduate","No","High","Max",12,1
+2,"Not Graduate","No","Max","Max",9,0
+5,"Not Graduate","No","Low","Medium",2,1
+3,"Not Graduate","No","Max","High",4,0
+5,"Graduate","No","Low","Low",8,1
+3,"Graduate","Yes","Max","Max",9,0
+4,"Graduate","Yes","High","High",1,1
+4,"Graduate","No","Medium","Medium",1,0
+1,"Not Graduate","No","High","Medium",9,0
+3,"Graduate","No","High","Medium",10,0
+0,"Graduate","No","Max","Max",7,1
+1,"Not Graduate","No","High","Medium",8,0
+5,"Not Graduate","Yes","Max","Max",8,1
+1,"Graduate","Yes","Low","Low",9,0
+2,"Graduate","Yes","Max","Max",11,1
+3,"Graduate","Yes","Low","High",9,1
+1,"Graduate","Yes","High","Medium",0,1
+2,"Not Graduate","No","Low","High",2,0
+1,"Graduate","No","Max","High",0,0
+4,"Not Graduate","Yes","Low","Medium",7,1
+4,"Graduate","No","Medium","High",0,1
+4,"Not Graduate","No","Low","Max",10,1
+3,"Graduate","Yes","High","Max",6,1
+1,"Not Graduate","No","Max","Max",6,0
+2,"Not Graduate","No","Medium","High",4,0
+3,"Not Graduate","No","Max","Low",12,1
+1,"Graduate","No","High","High",8,1
+1,"Not Graduate","Yes","Low","High",6,0
+4,"Graduate","Yes","Max","High",0,0
+3,"Graduate","No","Medium","High",0,0
+5,"Not Graduate","No","High","Low",4,0
+4,"Not Graduate","No","Medium","Max",7,1
+1,"Not Graduate","Yes","Max","Medium",0,1
+2,"Not Graduate","Yes","Low","Low",3,1
+0,"Graduate","No","Low","Medium",2,1
+2,"Graduate","No","High","Medium",8,0
+2,"Not Graduate","Yes","Max","Medium",9,1
+4,"Not Graduate","Yes","Low","High",1,0
+0,"Graduate","No","High","High",12,1
+5,"Not Graduate","No","Medium","Medium",11,1
+2,"Graduate","No","Medium","Medium",4,1
+0,"Graduate","No","Low","High",6,0
+4,"Not Graduate","Yes","Max","High",9,0
+3,"Graduate","Yes","Max","High",1,1
+3,"Not Graduate","Yes","Medium","High",5,1
+0,"Not Graduate","Yes","High","Max",0,0
+4,"Graduate","No","Low","Medium",3,1
+0,"Graduate","Yes","Medium","Medium",11,1
+2,"Graduate","No","Max","Max",9,1
+2,"Graduate","Yes","Max","Low",7,0
+3,"Not Graduate","No","Max","Max",6,0
+3,"Graduate","No","Low","Max",10,1
+2,"Not Graduate","No","Medium","Medium",7,0
+2,"Graduate","No","Low","Max",6,1
+1,"Graduate","Yes","Medium","Medium",9,1
+2,"Graduate","Yes","High","Low",1,1
+4,"Graduate","Yes","Low","Max",2,0
+0,"Graduate","No","Low","Max",4,1
+5,"Graduate","Yes","High","High",6,1
+4,"Not Graduate","Yes","High","Max",9,0
+2,"Not Graduate","Yes","Low","Medium",11,1
+1,"Graduate","Yes","Max","High",3,1
+4,"Not Graduate","Yes","Low","Max",10,1
+2,"Graduate","Yes","Low","High",9,0
+4,"Not Graduate","Yes","Low","Max",6,0
+0,"Not Graduate","No","High","High",8,1
+3,"Graduate","Yes","Low","Max",11,0
+3,"Not Graduate","No","Medium","Low",12,1
+2,"Not Graduate","Yes","Medium","Max",8,0
+1,"Not Graduate","Yes","Low","Medium",5,0
+3,"Graduate","Yes","High","Low",10,0
+0,"Graduate","No","Max","High",2,0
+3,"Graduate","Yes","Medium","Low",2,1
+2,"Not Graduate","Yes","Max","Max",4,0
+1,"Not Graduate","No","Medium","High",5,0
+3,"Not Graduate","No","Low","High",2,1
+4,"Not Graduate","Yes","High","Medium",12,1
+1,"Not Graduate","No","Medium","Low",2,1
+2,"Graduate","Yes","Low","High",4,0
+5,"Graduate","No","Low","Low",9,1
+2,"Graduate","Yes","Max","Low",1,1
+4,"Not Graduate","Yes","Medium","Max",7,1
+4,"Graduate","Yes","Low","Low",2,0
+3,"Not Graduate","Yes","Max","Low",11,0
+5,"Not Graduate","Yes","Max","Medium",0,0
+1,"Not Graduate","Yes","Medium","Medium",3,1
+0,"Graduate","No","Low","High",5,0
+0,"Graduate","Yes","High","High",6,0
+4,"Not Graduate","No","Max","Low",7,1
+3,"Graduate","Yes","Medium","Max",5,1
+3,"Graduate","Yes","Low","High",11,1
+3,"Not Graduate","No","High","Max",4,0
+0,"Not Graduate","No","Max","Max",5,1
+0,"Graduate","No","Medium","High",0,0
+5,"Graduate","No","Max","Medium",1,0
+1,"Graduate","Yes","Medium","Max",11,0
+2,"Not Graduate","Yes","Medium","Max",6,0
+0,"Not Graduate","Yes","Low","Max",6,1
+3,"Graduate","No","Max","Low",10,0
+3,"Graduate","No","Medium","High",6,0
+1,"Graduate","Yes","High","Low",2,1
+2,"Graduate","Yes","Max","High",3,1
+0,"Graduate","No","Max","High",10,0
+2,"Graduate","Yes","Low","Max",9,0
+2,"Not Graduate","Yes","Low","Low",11,1
+0,"Not Graduate","No","Max","Max",4,0
+3,"Not Graduate","No","High","Medium",12,0
+2,"Not Graduate","Yes","Max","High",11,0
+0,"Not Graduate","No","Medium","Medium",11,1
+3,"Not Graduate","No","High","Medium",7,0
+3,"Graduate","No","Medium","Low",8,0
+0,"Not Graduate","No","Low","High",8,1
+4,"Not Graduate","Yes","Low","High",12,0
+2,"Not Graduate","No","Max","High",3,1
+0,"Not Graduate","Yes","High","Low",0,0
+5,"Not Graduate","Yes","High","High",4,0
+4,"Graduate","No","Low","Medium",7,0
+0,"Not Graduate","Yes","Medium","Medium",7,0
+0,"Graduate","No","Medium","Low",1,0
+3,"Not Graduate","No","Max","Max",7,0
+2,"Graduate","Yes","High","Max",6,1
+3,"Graduate","No","Low","High",8,0
+5,"Not Graduate","No","Medium","Medium",5,1
+3,"Graduate","No","Low","High",6,1
+4,"Not Graduate","No","High","Max",2,0
+5,"Graduate","Yes","High","High",6,0
+5,"Graduate","Yes","Low","Medium",10,0
+2,"Not Graduate","Yes","High","Low",1,1
+1,"Graduate","Yes","Medium","Medium",2,1
+2,"Graduate","No","High","Low",9,1
+4,"Not Graduate","No","Medium","Max",9,0
+3,"Graduate","No","Medium","Low",7,0
+3,"Not Graduate","No","Low","High",12,1
+2,"Graduate","No","High","High",7,0
+4,"Graduate","No","High","Medium",2,1
+3,"Not Graduate","Yes","Low","Low",11,0
+1,"Graduate","No","Low","High",5,0
+3,"Graduate","No","High","Medium",3,1
+0,"Graduate","No","Medium","Max",6,0
+1,"Graduate","No","Low","High",6,0
+0,"Graduate","Yes","Low","Medium",6,0
+0,"Not Graduate","No","Medium","Medium",5,1
+4,"Graduate","No","High","High",10,0
+4,"Graduate","Yes","High","Low",10,0
+2,"Not Graduate","Yes","Low","Max",10,0
+4,"Not Graduate","No","Low","Low",6,0
+5,"Not Graduate","No","Max","Max",2,0
+4,"Graduate","Yes","Medium","Low",10,0
+2,"Graduate","Yes","High","Medium",2,1
+4,"Not Graduate","No","Max","Low",12,1
+5,"Not Graduate","Yes","Low","Max",11,0
+0,"Not Graduate","No","Max","Low",4,0
+5,"Graduate","No","Low","High",2,1
+1,"Not Graduate","No","Max","Max",6,0
+3,"Graduate","No","High","High",2,1
+2,"Not Graduate","No","Medium","Medium",8,1
+5,"Not Graduate","No","High","Max",2,1
+4,"Not Graduate","No","Low","Medium",0,0
+2,"Graduate","No","Medium","Medium",3,1
+4,"Graduate","No","Medium","Low",4,1
+2,"Not Graduate","No","Max","Low",0,0
+3,"Not Graduate","Yes","Medium","High",7,0
+0,"Not Graduate","No","Low","High",4,1
+1,"Not Graduate","Yes","Max","Low",9,1
+3,"Graduate","No","Medium","Medium",2,1
+1,"Not Graduate","No","Low","Low",0,0
+3,"Not Graduate","No","Medium","Max",7,1
+3,"Graduate","Yes","Low","Max",9,1
+1,"Not Graduate","Yes","High","High",11,1
+5,"Not Graduate","Yes","High","Max",5,1
+5,"Not Graduate","No","Low","Max",8,1
+2,"Graduate","No","Low","High",3,0
+3,"Graduate","Yes","Medium","Low",3,0
+1,"Not Graduate","Yes","Medium","Medium",0,0
+5,"Graduate","No","Max","Low",5,1
+3,"Not Graduate","Yes","Low","Max",8,1
+2,"Not Graduate","No","High","Low",7,1
+5,"Not Graduate","Yes","High","Low",4,0
+4,"Graduate","Yes","Max","Max",5,0
+1,"Graduate","No","High","High",10,1
+5,"Not Graduate","No","High","Low",1,1
+5,"Not Graduate","No","Medium","Medium",7,0
+3,"Not Graduate","No","Low","High",12,1
+0,"Graduate","No","Low","Max",2,0
+3,"Not Graduate","Yes","Medium","Medium",1,0
+4,"Not Graduate","Yes","Low","Low",9,0
+3,"Graduate","No","Max","Low",9,1
+2,"Not Graduate","No","High","Max",10,1
+0,"Graduate","No","Medium","Medium",0,0
+1,"Graduate","No","High","High",3,1
+4,"Not Graduate","Yes","Medium","High",3,1
+4,"Not Graduate","Yes","Low","Medium",11,1
+4,"Not Graduate","No","Max","Low",4,1
+4,"Not Graduate","No","High","Medium",6,1
+5,"Graduate","No","Low","Max",3,0
+3,"Graduate","Yes","High","Medium",11,0
+5,"Graduate","Yes","Max","Max",1,0
+2,"Not Graduate","Yes","Max","Max",12,1
+3,"Not Graduate","No","Low","Max",8,0
+2,"Not Graduate","Yes","High","High",6,0
+5,"Not Graduate","No","Low","High",10,1
+0,"Graduate","Yes","High","High",11,1
+3,"Not Graduate","Yes","Medium","Low",12,0
+3,"Graduate","Yes","High","Max",6,1
+3,"Graduate","No","High","High",5,1
+5,"Graduate","Yes","Low","Max",8,0
+3,"Graduate","No","Max","Max",5,0
+2,"Not Graduate","No","Low","High",6,0
+5,"Not Graduate","No","Medium","Medium",5,1
+5,"Graduate","Yes","Low","Medium",11,1
+1,"Not Graduate","Yes","Max","Max",10,0
+1,"Not Graduate","No","Max","Max",5,1
+5,"Graduate","No","Medium","High",3,1
+2,"Not Graduate","No","High","High",12,1
+5,"Graduate","Yes","High","Low",10,0
+2,"Graduate","Yes","Low","Max",12,1
+4,"Not Graduate","No","High","Low",4,1
+0,"Graduate","Yes","High","Max",12,0
+5,"Not Graduate","Yes","Low","High",0,0
+0,"Graduate","No","High","Max",12,1
+3,"Not Graduate","No","High","Low",11,0
+2,"Graduate","No","Max","High",3,1
+1,"Graduate","Yes","High","High",11,1
+3,"Not Graduate","Yes","Max","High",7,0
+4,"Not Graduate","Yes","High","Medium",8,1
+1,"Graduate","No","Low","Medium",1,1
+1,"Not Graduate","No","Medium","Low",5,0
+2,"Graduate","Yes","High","Max",3,1
+1,"Not Graduate","Yes","Max","Medium",10,0
+2,"Graduate","No","Medium","Low",12,1
+5,"Graduate","No","Low","Low",5,1
+5,"Not Graduate","Yes","High","High",4,1
+3,"Not Graduate","No","High","Medium",6,0
+3,"Not Graduate","No","Medium","Max",4,0
+0,"Not Graduate","No","Max","Max",4,1
+3,"Graduate","Yes","Low","High",5,1
+4,"Not Graduate","Yes","Max","Low",0,0
+3,"Not Graduate","No","High","Max",10,1
+1,"Graduate","No","Low","Low",10,1
+5,"Not Graduate","Yes","Medium","Max",10,0
+2,"Not Graduate","No","High","Medium",0,1
+5,"Not Graduate","No","High","Low",8,1
+3,"Not Graduate","Yes","Medium","Low",0,0
+3,"Not Graduate","Yes","Max","Max",3,1
+3,"Graduate","Yes","Max","Low",6,1
+1,"Graduate","Yes","Max","Max",8,1
+1,"Not Graduate","No","Max","Max",11,1
+5,"Graduate","Yes","Low","Medium",8,0
+1,"Graduate","Yes","Max","High",9,1
+1,"Graduate","No","High","Low",0,1
+2,"Not Graduate","Yes","Medium","High",3,0
+0,"Graduate","Yes","High","Low",11,1
+4,"Graduate","No","Medium","High",4,1
+4,"Graduate","Yes","Low","High",10,0
+0,"Not Graduate","Yes","High","Medium",4,1
+4,"Not Graduate","No","Low","Max",8,0
+0,"Graduate","No","High","Max",9,1
+0,"Not Graduate","Yes","High","High",10,1
+4,"Not Graduate","No","High","Max",0,0
+5,"Graduate","No","High","High",7,0
+3,"Graduate","Yes","Low","Medium",9,0
+5,"Not Graduate","Yes","Medium","High",1,0
+5,"Not Graduate","No","Max","Max",2,0
+1,"Not Graduate","No","Medium","Max",4,0
+3,"Not Graduate","No","Low","Max",4,1
+0,"Graduate","No","Max","Low",0,0
+2,"Not Graduate","No","Medium","Low",5,0
+2,"Graduate","Yes","High","Low",7,1
+2,"Not Graduate","No","High","Medium",11,0
+1,"Not Graduate","No","Max","Max",8,0
+3,"Not Graduate","No","High","Max",8,0
+2,"Not Graduate","No","Medium","High",12,0
+5,"Not Graduate","Yes","Low","Low",2,0
+0,"Graduate","No","Medium","Medium",10,0
+4,"Graduate","No","High","Medium",10,0
+5,"Not Graduate","No","Low","High",3,1
+5,"Graduate","No","Max","Max",6,0
+1,"Graduate","No","Medium","Low",11,0
+4,"Not Graduate","No","Max","High",8,0
+4,"Graduate","No","High","Low",9,0
+2,"Not Graduate","Yes","Low","Medium",11,0
+4,"Graduate","No","Low","Low",4,0
+3,"Graduate","Yes","Low","High",11,0
+4,"Not Graduate","No","High","High",3,1
+2,"Not Graduate","Yes","High","High",4,0
+5,"Not Graduate","No","High","High",12,1
+4,"Graduate","No","High","Low",9,0
+3,"Graduate","Yes","Medium","Low",6,0
+1,"Graduate","No","Medium","Max",7,0
+5,"Graduate","No","Medium","High",1,1
+0,"Not Graduate","No","Low","Medium",7,0
+5,"Graduate","Yes","Low","High",4,0
+4,"Not Graduate","Yes","Low","Medium",1,0
+4,"Not Graduate","No","Max","Max",9,0
+2,"Not Graduate","Yes","Medium","Max",6,1
+3,"Not Graduate","Yes","Low","Medium",9,0
+0,"Not Graduate","No","High","High",3,0
+1,"Graduate","Yes","Low","Medium",6,0
+5,"Not Graduate","Yes","Medium","High",4,1
+2,"Graduate","No","Low","Low",0,1
+1,"Graduate","No","Max","High",10,1
+2,"Not Graduate","Yes","Low","High",10,0
+3,"Graduate","No","High","High",9,1
+1,"Graduate","Yes","Low","Low",10,0
+2,"Not Graduate","No","Low","Low",2,1
+3,"Not Graduate","Yes","High","Low",8,1
+1,"Not Graduate","No","Medium","High",0,0
+3,"Not Graduate","No","Max","Low",3,0
+5,"Graduate","No","Low","Medium",6,0
+1,"Graduate","No","Medium","Max",0,1
+4,"Not Graduate","Yes","Low","Low",4,0
+0,"Graduate","Yes","Low","High",7,0
+2,"Not Graduate","Yes","Low","High",2,0
+2,"Graduate","Yes","Max","Low",2,0
+3,"Graduate","Yes","High","Max",7,1
+4,"Not Graduate","No","Low","High",7,0
+3,"Not Graduate","Yes","Medium","Max",12,0
+1,"Graduate","Yes","Low","Medium",5,1
+3,"Not Graduate","Yes","Medium","High",10,1
+5,"Not Graduate","No","Medium","Max",4,1
+3,"Graduate","Yes","Medium","Low",1,0
+1,"Not Graduate","Yes","Low","Max",3,0
+4,"Not Graduate","No","Max","High",7,0
+1,"Graduate","Yes","Low","Max",5,1
+3,"Graduate","No","Low","Max",6,0
+5,"Not Graduate","Yes","Low","High",12,1
+4,"Not Graduate","Yes","High","Low",7,1
+1,"Graduate","No","Medium","High",2,0
+2,"Not Graduate","Yes","Medium","High",7,1
+0,"Graduate","Yes","Max","Medium",4,0
+1,"Not Graduate","Yes","High","High",6,1
+1,"Graduate","No","Low","Medium",1,1
+4,"Graduate","No","Max","Low",9,0
+0,"Not Graduate","Yes","High","Low",9,1
+1,"Not Graduate","Yes","Medium","High",0,1
+2,"Not Graduate","Yes","Medium","Medium",3,0
+3,"Not Graduate","Yes","Low","High",8,0
+1,"Graduate","Yes","High","High",9,1
+1,"Graduate","Yes","High","Low",2,0
+0,"Not Graduate","Yes","Low","Medium",9,0
+0,"Graduate","Yes","High","High",12,0
+2,"Graduate","Yes","High","High",7,1
+3,"Not Graduate","Yes","Low","Medium",1,1
+3,"Not Graduate","No","High","Low",8,0
+5,"Not Graduate","Yes","High","Max",4,0
+3,"Graduate","Yes","Max","Max",4,0
+0,"Graduate","No","Low","High",4,1
+3,"Graduate","No","Low","Low",10,1
+0,"Not Graduate","No","Max","High",8,0
+0,"Not Graduate","No","Low","Max",3,0
+5,"Not Graduate","No","Medium","Low",1,1
+5,"Not Graduate","No","High","Max",7,1
+2,"Graduate","No","Medium","Medium",10,0
+1,"Not Graduate","No","Max","Medium",8,1
+0,"Not Graduate","Yes","Medium","Medium",0,0
+0,"Graduate","No","High","High",6,0
+1,"Graduate","No","Low","Max",8,1
+4,"Graduate","Yes","High","Max",5,1
+0,"Not Graduate","Yes","Medium","High",6,0
+4,"Not Graduate","Yes","Max","Medium",9,0
+4,"Not Graduate","Yes","Low","High",10,0
+4,"Not Graduate","No","Low","Low",6,1
+4,"Not Graduate","No","Medium","High",8,0
+2,"Graduate","Yes","High","Medium",1,1
+0,"Graduate","Yes","Max","Low",7,0
+1,"Not Graduate","No","Max","High",11,0
+2,"Not Graduate","No","Max","Medium",2,1
+3,"Not Graduate","Yes","Low","Low",11,1
+5,"Graduate","Yes","Low","Max",1,1
+3,"Graduate","No","Max","Low",3,1
+1,"Graduate","No","Max","Max",7,1
+0,"Graduate","No","Low","Medium",2,1
+1,"Graduate","No","Max","Medium",0,1
+0,"Graduate","No","High","Max",9,0
+0,"Graduate","Yes","Max","Medium",10,1
+2,"Graduate","No","High","Max",12,1
+3,"Graduate","Yes","Low","Max",2,1
+5,"Not Graduate","No","Max","Medium",3,0
+5,"Graduate","Yes","High","Medium",1,1
+0,"Graduate","No","Medium","Max",6,0
+0,"Graduate","No","High","Medium",8,1
+2,"Not Graduate","No","Max","High",3,1
+2,"Not Graduate","No","Max","Medium",6,0
+0,"Graduate","Yes","Low","Medium",4,1
+1,"Graduate","Yes","High","Medium",11,0
+3,"Not Graduate","Yes","Max","High",3,1
+4,"Not Graduate","No","Medium","Medium",9,0
+5,"Graduate","Yes","Medium","Low",11,1
+3,"Graduate","No","Low","Medium",9,0
+4,"Graduate","No","Max","Max",11,1
+3,"Graduate","No","Medium","Medium",11,1
+5,"Graduate","Yes","Low","Medium",7,0
+1,"Not Graduate","No","Medium","Medium",4,0
+4,"Graduate","Yes","Medium","Low",1,0
+1,"Graduate","Yes","High","Max",6,0
+5,"Not Graduate","No","High","Medium",7,0
+5,"Graduate","No","Medium","High",10,0
+0,"Graduate","No","Medium","High",3,1
+5,"Not Graduate","Yes","Medium","Low",2,1
+4,"Graduate","Yes","Max","Max",0,1
+2,"Not Graduate","Yes","Max","Max",1,0
+2,"Not Graduate","No","Max","High",12,1
+1,"Graduate","Yes","High","Medium",5,1
+5,"Graduate","No","Max","Medium",10,0
+3,"Graduate","Yes","Medium","Max",1,0
+3,"Graduate","No","Medium","Low",4,1
+3,"Not Graduate","No","Medium","High",5,0
+0,"Graduate","No","High","Low",7,1
+1,"Not Graduate","Yes","Max","Max",5,1
+3,"Not Graduate","No","Medium","Medium",1,1
+1,"Graduate","Yes","Max","Low",12,1
+1,"Not Graduate","Yes","Max","Medium",8,1
+4,"Graduate","No","Low","Low",1,1
+2,"Not Graduate","No","Low","Low",1,0
+1,"Not Graduate","Yes","High","Max",6,1
+3,"Not Graduate","Yes","High","Low",10,0
+3,"Graduate","Yes","Max","Medium",8,0
+4,"Not Graduate","No","Medium","Max",11,1
+4,"Not Graduate","No","High","Medium",10,0
+5,"Not Graduate","No","High","High",10,0
+1,"Graduate","No","High","Medium",7,1
+0,"Graduate","No","High","High",9,1
+4,"Not Graduate","No","Medium","Max",8,0
+2,"Graduate","Yes","Low","Medium",6,1
+4,"Graduate","No","High","Medium",6,1
+5,"Graduate","No","High","Max",4,1
+2,"Graduate","Yes","High","Low",3,0
+1,"Graduate","Yes","Max","Low",1,0
+2,"Graduate","Yes","Medium","Low",11,0
+0,"Graduate","No","Max","Low",12,0
+3,"Graduate","Yes","Low","Medium",1,0
+1,"Graduate","No","High","Low",4,0
+2,"Not Graduate","Yes","Medium","Low",5,1
+3,"Graduate","Yes","Low","High",5,0
+5,"Graduate","No","Medium","Low",12,1
+5,"Graduate","Yes","High","High",4,0
+1,"Not Graduate","Yes","Medium","Medium",4,1
+3,"Not Graduate","Yes","Low","Max",12,0
+0,"Not Graduate","Yes","Max","Medium",6,0
+4,"Graduate","Yes","Max","High",6,0
+5,"Graduate","Yes","Medium","Medium",7,1
+1,"Graduate","Yes","Max","Medium",11,0
+5,"Graduate","No","Low","Max",4,0
+3,"Not Graduate","No","Max","Medium",4,0
+1,"Not Graduate","Yes","High","Max",2,1
+1,"Not Graduate","No","Max","Low",10,0
+0,"Graduate","No","Max","Max",1,0
+0,"Graduate","Yes","High","Low",1,0
+2,"Graduate","No","Low","Low",12,1
+3,"Not Graduate","Yes","Low","Medium",9,0
+2,"Not Graduate","No","Medium","Max",6,1
+1,"Not Graduate","Yes","Medium","Low",5,1
+5,"Graduate","No","Medium","Medium",7,1
+3,"Not Graduate","No","High","High",10,0
+2,"Graduate","No","High","Max",10,1
+0,"Graduate","Yes","Medium","Low",2,1
+2,"Graduate","No","Medium","High",1,1
+5,"Graduate","Yes","Low","Low",1,0
+3,"Graduate","Yes","Low","Low",7,0
+0,"Not Graduate","Yes","Medium","High",12,1
+2,"Graduate","No","Low","Max",9,1
+1,"Not Graduate","Yes","Low","Low",4,0
+1,"Graduate","No","Medium","Medium",8,1
+3,"Graduate","Yes","Low","Medium",11,0
+4,"Graduate","No","High","Medium",5,1
+4,"Graduate","Yes","Low","Max",5,1
+5,"Graduate","Yes","Low","Max",11,0
+4,"Graduate","No","Medium","High",1,0
+4,"Not Graduate","Yes","Low","Low",0,1
+3,"Graduate","No","Max","Low",5,0
+3,"Not Graduate","Yes","Max","Max",11,0
+4,"Not Graduate","Yes","Max","Low",4,0
+3,"Not Graduate","Yes","High","Medium",3,0
+0,"Graduate","Yes","High","Medium",9,1
+0,"Not Graduate","No","High","Max",6,0
+1,"Graduate","Yes","Max","Low",8,0
+3,"Graduate","Yes","Max","Low",12,0
+5,"Graduate","Yes","Max","High",9,0
+1,"Graduate","No","Low","Max",7,0
+3,"Not Graduate","No","Medium","Low",7,0
+5,"Not Graduate","No","High","Low",9,0
+4,"Graduate","No","Medium","High",9,1
+4,"Graduate","No","Max","High",10,1
+2,"Graduate","No","Max","High",9,1
+1,"Graduate","Yes","Max","High",9,1
+1,"Not Graduate","No","Medium","Low",0,0
+4,"Graduate","No","Medium","Low",11,0
+0,"Not Graduate","Yes","Max","High",11,0
+1,"Not Graduate","No","High","High",0,0
+1,"Not Graduate","No","Medium","Max",9,0
+2,"Graduate","Yes","Max","Max",12,0
+0,"Not Graduate","Yes","Medium","High",10,1
+5,"Not Graduate","Yes","Medium","Max",5,0
+4,"Graduate","No","Max","Low",6,1
+1,"Not Graduate","No","Low","Medium",11,0
+4,"Graduate","No","Max","Medium",4,0
+1,"Not Graduate","Yes","High","Max",1,1
+5,"Not Graduate","No","Max","Low",5,1
+3,"Not Graduate","Yes","Medium","High",5,1
+2,"Not Graduate","Yes","Medium","Medium",7,0
+4,"Graduate","No","Medium","Low",3,1
+3,"Graduate","No","High","High",10,0
+1,"Graduate","No","Low","Max",12,1
+0,"Graduate","Yes","Medium","Medium",2,1
+5,"Not Graduate","No","Low","Low",2,0
+5,"Not Graduate","No","Medium","Low",0,1
+5,"Not Graduate","No","Medium","Max",11,0
+2,"Not Graduate","No","Medium","Low",5,0
+3,"Graduate","Yes","Max","Max",6,1
+1,"Not Graduate","No","Max","Low",3,0
+2,"Not Graduate","No","High","Max",9,0
+4,"Graduate","Yes","Max","Max",2,0
+0,"Not Graduate","Yes","Medium","Low",8,0
+3,"Graduate","No","Low","Medium",2,1
+1,"Graduate","Yes","Max","Medium",1,0
+5,"Not Graduate","Yes","Medium","Max",12,0
+2,"Graduate","No","Low","Medium",9,0
+1,"Graduate","No","Max","Medium",12,1
+1,"Not Graduate","No","Low","Low",3,1
+0,"Graduate","No","Low","Max",10,0
+1,"Graduate","Yes","Low","Medium",12,1
+5,"Not Graduate","No","Medium","Medium",2,1
+4,"Graduate","Yes","Medium","Low",10,1
+5,"Graduate","No","Medium","High",4,0
+5,"Not Graduate","Yes","Low","High",8,0
+2,"Graduate","Yes","Low","Low",6,1
+4,"Not Graduate","No","High","Low",6,0
+0,"Not Graduate","Yes","High","Medium",4,1
+0,"Graduate","No","Low","Low",6,1
+1,"Graduate","Yes","Medium","High",7,0
+5,"Not Graduate","Yes","Low","Medium",1,0
+5,"Graduate","No","Low","High",4,1
+5,"Graduate","Yes","High","High",1,1
+4,"Graduate","Yes","High","Low",11,1
+3,"Not Graduate","No","Low","Medium",10,1
+1,"Graduate","No","High","Max",2,1
+3,"Graduate","Yes","Max","Medium",3,0
+3,"Graduate","No","Low","Low",4,1
+3,"Graduate","No","Medium","Medium",12,0
+0,"Not Graduate","Yes","Low","High",4,0
+2,"Graduate","Yes","Low","Medium",10,1
+1,"Not Graduate","Yes","Low","High",3,0
+3,"Not Graduate","Yes","High","Low",0,0
+0,"Not Graduate","Yes","High","Low",11,0
+2,"Graduate","No","Medium","Max",2,0
+1,"Graduate","Yes","Low","Max",2,0
+5,"Graduate","No","High","High",1,0
+4,"Not Graduate","Yes","Low","Medium",0,0
+1,"Graduate","No","Medium","Medium",6,0
+1,"Not Graduate","No","Low","Max",1,1
+4,"Graduate","Yes","Medium","Low",4,0
+3,"Not Graduate","Yes","Max","Max",9,1
+4,"Graduate","Yes","Low","Max",6,0
+2,"Graduate","Yes","High","Low",3,1
+3,"Graduate","Yes","Low","Medium",3,0
+4,"Not Graduate","Yes","Medium","Low",10,1
+2,"Not Graduate","No","Max","Low",8,1
+2,"Not Graduate","Yes","Medium","High",10,1
+1,"Not Graduate","No","Max","High",6,0
+3,"Graduate","No","Max","Medium",0,1
+1,"Not Graduate","No","Medium","Max",3,1
+3,"Graduate","No","Low","Low",11,1
+0,"Graduate","Yes","Low","Medium",11,1
+2,"Not Graduate","Yes","Medium","High",7,1
+1,"Graduate","Yes","Max","High",6,0
+2,"Not Graduate","No","Medium","High",6,1
+3,"Not Graduate","Yes","Low","High",4,0
+3,"Not Graduate","Yes","Max","Max",3,1
+1,"Not Graduate","No","Max","Medium",11,1
+5,"Graduate","No","Low","High",9,1
+5,"Not Graduate","No","Medium","Medium",0,0
+4,"Not Graduate","Yes","Medium","Medium",6,1
+1,"Graduate","Yes","Medium","Low",0,0
+3,"Graduate","Yes","Low","Medium",12,0
+4,"Not Graduate","No","Medium","Max",10,1
+5,"Graduate","Yes","Max","Max",9,0
+2,"Graduate","No","Low","Max",12,0
+1,"Graduate","No","Max","High",5,0
+4,"Graduate","No","Medium","High",1,1
+4,"Graduate","Yes","Max","High",0,0
+2,"Not Graduate","Yes","Low","Medium",1,1
+0,"Not Graduate","Yes","Low","Medium",8,1
+4,"Graduate","Yes","High","Max",6,0
+3,"Not Graduate","Yes","Low","Medium",12,1
+5,"Not Graduate","No","Low","High",10,1
+2,"Not Graduate","Yes","High","Low",6,0
+2,"Not Graduate","Yes","Low","Medium",5,1
+4,"Not Graduate","No","Low","Max",7,1
+1,"Not Graduate","No","High","Max",2,1
+5,"Not Graduate","No","Max","Max",10,0
+0,"Not Graduate","Yes","Medium","Medium",6,0
+5,"Graduate","Yes","High","Low",4,0
+4,"Graduate","No","Max","Low",7,1
+2,"Graduate","No","Low","Medium",9,0
+4,"Not Graduate","No","Medium","Low",6,0
+2,"Graduate","No","High","Medium",6,1
+2,"Graduate","Yes","Medium","High",7,1
+1,"Not Graduate","No","Low","Medium",10,0
+5,"Not Graduate","No","Low","Max",8,0
+3,"Not Graduate","No","Medium","Max",7,1
+5,"Graduate","Yes","Low","Medium",2,1
+0,"Not Graduate","No","High","Max",3,0
+5,"Graduate","Yes","Medium","Medium",0,1
+1,"Graduate","Yes","High","Max",5,1
+3,"Not Graduate","Yes","Low","High",2,0
+3,"Not Graduate","No","Low","Medium",9,1
+1,"Graduate","No","Low","Low",5,1
+2,"Graduate","No","Low","Low",7,0
+3,"Graduate","Yes","Low","High",6,0
+4,"Graduate","Yes","Medium","Max",11,1
+2,"Not Graduate","No","Low","Medium",1,0
+5,"Graduate","Yes","High","High",5,1
+5,"Graduate","Yes","Max","Low",8,0
+5,"Graduate","No","Low","Max",10,0
+5,"Not Graduate","Yes","High","High",8,1
+5,"Graduate","No","Max","Max",1,0
+3,"Graduate","Yes","Medium","Low",10,0
+3,"Graduate","Yes","Medium","Max",3,1
+4,"Not Graduate","No","Max","Medium",8,0
+2,"Not Graduate","Yes","High","High",10,0
+4,"Graduate","Yes","High","Max",9,0
+4,"Graduate","No","Max","Low",11,1
+1,"Not Graduate","No","High","Max",12,1
+1,"Not Graduate","No","Max","Max",5,1
+3,"Graduate","Yes","Medium","Medium",2,1
+2,"Graduate","No","Max","High",3,1
+5,"Graduate","No","Low","High",11,0
+0,"Graduate","Yes","Medium","Medium",8,1
+1,"Graduate","Yes","Medium","Max",8,0
+2,"Not Graduate","Yes","Max","High",10,1
+4,"Not Graduate","Yes","High","High",4,0
+1,"Not Graduate","No","Max","High",2,0
+5,"Graduate","No","Medium","Max",2,0
+0,"Graduate","No","Medium","Low",3,1
+4,"Not Graduate","Yes","Low","Max",2,1
+5,"Graduate","Yes","Max","Medium",8,0
+2,"Not Graduate","Yes","Low","High",6,0
+4,"Graduate","No","High","Max",8,0
+1,"Not Graduate","No","Low","Max",11,1
+1,"Graduate","No","Medium","Low",6,0
+3,"Graduate","Yes","Medium","Medium",6,0
+4,"Graduate","No","Max","Medium",11,0
+0,"Not Graduate","No","Medium","Max",12,0
+4,"Graduate","No","Medium","Low",7,0
+2,"Not Graduate","No","Low","High",6,0
+0,"Graduate","Yes","Low","Low",10,0
+3,"Graduate","No","High","Medium",11,1
+0,"Not Graduate","No","Low","High",10,1
+0,"Not Graduate","Yes","Medium","Medium",0,1
+5,"Graduate","No","Max","Medium",9,0
+1,"Graduate","Yes","Low","Max",8,0
+5,"Not Graduate","No","Max","Max",0,0
+2,"Graduate","Yes","Max","Max",2,1
+2,"Graduate","No","Low","High",0,0
+3,"Graduate","No","Max","Low",7,0
+5,"Not Graduate","No","Max","Medium",6,0
+2,"Not Graduate","No","High","High",0,0
+3,"Graduate","No","Max","Medium",5,1
+0,"Not Graduate","No","Low","Max",4,1
+2,"Graduate","No","Low","Max",8,1
+4,"Graduate","Yes","Low","Medium",0,1
+2,"Not Graduate","No","Low","High",11,0
+1,"Graduate","Yes","Max","Medium",7,0
+1,"Not Graduate","No","Low","High",10,0
+1,"Not Graduate","No","Medium","Medium",0,1
+4,"Graduate","No","Low","Medium",12,1
+4,"Not Graduate","Yes","Max","Low",10,1
+0,"Not Graduate","No","Medium","Max",1,1
+2,"Graduate","Yes","Medium","High",2,0
+5,"Not Graduate","No","Medium","Medium",3,0
+5,"Graduate","No","Max","High",7,1
+4,"Not Graduate","Yes","High","Medium",11,0
+1,"Graduate","Yes","High","High",0,1
+2,"Graduate","Yes","Low","Low",2,1
+0,"Not Graduate","No","Max","Max",5,1
+3,"Graduate","Yes","High","High",2,1
+5,"Graduate","No","Medium","High",10,0
+4,"Not Graduate","No","High","Max",2,1
+3,"Graduate","Yes","High","Max",11,1
+0,"Not Graduate","Yes","High","High",4,1
+0,"Not Graduate","No","Max","Medium",4,1
+1,"Graduate","No","Low","High",7,0
+1,"Graduate","Yes","Low","Low",7,1
+3,"Graduate","No","High","Low",7,1
+2,"Graduate","Yes","High","Low",0,0
+4,"Graduate","No","High","Medium",2,1
+1,"Graduate","No","Low","Low",8,0
+3,"Graduate","No","Low","High",4,1
+3,"Graduate","Yes","Low","Low",8,0
+2,"Not Graduate","No","Medium","Max",3,0
+1,"Not Graduate","No","Low","Medium",3,0
+3,"Not Graduate","No","Medium","Low",12,1
+5,"Not Graduate","No","Low","Low",3,0
+5,"Not Graduate","No","High","Max",2,1
+2,"Graduate","Yes","Max","High",7,1
+4,"Not Graduate","Yes","Low","Low",4,0
+2,"Graduate","No","Max","Max",3,0
+4,"Not Graduate","No","Medium","Max",2,0
+3,"Not Graduate","No","Medium","Max",7,0
+1,"Graduate","Yes","High","Medium",12,0
+4,"Not Graduate","Yes","High","High",4,0
+2,"Not Graduate","Yes","Max","Max",3,0
+2,"Graduate","No","Medium","Low",1,1
+5,"Graduate","No","Low","Medium",2,0
+0,"Not Graduate","Yes","Medium","Low",5,0
+2,"Graduate","No","Low","Medium",6,0
+2,"Graduate","Yes","Medium","High",7,1
+4,"Graduate","No","High","Max",9,1
+1,"Not Graduate","Yes","High","Max",11,1
+5,"Graduate","Yes","Max","Max",9,0
+1,"Not Graduate","No","High","Max",9,1
+4,"Not Graduate","No","High","Max",4,0
+2,"Graduate","Yes","Medium","Low",2,0
+4,"Graduate","No","Max","Max",2,1
+2,"Not Graduate","No","High","Medium",5,0
+5,"Graduate","No","Medium","High",8,0
+4,"Not Graduate","Yes","High","High",8,0
+2,"Not Graduate","No","Medium","Low",6,0
+3,"Not Graduate","No","High","Low",12,0
+3,"Not Graduate","Yes","Medium","Medium",0,0
+2,"Graduate","Yes","Medium","Max",5,1
+0,"Not Graduate","Yes","Medium","Max",1,1
+3,"Not Graduate","Yes","Medium","Medium",8,1
+0,"Not Graduate","Yes","Max","Max",6,0
+5,"Not Graduate","No","High","Medium",0,0
+2,"Graduate","Yes","Medium","High",11,1
+5,"Not Graduate","No","Low","Max",2,1
+4,"Graduate","No","High","Max",8,1
+5,"Not Graduate","No","High","Low",4,1
+2,"Graduate","Yes","Medium","Max",7,1
+3,"Not Graduate","Yes","Max","Low",4,1
+5,"Graduate","No","Medium","Low",1,1
+2,"Not Graduate","Yes","Medium","Medium",7,0
+5,"Not Graduate","No","Medium","Low",12,0
+0,"Not Graduate","No","Max","High",12,1
+3,"Graduate","Yes","High","Medium",2,0
+0,"Graduate","No","Medium","Medium",5,0
+1,"Not Graduate","No","Max","High",6,0
+1,"Graduate","No","Max","High",6,1
+2,"Graduate","Yes","Max","Medium",5,1
+0,"Graduate","No","Medium","Medium",6,1
+2,"Graduate","No","Low","Max",3,0
+3,"Graduate","Yes","High","Medium",3,0
+0,"Not Graduate","Yes","Low","Low",0,1
+2,"Graduate","Yes","High","Low",2,1
+3,"Graduate","Yes","Max","Max",6,1
+1,"Not Graduate","No","Low","High",7,0
+1,"Graduate","Yes","Max","Medium",8,0
+2,"Graduate","No","High","Max",3,1
+3,"Not Graduate","Yes","Max","Medium",0,1
+3,"Graduate","Yes","Max","Max",12,1
+2,"Not Graduate","No","Low","Max",1,0
+0,"Not Graduate","Yes","Low","High",8,1
+3,"Graduate","Yes","Medium","High",12,0
+4,"Not Graduate","No","High","Low",5,1
+1,"Graduate","No","Medium","Medium",5,0
+2,"Not Graduate","Yes","High","Medium",8,0
+2,"Graduate","No","Low","Medium",8,1
+1,"Not Graduate","Yes","Max","Max",12,1
+4,"Not Graduate","No","High","High",6,0
+1,"Not Graduate","Yes","Max","Max",6,0
+3,"Graduate","No","Max","Max",10,1
+1,"Not Graduate","Yes","Max","Low",5,1
+4,"Not Graduate","Yes","Max","Medium",2,0
+4,"Not Graduate","Yes","Max","Max",12,0
+1,"Graduate","No","Max","Max",4,1
+1,"Graduate","No","Low","Low",11,0
+1,"Graduate","Yes","Low","High",12,1
+4,"Graduate","No","Medium","Medium",11,1
+2,"Graduate","No","Max","Medium",0,0
+0,"Not Graduate","Yes","High","Medium",7,1
+4,"Not Graduate","Yes","Max","Low",1,0
+0,"Graduate","No","Medium","High",7,1
+0,"Graduate","Yes","Max","High",9,1
+0,"Not Graduate","Yes","Medium","Max",12,0
+1,"Not Graduate","No","High","Low",5,0
+2,"Graduate","No","High","Low",5,0
+4,"Graduate","Yes","Medium","Max",8,0
+3,"Not Graduate","Yes","Low","Max",9,1
+5,"Graduate","No","Medium","Medium",0,0
+1,"Graduate","Yes","Max","Low",9,1
+3,"Not Graduate","No","High","Max",7,1
+4,"Graduate","No","Low","Medium",7,1
+0,"Graduate","No","Low","High",3,1
+2,"Graduate","No","Medium","Low",5,0
+4,"Graduate","Yes","Low","Low",9,0
+0,"Not Graduate","No","Max","Max",5,1
+3,"Graduate","Yes","Low","Medium",5,1
+2,"Not Graduate","No","Low","High",7,1
+4,"Not Graduate","No","Max","Medium",8,0
+4,"Graduate","Yes","Max","Max",6,0
+2,"Not Graduate","Yes","Low","Medium",2,0
+5,"Graduate","No","Medium","Max",7,1
+5,"Graduate","Yes","High","High",12,1
+5,"Graduate","Yes","Max","Max",4,1
+0,"Not Graduate","No","Medium","Medium",11,0
+2,"Graduate","No","High","Max",2,1
+1,"Graduate","Yes","Low","High",9,0
+2,"Not Graduate","Yes","Max","Medium",12,1
+4,"Graduate","Yes","High","Max",1,0
+4,"Graduate","Yes","Low","High",2,1
+1,"Not Graduate","No","Low","Max",2,1
+5,"Not Graduate","Yes","Max","Medium",7,0
+1,"Graduate","No","Low","Medium",1,1
+1,"Graduate","Yes","Medium","Low",10,1
+5,"Graduate","No","Medium","Medium",4,1
+5,"Not Graduate","No","Medium","High",2,1
+0,"Graduate","No","Max","High",11,1
+2,"Not Graduate","No","Max","Low",1,1
+4,"Not Graduate","Yes","High","High",3,1
+2,"Not Graduate","No","Max","High",1,0
+1,"Graduate","No","Medium","High",10,0
+3,"Graduate","No","High","Max",11,0
+1,"Graduate","No","Max","High",7,1
+3,"Graduate","No","High","High",7,0
+4,"Graduate","No","Medium","Medium",2,0
+5,"Graduate","Yes","Max","Max",10,1
+0,"Graduate","Yes","Max","Medium",8,1
+2,"Not Graduate","Yes","High","High",10,0
+4,"Not Graduate","No","High","Max",10,1
+5,"Graduate","Yes","Low","Low",11,0
+1,"Not Graduate","No","Medium","Medium",8,1
+5,"Graduate","No","Low","High",5,1
+0,"Graduate","No","Max","Max",7,0
+2,"Graduate","Yes","Max","High",0,0
+4,"Not Graduate","No","Max","Medium",5,1
+1,"Graduate","No","Max","High",10,1
+2,"Not Graduate","Yes","Medium","High",10,1
+0,"Graduate","No","Medium","Max",2,1
+0,"Graduate","No","High","High",3,1
+1,"Graduate","No","Medium","Max",4,0
+1,"Not Graduate","No","Medium","Low",5,1
+0,"Graduate","Yes","Medium","Low",7,1
+2,"Graduate","Yes","Low","Medium",5,0
+1,"Not Graduate","No","High","High",8,0
+2,"Graduate","Yes","Medium","Low",2,1
+0,"Not Graduate","Yes","Max","Low",4,0
+1,"Graduate","Yes","Medium","High",3,1
+2,"Not Graduate","Yes","High","High",6,0
+5,"Graduate","No","Max","Low",6,1
+2,"Graduate","Yes","Low","Max",8,0
+1,"Graduate","Yes","High","Low",0,0
+1,"Graduate","No","Max","Low",2,1
+4,"Not Graduate","No","High","High",8,0
+2,"Graduate","Yes","Max","Medium",11,1
+5,"Graduate","Yes","High","Medium",4,1
+4,"Graduate","No","Medium","Max",2,0
+0,"Not Graduate","No","High","Medium",6,0
+1,"Graduate","No","High","Medium",11,1
+1,"Graduate","No","High","Medium",0,0
+0,"Not Graduate","No","Max","Low",1,0
+5,"Graduate","Yes","Max","Max",8,1
+0,"Not Graduate","No","Max","Max",1,0
+2,"Graduate","No","Low","Medium",11,0
+3,"Not Graduate","No","Max","High",4,1
+0,"Graduate","Yes","Max","High",4,0
+0,"Graduate","No","Low","Low",1,0
+5,"Not Graduate","Yes","Low","Low",1,1
+4,"Not Graduate","Yes","High","Medium",3,0
+1,"Not Graduate","No","Medium","Medium",10,1
+1,"Not Graduate","No","Medium","High",1,0
+1,"Graduate","Yes","Low","Low",1,1
+4,"Not Graduate","Yes","Max","Medium",3,0
+5,"Graduate","Yes","Max","Low",12,1
+4,"Not Graduate","No","Medium","High",6,1
+3,"Not Graduate","Yes","Max","High",5,1
+0,"Graduate","Yes","Medium","High",0,1
+3,"Not Graduate","Yes","Max","Medium",6,1
+4,"Graduate","No","High","Low",2,0
+0,"Not Graduate","No","Medium","Medium",5,1
+0,"Graduate","No","Low","Max",1,0
+2,"Graduate","No","Max","Max",1,0
+2,"Not Graduate","No","Low","Low",12,1
+5,"Graduate","No","Medium","High",6,0
+2,"Graduate","Yes","High","Low",12,0
+1,"Not Graduate","No","Max","Max",11,0
+3,"Not Graduate","Yes","Medium","Max",2,0
+2,"Graduate","Yes","High","Low",3,1
+1,"Graduate","Yes","Low","High",12,0
+5,"Not Graduate","No","Max","High",8,1
+5,"Graduate","No","High","High",10,1
+4,"Graduate","No","Medium","Low",0,1
+1,"Graduate","No","Low","High",5,1
+5,"Graduate","No","Medium","Medium",9,0
+2,"Graduate","No","Medium","High",9,0
+0,"Graduate","Yes","Max","Low",7,1
+4,"Graduate","Yes","High","High",3,0
+2,"Graduate","Yes","High","Low",5,1
+0,"Graduate","No","High","Medium",9,0
+3,"Not Graduate","No","Max","Low",7,1
+3,"Graduate","No","Max","Max",3,1
+4,"Graduate","No","Max","Low",2,0
+3,"Not Graduate","Yes","Low","Max",12,0
+1,"Graduate","No","Low","Medium",1,1
+1,"Graduate","Yes","High","Medium",0,0
+0,"Not Graduate","Yes","Low","Low",3,0
+3,"Graduate","Yes","Max","Medium",11,0
+5,"Not Graduate","No","High","Max",1,0
+0,"Not Graduate","No","Medium","Max",4,1
+5,"Not Graduate","Yes","Medium","Low",10,0
+1,"Graduate","No","Max","Max",5,0
+1,"Graduate","No","High","Medium",6,0
+1,"Not Graduate","No","Medium","Low",10,0
+1,"Graduate","Yes","High","Low",4,1
+0,"Graduate","No","High","Medium",0,1
+1,"Graduate","No","High","High",4,1
+5,"Graduate","No","High","Max",1,0
+1,"Not Graduate","Yes","High","Low",10,0
+4,"Graduate","Yes","High","Max",6,0
+1,"Not Graduate","No","Low","High",11,1
+2,"Not Graduate","Yes","Medium","Max",11,1
+5,"Not Graduate","Yes","Low","High",9,1
+4,"Not Graduate","No","High","Low",2,1
+1,"Not Graduate","Yes","Medium","Medium",9,1
+3,"Graduate","No","Medium","High",3,0
+4,"Not Graduate","No","High","Low",5,1
+5,"Not Graduate","Yes","Low","High",9,1
+3,"Graduate","No","Low","Low",4,1
+0,"Not Graduate","No","Low","Low",12,1
+1,"Not Graduate","Yes","Max","Medium",12,1
+1,"Not Graduate","No","High","Max",2,0
+3,"Not Graduate","No","Max","Low",9,1
+3,"Graduate","No","Max","Max",10,1
+4,"Not Graduate","Yes","Medium","High",0,1
+0,"Not Graduate","Yes","Max","High",9,1
+1,"Not Graduate","Yes","Medium","Max",6,0
+2,"Not Graduate","No","High","High",0,1
+1,"Not Graduate","Yes","Medium","Low",2,0
+4,"Not Graduate","Yes","High","Medium",5,1
+1,"Not Graduate","Yes","Medium","Medium",6,1
+0,"Not Graduate","No","Medium","Max",0,1
+5,"Not Graduate","No","Medium","Medium",12,0
+4,"Not Graduate","Yes","High","High",6,0
+4,"Not Graduate","No","Max","Max",6,1
+3,"Not Graduate","Yes","Low","Medium",1,1
+3,"Graduate","No","High","Max",11,0
+5,"Graduate","No","Max","Medium",2,1
+3,"Graduate","No","Medium","Max",4,0
+3,"Graduate","No","Low","Max",9,1
+0,"Graduate","No","Low","Medium",10,0
+3,"Not Graduate","No","Max","Medium",1,1
+4,"Graduate","No","Max","Max",4,1
+3,"Graduate","Yes","Low","Max",12,0
+4,"Graduate","No","Max","High",5,1
+2,"Not Graduate","No","High","Medium",6,1
+1,"Graduate","Yes","Max","High",10,1
+3,"Not Graduate","No","Low","Max",12,1
+3,"Not Graduate","No","High","Low",12,0
+2,"Not Graduate","No","Low","Low",11,0
+5,"Not Graduate","No","Medium","High",5,1
+1,"Graduate","Yes","Medium","Max",3,0
+2,"Graduate","Yes","High","High",2,1
+2,"Graduate","No","Max","High",3,0
+4,"Not Graduate","No","Max","Max",10,0
+4,"Not Graduate","Yes","High","Max",7,1
+3,"Graduate","Yes","Low","Max",3,1
+1,"Not Graduate","Yes","Medium","Medium",5,0
+1,"Graduate","No","High","High",12,1
+5,"Not Graduate","No","High","Medium",7,0
+2,"Not Graduate","No","Medium","High",11,1
+5,"Graduate","Yes","Low","High",8,1
+4,"Not Graduate","No","Medium","Max",3,1
+1,"Not Graduate","No","Medium","High",2,0
+1,"Not Graduate","Yes","Medium","Medium",7,0
+1,"Graduate","Yes","Medium","Low",12,0
+1,"Not Graduate","Yes","Medium","Max",7,0
+1,"Not Graduate","No","Max","Low",8,1
+0,"Not Graduate","No","High","Low",0,1
+5,"Not Graduate","No","Medium","High",4,0
+1,"Not Graduate","Yes","Max","Low",3,0
+0,"Not Graduate","No","Low","Low",1,0
+3,"Graduate","Yes","High","Medium",9,0
+5,"Graduate","No","Medium","Max",8,0
+5,"Graduate","No","Low","Max",8,1
+0,"Graduate","No","Low","Low",11,0
+4,"Graduate","Yes","High","High",8,0
+5,"Graduate","No","Medium","Medium",4,0
+0,"Not Graduate","Yes","Medium","Medium",11,1
+4,"Not Graduate","Yes","High","Low",0,1
+3,"Graduate","Yes","High","Max",8,1
+0,"Not Graduate","Yes","High","Medium",3,0
+5,"Graduate","Yes","High","Medium",3,0
+0,"Graduate","No","Max","High",3,0
+1,"Not Graduate","Yes","Low","Max",4,0
+3,"Graduate","Yes","Max","Low",10,0
+0,"Not Graduate","Yes","Max","High",7,1
+0,"Not Graduate","Yes","Low","Max",10,0
+2,"Not Graduate","Yes","Low","Max",6,0
+1,"Not Graduate","No","Medium","Medium",11,1
+0,"Not Graduate","No","Low","Medium",5,0
+1,"Graduate","No","High","High",8,0
+0,"Not Graduate","Yes","High","Medium",5,1
+3,"Graduate","Yes","Low","High",0,1
+1,"Not Graduate","Yes","Medium","High",4,1
+1,"Graduate","Yes","Max","Low",2,1
+1,"Graduate","Yes","Low","High",11,1
+1,"Graduate","No","Max","Low",10,1
+4,"Graduate","Yes","High","Medium",11,0
+1,"Graduate","Yes","Max","Low",4,1
+1,"Not Graduate","Yes","Medium","Medium",10,1
+3,"Not Graduate","No","Medium","High",3,1
+5,"Graduate","Yes","High","Low",2,0
+3,"Not Graduate","Yes","High","High",3,0
+3,"Graduate","No","Medium","Medium",12,1
+4,"Graduate","No","Medium","Max",11,0
+1,"Not Graduate","No","Low","High",0,1
+3,"Not Graduate","No","Medium","Max",0,0
+4,"Not Graduate","No","Medium","Low",4,0
+1,"Not Graduate","No","Medium","Max",2,0
+1,"Graduate","No","High","High",5,0
+3,"Graduate","No","Max","Max",6,0
+3,"Graduate","Yes","Low","Medium",5,1
+5,"Not Graduate","Yes","Max","High",4,1
+0,"Not Graduate","No","Max","Low",4,1
+0,"Not Graduate","Yes","Low","High",7,0
+1,"Graduate","Yes","Medium","High",8,1
+0,"Graduate","No","High","High",7,1
+5,"Not Graduate","Yes","Medium","Max",2,1
+0,"Graduate","No","Max","Medium",7,0
+1,"Not Graduate","No","High","Max",6,1
+1,"Graduate","No","Low","Medium",2,1
+1,"Not Graduate","No","Medium","Max",2,1
+5,"Graduate","Yes","Medium","Low",7,0
+2,"Graduate","Yes","Max","Low",0,0
+2,"Not Graduate","Yes","Low","High",6,0
+3,"Not Graduate","Yes","Medium","High",1,0
+2,"Not Graduate","No","Low","Max",5,0
+3,"Graduate","No","Medium","High",10,1
+1,"Not Graduate","Yes","Low","High",0,1
+2,"Not Graduate","Yes","Low","Low",1,1
+4,"Graduate","No","High","Medium",3,0
+1,"Graduate","No","Low","Low",3,1
+0,"Graduate","No","Max","High",5,1
+1,"Graduate","Yes","High","High",7,0
+0,"Graduate","Yes","Low","Max",3,1
+2,"Graduate","Yes","Low","Low",2,1
+5,"Not Graduate","No","Max","Medium",4,1
+3,"Not Graduate","No","High","High",2,0
+1,"Not Graduate","No","Medium","Low",3,1
+2,"Graduate","Yes","Max","Max",4,1
+5,"Not Graduate","No","Low","Medium",2,0
+4,"Graduate","No","Max","Low",0,0
+3,"Not Graduate","No","High","Max",4,1
+3,"Graduate","No","Medium","High",11,1
+0,"Graduate","No","High","Low",5,0
+1,"Graduate","No","High","Medium",11,0
+4,"Graduate","No","Medium","High",12,0
+2,"Graduate","No","Max","Low",3,0
+4,"Graduate","Yes","Low","Max",11,0
+3,"Graduate","No","High","Low",1,1
+4,"Graduate","Yes","Medium","Max",7,0
+3,"Graduate","No","Max","High",1,1
+0,"Not Graduate","Yes","Max","High",11,0
+2,"Not Graduate","No","Medium","Medium",10,1
+2,"Graduate","No","Medium","Medium",6,1
+3,"Graduate","No","Medium","Max",8,1
+5,"Not Graduate","No","Low","High",3,0
+0,"Not Graduate","No","Medium","Max",3,0
+3,"Graduate","Yes","Max","Max",0,1
+0,"Not Graduate","No","Low","Low",11,1
+0,"Graduate","Yes","Max","Max",3,0
+5,"Not Graduate","No","High","Low",4,1
+4,"Graduate","No","Low","Medium",6,0
+1,"Graduate","Yes","High","Max",9,0
+2,"Not Graduate","No","High","High",4,0
+5,"Graduate","Yes","Max","Medium",7,0
+2,"Graduate","Yes","High","High",0,1
+0,"Graduate","No","Max","High",7,0
+5,"Graduate","Yes","Low","Max",4,1
+3,"Graduate","No","Low","Max",7,1
+3,"Not Graduate","Yes","High","High",0,0
+3,"Not Graduate","No","Medium","Medium",10,0
+1,"Not Graduate","No","Low","Medium",3,0
+1,"Not Graduate","Yes","Max","Low",4,1
+0,"Graduate","No","Low","Max",7,0
+0,"Graduate","No","Medium","Medium",9,1
+5,"Not Graduate","Yes","Max","Max",5,1
+4,"Graduate","Yes","Medium","Low",10,0
+3,"Not Graduate","No","High","High",3,0
+2,"Graduate","Yes","Max","Max",12,1
+5,"Not Graduate","No","High","High",7,1
+0,"Not Graduate","Yes","Low","Low",8,1
+3,"Not Graduate","No","High","High",10,0
+4,"Graduate","No","Low","High",11,0
+0,"Not Graduate","No","High","Max",3,1
+2,"Graduate","No","Max","High",4,1
+5,"Graduate","Yes","High","High",3,1
+3,"Graduate","Yes","High","High",6,1
+1,"Not Graduate","Yes","Max","Low",10,0
+1,"Graduate","Yes","High","High",6,0
+5,"Graduate","No","High","High",3,0
+3,"Graduate","No","Medium","Medium",11,0
+0,"Graduate","No","Max","High",0,0
+5,"Graduate","Yes","Medium","High",0,0
+3,"Not Graduate","No","High","Max",6,1
+1,"Not Graduate","Yes","High","Max",2,0
+4,"Not Graduate","Yes","Low","Low",10,1
+1,"Not Graduate","No","Low","High",6,1
+1,"Not Graduate","No","High","Low",6,0
+4,"Graduate","Yes","Low","Low",10,0
+1,"Not Graduate","Yes","Low","High",6,1
+3,"Not Graduate","No","Medium","High",2,1
+0,"Not Graduate","Yes","High","Max",8,0
+5,"Not Graduate","Yes","Max","Medium",1,0
+2,"Graduate","Yes","Low","Low",6,0
+5,"Not Graduate","No","Low","Max",12,0
+2,"Graduate","No","Medium","Low",11,1
+5,"Graduate","No","High","High",9,1
+1,"Graduate","No","Low","Low",12,1
+5,"Graduate","Yes","Low","Max",11,0
+2,"Graduate","Yes","Max","High",6,0
+5,"Not Graduate","No","Medium","Max",3,0
+4,"Graduate","No","Max","Medium",0,1
+0,"Graduate","Yes","Medium","Max",3,0
+5,"Graduate","No","Max","Low",0,0
+3,"Graduate","No","High","Max",12,0
+2,"Graduate","Yes","Medium","Medium",3,0
+2,"Graduate","No","Max","Low",3,1
+5,"Not Graduate","Yes","Low","Medium",10,0
+5,"Graduate","Yes","Low","Max",9,0
+1,"Not Graduate","Yes","High","Low",4,1
+3,"Not Graduate","Yes","High","Low",0,1
+3,"Graduate","No","High","Low",10,1
+0,"Not Graduate","Yes","Medium","Medium",3,1
+1,"Graduate","Yes","Low","Max",0,0
+3,"Graduate","Yes","Max","High",0,1
+5,"Not Graduate","Yes","Max","Medium",5,0
+0,"Graduate","No","High","Max",12,0
+5,"Not Graduate","No","Max","Max",0,1
+0,"Graduate","No","Max","Low",4,0
+1,"Graduate","Yes","High","Low",3,1
+2,"Graduate","Yes","Max","Low",2,1
+5,"Not Graduate","No","Medium","High",0,1
+4,"Graduate","No","High","High",10,0
+5,"Graduate","No","Max","Low",8,1
+2,"Graduate","Yes","High","Medium",9,0
+1,"Not Graduate","Yes","Low","Medium",2,0
+4,"Graduate","No","Low","Low",8,0
+4,"Graduate","No","Max","Medium",6,0
+5,"Not Graduate","No","High","High",10,1
+1,"Not Graduate","No","Medium","High",4,0
+5,"Not Graduate","No","Max","Low",12,1
+3,"Graduate","Yes","Low","Max",5,1
+5,"Not Graduate","Yes","High","Max",11,0
+3,"Not Graduate","No","High","Low",4,1
+0,"Not Graduate","No","Low","Max",12,0
+1,"Graduate","No","High","Medium",0,0
+0,"Graduate","No","Medium","Max",3,0
+4,"Graduate","Yes","Medium","High",11,0
+2,"Not Graduate","No","Medium","Max",3,1
+0,"Graduate","Yes","Low","Max",2,0
+4,"Not Graduate","No","High","High",0,0
+0,"Not Graduate","No","Low","High",12,1
+5,"Not Graduate","Yes","Medium","Low",3,1
+2,"Graduate","Yes","Low","High",9,0
+0,"Not Graduate","No","High","Low",7,1
+1,"Not Graduate","Yes","Max","Max",10,1
+1,"Not Graduate","No","Max","Medium",7,1
+1,"Graduate","No","Low","Max",2,1
+5,"Not Graduate","Yes","Max","Low",4,0
+3,"Graduate","No","Low","Max",3,1
+0,"Not Graduate","No","Medium","Medium",1,0
+3,"Graduate","Yes","Medium","Medium",5,1
+0,"Not Graduate","Yes","Medium","Medium",4,1
+0,"Not Graduate","No","Low","Low",7,0
+2,"Not Graduate","No","Medium","High",11,1
+3,"Not Graduate","Yes","High","Low",11,0
+2,"Graduate","No","High","Max",0,1
+2,"Not Graduate","No","High","Max",7,1
+3,"Graduate","No","High","High",11,1
+0,"Graduate","Yes","Low","Medium",2,1
+1,"Graduate","Yes","Max","Medium",8,1
+0,"Graduate","Yes","Low","High",4,1
+3,"Graduate","No","Max","Low",4,1
+0,"Graduate","No","High","Low",5,0
+5,"Graduate","Yes","Low","Medium",1,1
+3,"Not Graduate","No","Max","Low",10,1
+3,"Graduate","Yes","Max","High",2,1
+3,"Graduate","No","High","Max",12,0
+4,"Not Graduate","Yes","High","Low",12,1
+5,"Graduate","No","Low","High",4,0
+2,"Graduate","No","Low","Medium",5,0
+2,"Graduate","No","Medium","Max",6,0
+3,"Not Graduate","Yes","Max","Medium",8,0
+3,"Graduate","Yes","High","Low",12,0
+0,"Not Graduate","No","Low","Max",10,1
+2,"Not Graduate","Yes","Max","Medium",2,1
+0,"Not Graduate","No","Medium","Max",7,0
+0,"Not Graduate","No","Max","Medium",8,0
+3,"Not Graduate","No","Low","High",6,1
+4,"Graduate","Yes","Medium","Low",12,0
+2,"Graduate","No","Low","Low",12,0
+0,"Not Graduate","Yes","Low","High",6,1
+4,"Graduate","Yes","Max","High",12,0
+0,"Not Graduate","Yes","High","Medium",3,1
+5,"Graduate","Yes","Max","Low",7,1
+4,"Graduate","Yes","Low","High",12,0
+5,"Graduate","Yes","High","Medium",1,1
+0,"Not Graduate","Yes","Medium","Medium",7,1
+1,"Graduate","Yes","Low","Low",1,1
+4,"Not Graduate","No","High","Low",1,1
+0,"Graduate","Yes","High","Max",11,1
+4,"Graduate","Yes","Low","Medium",3,0
+0,"Not Graduate","No","Max","High",12,1
+3,"Graduate","Yes","Medium","Max",10,0
+3,"Graduate","Yes","Medium","High",8,1
+3,"Graduate","Yes","High","High",10,0
+4,"Graduate","Yes","High","High",11,1
+5,"Graduate","Yes","Medium","High",7,1
+1,"Graduate","No","Low","Low",3,0
+1,"Graduate","Yes","High","High",3,0
+5,"Not Graduate","Yes","High","Max",2,0
+4,"Not Graduate","No","Max","High",6,1
+2,"Graduate","Yes","Low","Medium",3,0
+4,"Not Graduate","Yes","High","High",5,1
+4,"Not Graduate","No","High","Low",8,1
+4,"Graduate","Yes","Max","Max",12,1
+5,"Graduate","Yes","Max","Low",10,0
+0,"Graduate","Yes","Medium","Low",10,0
+1,"Not Graduate","No","High","Medium",3,0
+1,"Graduate","Yes","Low","Max",10,0
+0,"Not Graduate","No","Medium","Low",9,0
+2,"Not Graduate","Yes","High","Low",4,1
+3,"Graduate","No","High","High",6,0
+1,"Not Graduate","Yes","High","High",11,1
+1,"Not Graduate","Yes","Max","Max",1,0
+2,"Not Graduate","No","Medium","Medium",0,0
+4,"Not Graduate","No","High","Low",3,0
+2,"Not Graduate","No","Medium","High",11,0
+4,"Graduate","No","Low","Max",5,1
+2,"Not Graduate","Yes","High","Medium",7,1
+5,"Not Graduate","No","Medium","High",12,1
+3,"Graduate","No","Low","Low",8,0
+4,"Graduate","Yes","Max","Medium",6,0
+2,"Graduate","No","Max","Low",0,0
+1,"Not Graduate","Yes","High","Medium",0,1
+0,"Graduate","Yes","Medium","Low",10,1
+3,"Not Graduate","Yes","Low","Low",3,0
+3,"Graduate","No","Medium","Max",3,0
+2,"Graduate","Yes","Medium","Medium",10,0
+3,"Not Graduate","No","Max","Max",5,0
+0,"Not Graduate","Yes","High","Medium",6,1
+4,"Graduate","Yes","High","High",7,1
+4,"Not Graduate","Yes","High","Max",0,0
+0,"Not Graduate","Yes","High","Max",5,1
+3,"Graduate","Yes","Low","High",6,0
+1,"Not Graduate","No","Low","Medium",11,1
+2,"Not Graduate","No","Max","High",11,0
+0,"Graduate","No","Medium","Max",7,0
+4,"Graduate","Yes","Low","High",11,0
+1,"Not Graduate","No","Max","Low",7,1
+1,"Not Graduate","No","Max","Max",9,0
+3,"Graduate","Yes","Max","Medium",10,0
+3,"Graduate","No","Medium","High",10,0
+1,"Graduate","Yes","Max","Max",9,0
+1,"Graduate","Yes","Medium","High",12,0
+3,"Not Graduate","Yes","High","High",12,0
+4,"Graduate","Yes","Max","High",1,0
+5,"Not Graduate","Yes","High","Medium",6,1
+2,"Not Graduate","No","Low","Low",5,0
+3,"Not Graduate","No","Max","Medium",1,0
+1,"Graduate","Yes","High","Low",10,0
+2,"Not Graduate","Yes","Low","Medium",5,1
+0,"Graduate","Yes","High","High",10,1
+1,"Graduate","No","High","Medium",9,0
+4,"Graduate","Yes","Medium","High",1,0
+3,"Not Graduate","No","High","Medium",1,0
+2,"Graduate","No","High","Max",3,1
+1,"Not Graduate","No","Medium","Max",10,1
+4,"Not Graduate","Yes","Medium","Max",10,1
+0,"Not Graduate","Yes","Low","Max",2,0
+0,"Not Graduate","No","Medium","Medium",7,1
+0,"Not Graduate","Yes","Low","Medium",12,1
+2,"Graduate","No","High","High",5,1
+1,"Not Graduate","No","Max","High",4,0
+0,"Graduate","Yes","Max","High",1,0
+1,"Not Graduate","Yes","Low","Max",4,0
+3,"Graduate","No","High","Max",3,1
+0,"Not Graduate","No","High","Medium",11,0
+3,"Not Graduate","Yes","Max","Low",3,1
+4,"Not Graduate","No","Low","High",10,0
+2,"Not Graduate","Yes","Max","Max",6,1
+1,"Graduate","Yes","High","Low",6,0
+5,"Graduate","Yes","High","Low",8,0
+4,"Graduate","Yes","High","Medium",7,1
+4,"Not Graduate","No","Max","Low",12,1
+2,"Not Graduate","Yes","Low","Max",2,0
+1,"Not Graduate","No","High","Max",0,1
+0,"Graduate","Yes","Max","Max",12,1
+2,"Graduate","Yes","High","Max",12,0
+1,"Graduate","No","Low","Medium",2,1
+0,"Graduate","Yes","Low","High",6,0
+0,"Graduate","Yes","Medium","Low",9,0
+3,"Graduate","Yes","Medium","Medium",2,0
+2,"Not Graduate","No","High","Medium",5,0
+1,"Graduate","No","Low","Low",9,1
+2,"Graduate","Yes","Max","Medium",11,0
+3,"Not Graduate","Yes","Low","High",11,1
+1,"Not Graduate","No","Medium","High",3,0
+3,"Graduate","Yes","Medium","Max",4,0
+5,"Not Graduate","Yes","Low","Medium",0,1
+0,"Graduate","Yes","Medium","Medium",9,0
+4,"Not Graduate","Yes","Low","High",0,1
+2,"Graduate","No","Medium","High",5,1
+5,"Graduate","No","Max","Max",1,1
+2,"Graduate","No","Low","High",0,0
+3,"Graduate","No","Medium","Medium",0,1
+5,"Not Graduate","No","Max","High",4,1
+0,"Graduate","Yes","High","Medium",0,1
+4,"Not Graduate","Yes","Low","Low",6,0
+5,"Graduate","Yes","Low","High",3,1
+2,"Graduate","No","High","High",9,1
+5,"Not Graduate","No","Low","Medium",2,0
+0,"Not Graduate","No","Low","High",8,0
+2,"Graduate","No","Max","Medium",6,0
+0,"Not Graduate","Yes","Max","Medium",7,1
+0,"Not Graduate","Yes","Low","Max",7,1
+2,"Not Graduate","No","High","Medium",5,1
+2,"Not Graduate","No","Max","Max",2,1
+2,"Graduate","No","Low","Max",1,1
+3,"Not Graduate","Yes","Low","Medium",4,1
+3,"Graduate","Yes","Medium","High",2,1
+5,"Not Graduate","No","Max","Medium",9,0
+3,"Not Graduate","No","High","High",6,1
+0,"Not Graduate","Yes","Medium","Low",1,1
+5,"Not Graduate","Yes","Max","High",8,0
+0,"Not Graduate","No","Max","High",3,1
+5,"Graduate","No","High","Max",5,0
+2,"Graduate","No","Medium","High",10,0
+0,"Graduate","No","High","Max",3,0
+1,"Graduate","No","Medium","Medium",5,0
+2,"Graduate","Yes","Medium","High",12,1
+0,"Not Graduate","No","Medium","Max",3,1
+4,"Graduate","Yes","High","High",11,0
+5,"Graduate","Yes","Medium","Low",1,0
+5,"Graduate","No","Max","Max",8,0
+2,"Graduate","No","Low","Max",8,1
+5,"Not Graduate","No","High","Max",11,1
+4,"Not Graduate","No","Medium","Max",9,0
+5,"Graduate","No","Low","Low",7,1
+1,"Not Graduate","Yes","Max","Low",3,0
+0,"Graduate","Yes","Low","High",6,1
+0,"Not Graduate","Yes","Max","Medium",3,0
+1,"Graduate","Yes","High","High",7,1
+2,"Graduate","Yes","Max","Medium",6,0
+3,"Graduate","No","Max","Low",12,0
+4,"Graduate","Yes","Max","Medium",7,1
+5,"Graduate","No","Medium","Low",12,1
+2,"Not Graduate","Yes","Max","Medium",4,0
+2,"Graduate","Yes","High","Medium",10,0
+5,"Graduate","No","Low","High",7,1
+1,"Not Graduate","No","Low","Max",12,0
+0,"Not Graduate","Yes","Low","Medium",3,0
+0,"Graduate","Yes","High","Medium",4,1
+4,"Graduate","Yes","Low","High",11,1
+3,"Not Graduate","Yes","Medium","High",7,0
+1,"Graduate","Yes","Max","Max",1,0
+5,"Not Graduate","Yes","Medium","Max",7,1
+4,"Not Graduate","No","Low","High",7,1
+5,"Not Graduate","Yes","High","High",1,0
+0,"Graduate","Yes","Medium","High",1,1
+4,"Graduate","No","Low","Medium",2,0
+4,"Not Graduate","Yes","Max","Low",2,0
+2,"Not Graduate","No","Low","High",0,0
+1,"Not Graduate","Yes","Max","Medium",5,1
+5,"Not Graduate","No","Medium","High",2,1
+4,"Graduate","No","High","High",0,1
+2,"Graduate","Yes","Low","Low",12,0
+3,"Graduate","Yes","Max","Max",0,1
+1,"Not Graduate","No","Low","Medium",9,1
+4,"Graduate","No","Medium","High",0,1
+3,"Not Graduate","No","Max","Medium",11,1
+1,"Not Graduate","Yes","Max","Medium",1,1
+1,"Graduate","No","Max","High",12,1
+5,"Graduate","Yes","High","High",9,1
+3,"Not Graduate","Yes","High","Max",6,1
+0,"Graduate","No","Low","High",12,0
+1,"Not Graduate","Yes","Max","High",1,0
+3,"Graduate","Yes","Max","Low",2,1
+3,"Not Graduate","No","Max","Medium",9,1
+4,"Not Graduate","No","Max","Low",4,1
+1,"Not Graduate","No","Medium","High",0,1
+2,"Not Graduate","No","Low","Max",12,0
+1,"Graduate","No","Low","Max",6,0
+2,"Graduate","Yes","Low","Low",11,1
+5,"Graduate","No","Low","Max",12,0
+3,"Graduate","Yes","Medium","High",10,0
+1,"Graduate","No","High","High",6,1
+3,"Not Graduate","Yes","Low","Low",2,0
+1,"Graduate","No","Max","Max",2,0
+1,"Graduate","No","High","Medium",10,0
+3,"Graduate","Yes","Max","Medium",1,0
+5,"Not Graduate","Yes","Max","Medium",9,1
+1,"Graduate","No","Medium","Low",5,1
+0,"Graduate","No","Medium","Low",3,0
+5,"Not Graduate","No","Medium","Max",10,0
+2,"Graduate","Yes","High","Max",10,1
+1,"Graduate","No","Medium","High",0,0
+1,"Not Graduate","Yes","High","Max",6,0
+2,"Not Graduate","No","Low","Low",10,0
+5,"Not Graduate","Yes","Max","Max",6,0
+2,"Not Graduate","No","Low","Medium",10,1
+5,"Graduate","Yes","Medium","Max",8,0
+1,"Not Graduate","Yes","Low","High",1,0
+1,"Graduate","No","Medium","Max",12,0
+0,"Graduate","No","Medium","Medium",8,0
+5,"Not Graduate","No","High","High",2,1
+3,"Graduate","No","Max","Low",0,0
+4,"Not Graduate","Yes","Low","Low",12,1
+5,"Graduate","No","High","High",10,1
+0,"Not Graduate","Yes","Medium","Max",8,1
+0,"Not Graduate","No","Max","Medium",12,1
+0,"Not Graduate","Yes","Max","Low",9,0
+3,"Not Graduate","No","Medium","Medium",3,1
+1,"Graduate","Yes","Low","Low",3,0
+1,"Not Graduate","No","Low","Medium",11,1
+3,"Not Graduate","Yes","Medium","High",2,0
+3,"Graduate","Yes","Medium","Low",5,0
+4,"Graduate","No","High","Medium",8,0
+3,"Not Graduate","No","Medium","Low",5,0
+2,"Not Graduate","Yes","Medium","Max",2,0
+0,"Not Graduate","Yes","Max","Max",6,0
+1,"Not Graduate","Yes","Medium","Max",12,1
+5,"Graduate","No","Low","Medium",1,0
+4,"Not Graduate","No","Low","Low",3,0
+3,"Graduate","Yes","Max","Low",4,0
+5,"Graduate","No","Medium","Medium",2,1
+2,"Graduate","Yes","High","Medium",9,0
+0,"Not Graduate","Yes","Medium","Medium",1,1
+4,"Graduate","No","Low","Max",11,1
+3,"Not Graduate","Yes","High","Low",11,0
+2,"Graduate","Yes","Max","Max",1,0
+2,"Not Graduate","No","Max","Max",9,1
+0,"Not Graduate","Yes","Max","High",0,1
+4,"Graduate","No","High","High",8,0
+5,"Graduate","Yes","High","Low",3,1
+4,"Not Graduate","No","Max","Max",4,0
+1,"Not Graduate","No","Medium","Medium",5,1
+4,"Graduate","No","Medium","High",4,0
+2,"Graduate","Yes","Max","Max",3,0
+1,"Not Graduate","No","Medium","Low",11,0
+1,"Not Graduate","No","Low","High",6,1
+3,"Not Graduate","Yes","Low","Max",8,1
+3,"Graduate","No","Medium","Low",1,0
+2,"Not Graduate","Yes","Max","Low",6,0
+1,"Not Graduate","Yes","High","Max",11,0
+5,"Not Graduate","No","Medium","Medium",5,0
+3,"Not Graduate","Yes","Max","Medium",4,1
+0,"Graduate","No","Max","High",10,1
+5,"Not Graduate","No","High","High",12,1
+5,"Graduate","Yes","High","High",9,0
+5,"Graduate","Yes","Low","High",6,0
+4,"Not Graduate","No","Max","Medium",7,1
+1,"Graduate","Yes","High","Medium",9,1
+1,"Graduate","Yes","Low","Medium",9,1
+3,"Graduate","Yes","High","Max",2,1
+0,"Graduate","No","High","Medium",3,1
+2,"Not Graduate","Yes","Low","Max",4,0
+4,"Not Graduate","Yes","Low","Medium",12,1
+3,"Graduate","Yes","Medium","Low",2,0
+4,"Graduate","No","High","Low",2,1
+1,"Not Graduate","No","Max","Max",9,0
+3,"Not Graduate","Yes","Max","High",1,0
+0,"Not Graduate","Yes","Max","Max",2,1
+2,"Graduate","No","Max","Medium",9,1
+1,"Graduate","Yes","Medium","Max",12,0
+2,"Not Graduate","Yes","Low","Medium",4,0
+0,"Graduate","Yes","Max","Low",2,0
+1,"Graduate","Yes","High","Max",10,0
+2,"Not Graduate","Yes","Medium","Low",0,1
+5,"Graduate","Yes","High","High",8,1
+1,"Not Graduate","No","High","Max",0,0
+2,"Graduate","Yes","Low","Medium",4,0
+0,"Graduate","No","Medium","High",10,0
+1,"Not Graduate","Yes","High","Low",11,1
+3,"Graduate","No","Max","Max",11,0
+5,"Not Graduate","No","Low","Max",0,1
+1,"Graduate","Yes","Medium","High",6,0
+1,"Graduate","Yes","Low","Low",11,1
+0,"Not Graduate","Yes","Medium","Medium",8,1
+4,"Not Graduate","Yes","Max","Medium",7,1
+0,"Not Graduate","No","High","Max",10,1
+2,"Not Graduate","No","Low","Max",9,1
+3,"Graduate","No","High","Max",5,0
+5,"Not Graduate","No","Max","High",4,1
+0,"Graduate","No","Medium","Low",6,1
+1,"Graduate","Yes","Medium","Max",3,0
+5,"Graduate","Yes","Max","Max",9,1
+5,"Graduate","Yes","Max","Medium",4,1
+5,"Not Graduate","No","Max","High",12,1
+0,"Graduate","No","Max","Low",8,0
+4,"Not Graduate","Yes","Low","Low",9,1
+1,"Not Graduate","No","Medium","Low",11,0
+5,"Graduate","No","Max","Low",12,0
+4,"Graduate","Yes","Max","Medium",12,0
+3,"Graduate","No","Medium","Medium",0,1
+2,"Not Graduate","Yes","Medium","Low",12,0
+3,"Graduate","No","Low","High",7,0
+3,"Not Graduate","No","Medium","High",0,1
+5,"Not Graduate","No","Low","Medium",8,0
+3,"Not Graduate","Yes","Low","Max",11,0
+4,"Not Graduate","No","Medium","High",11,1
+4,"Not Graduate","Yes","Low","Low",5,0
+1,"Not Graduate","No","Medium","Low",1,0
+2,"Graduate","No","High","Medium",7,0
+0,"Graduate","Yes","Max","High",6,1
+3,"Graduate","No","Low","High",0,0
+0,"Graduate","No","High","Medium",4,1
+1,"Graduate","Yes","Low","High",10,1
+1,"Not Graduate","No","Max","High",0,1
+0,"Graduate","Yes","Max","High",9,0
+1,"Graduate","Yes","Low","High",12,1
+3,"Not Graduate","No","Max","Medium",5,1
+1,"Graduate","Yes","Low","Medium",2,0
+5,"Not Graduate","No","Low","Low",10,1
+0,"Graduate","No","Low","Medium",1,1
+2,"Not Graduate","Yes","Medium","High",6,1
+2,"Not Graduate","Yes","Medium","Max",3,0
+3,"Not Graduate","Yes","Max","Low",9,0
+5,"Not Graduate","Yes","High","Max",6,1
+5,"Not Graduate","Yes","Max","Low",11,0
+5,"Not Graduate","Yes","Medium","Medium",2,1
+0,"Graduate","Yes","High","Max",2,1
+2,"Not Graduate","Yes","Medium","Medium",2,1
+5,"Graduate","No","Low","High",8,0
+0,"Not Graduate","No","Max","High",4,0
+2,"Not Graduate","No","Medium","Medium",9,1
+1,"Not Graduate","No","Low","High",5,0
+1,"Graduate","No","High","Medium",11,0
+3,"Graduate","Yes","Medium","Medium",3,1
+4,"Graduate","Yes","Max","Low",3,1
+3,"Graduate","No","High","High",2,0
+1,"Not Graduate","No","Medium","High",3,0
+4,"Graduate","Yes","Medium","Low",3,1
+3,"Graduate","Yes","High","Medium",2,1
+5,"Graduate","No","Medium","Medium",11,1
+5,"Not Graduate","Yes","Medium","Low",10,1
+0,"Not Graduate","Yes","Low","High",7,1
+1,"Not Graduate","Yes","Medium","Low",11,0
+0,"Graduate","Yes","High","Low",6,0
+2,"Not Graduate","Yes","Low","Medium",5,0
+1,"Graduate","Yes","High","Low",10,1
+5,"Graduate","No","High","High",2,0
+4,"Not Graduate","Yes","High","Low",1,0
+4,"Not Graduate","Yes","High","Medium",1,0
+1,"Not Graduate","Yes","Low","Low",11,0
+5,"Not Graduate","No","High","Medium",5,0
+0,"Graduate","Yes","High","Low",10,0
+3,"Not Graduate","Yes","Max","Low",2,1
+4,"Not Graduate","Yes","Max","Low",6,1
+1,"Graduate","Yes","Medium","Low",8,1
+5,"Graduate","Yes","Low","Low",5,1
+3,"Not Graduate","No","Medium","High",6,0
+1,"Not Graduate","Yes","Low","Max",0,0
+4,"Graduate","Yes","High","Max",10,0
+5,"Not Graduate","Yes","Medium","Medium",1,0
+4,"Graduate","Yes","Medium","Low",2,0
+3,"Graduate","Yes","Max","Medium",4,0
+2,"Not Graduate","Yes","Low","High",11,1
+2,"Graduate","No","High","Max",10,1
+2,"Not Graduate","No","Max","Max",9,0
+4,"Graduate","Yes","High","High",1,1
+4,"Not Graduate","Yes","Max","Max",9,1
+2,"Not Graduate","No","Max","Low",5,1
+5,"Not Graduate","Yes","Max","Low",6,1
+1,"Graduate","Yes","Low","Low",10,0
+5,"Graduate","Yes","Max","High",11,1
+2,"Graduate","No","Low","High",5,1
+5,"Not Graduate","No","Medium","High",4,1
+3,"Not Graduate","Yes","Medium","Max",6,1
+4,"Not Graduate","Yes","Medium","High",1,0
+0,"Graduate","Yes","Low","High",4,0
+3,"Not Graduate","Yes","Low","Max",7,1
+3,"Graduate","Yes","High","Low",1,0
+0,"Graduate","No","Max","Max",0,1
+3,"Not Graduate","Yes","High","Max",0,1
+4,"Not Graduate","Yes","Max","Medium",9,0
+0,"Graduate","No","Medium","Max",6,1
+0,"Graduate","Yes","Medium","Medium",7,1
+2,"Not Graduate","No","Max","Max",12,0
+1,"Graduate","No","High","Low",1,1
+0,"Graduate","Yes","High","Max",9,1
+0,"Graduate","No","Low","Low",9,0
+0,"Graduate","Yes","High","High",7,1
+1,"Graduate","No","Low","High",10,0
+0,"Not Graduate","Yes","High","Max",12,1
+5,"Graduate","No","Low","Low",4,1
+1,"Graduate","Yes","Max","High",7,1
+4,"Not Graduate","Yes","High","Medium",3,0
+3,"Graduate","No","High","Max",8,0
+1,"Graduate","Yes","Medium","Low",6,1
+1,"Not Graduate","No","High","Low",3,0
+3,"Not Graduate","Yes","High","Max",5,1
+5,"Not Graduate","No","Low","High",10,1
+3,"Graduate","No","High","High",12,1
+4,"Graduate","No","High","High",6,1
+4,"Not Graduate","Yes","High","Medium",2,1
+2,"Graduate","No","Low","Low",5,0
+4,"Not Graduate","No","Max","Medium",3,0
+0,"Not Graduate","Yes","Low","Medium",7,0
+3,"Graduate","No","Medium","High",9,0
+2,"Not Graduate","Yes","Low","High",6,1
+5,"Not Graduate","Yes","Low","Low",5,0
+4,"Not Graduate","No","Medium","Medium",4,1
+3,"Not Graduate","No","Low","Max",9,1
+5,"Graduate","Yes","Medium","Max",12,1
+5,"Graduate","No","Medium","Low",9,1
+2,"Graduate","No","Low","Low",0,0
+5,"Not Graduate","No","Medium","Low",0,0
+5,"Not Graduate","Yes","Low","Low",6,1
+5,"Not Graduate","Yes","Medium","Medium",8,0
+5,"Graduate","No","Medium","Max",9,1
+5,"Not Graduate","No","Low","Max",11,1
+0,"Graduate","Yes","Low","Medium",5,1
+0,"Not Graduate","No","Medium","Max",11,0
+2,"Graduate","No","Medium","Low",1,1
+5,"Not Graduate","Yes","High","Max",5,0
+3,"Graduate","No","Low","Low",2,0
+4,"Graduate","No","Medium","High",4,0
+5,"Graduate","Yes","High","Medium",2,1
+4,"Not Graduate","No","Medium","Low",0,0
+4,"Graduate","Yes","High","Max",1,1
+3,"Not Graduate","Yes","Low","Low",8,1
+5,"Graduate","No","Max","High",8,0
+4,"Graduate","No","Low","Low",1,1
+3,"Graduate","No","High","Low",2,1
+2,"Not Graduate","Yes","Max","Max",8,1
+5,"Not Graduate","Yes","Medium","Medium",4,0
+5,"Graduate","Yes","High","Low",2,1
+5,"Graduate","No","Max","Max",9,1
+4,"Not Graduate","Yes","Low","High",10,0
+5,"Graduate","No","Max","High",9,0
+5,"Not Graduate","Yes","Medium","High",8,1
+1,"Not Graduate","Yes","Max","Low",6,1
+1,"Not Graduate","Yes","High","Low",4,0
+3,"Graduate","Yes","High","Max",7,0
+1,"Not Graduate","No","Medium","Max",7,0
+5,"Not Graduate","No","Max","Low",12,1
+1,"Graduate","No","Max","Medium",0,1
+0,"Graduate","No","Medium","High",6,1
+4,"Graduate","Yes","Max","Low",5,1
+3,"Graduate","No","Low","Max",9,1
+1,"Not Graduate","No","Low","High",12,0
+4,"Graduate","No","High","Max",5,1
+1,"Graduate","Yes","Medium","Medium",10,1
+0,"Not Graduate","No","Low","Max",8,0
+2,"Graduate","Yes","High","Low",0,0
+1,"Not Graduate","Yes","Medium","High",3,0
+1,"Graduate","Yes","Max","High",6,1
+3,"Graduate","No","Low","Low",8,0
+1,"Not Graduate","Yes","Medium","Medium",8,1
+4,"Graduate","Yes","Low","High",1,0
+1,"Not Graduate","No","High","Low",2,1
+1,"Graduate","Yes","Low","Medium",2,0
+5,"Graduate","No","Medium","High",0,0
+3,"Graduate","Yes","Low","Low",6,0
+0,"Not Graduate","No","High","Medium",11,0
+1,"Not Graduate","No","Medium","Medium",9,0
+4,"Not Graduate","Yes","Low","Low",2,0
+1,"Graduate","Yes","Low","Low",4,0
+1,"Graduate","No","Low","High",10,0
+2,"Not Graduate","No","Medium","Medium",6,1
+5,"Graduate","No","Medium","High",10,1
+1,"Graduate","No","Medium","High",1,1
+5,"Not Graduate","No","High","Medium",7,0
+1,"Not Graduate","Yes","Low","High",10,0
+1,"Not Graduate","Yes","Max","Low",1,0
+5,"Graduate","No","Medium","High",5,1
+5,"Not Graduate","Yes","Medium","High",12,0
+0,"Graduate","Yes","Medium","High",12,1
+0,"Not Graduate","No","High","Medium",10,0
+0,"Not Graduate","Yes","Medium","Medium",8,0
+0,"Not Graduate","Yes","High","Medium",8,1
+1,"Not Graduate","No","Low","High",8,1
+1,"Graduate","Yes","Low","Low",3,1
+4,"Not Graduate","Yes","High","Medium",6,1
+4,"Graduate","Yes","Max","Low",4,1
+1,"Not Graduate","No","Max","Low",6,0
+5,"Not Graduate","No","Medium","Max",12,0
+1,"Graduate","Yes","Low","Low",9,1
+2,"Not Graduate","No","Max","High",10,1
+0,"Not Graduate","No","Max","High",1,0
+1,"Graduate","Yes","Low","Low",9,0
+1,"Not Graduate","No","Low","Medium",6,1
+5,"Not Graduate","Yes","Max","Low",0,1
+5,"Graduate","No","Max","Medium",10,1
+5,"Not Graduate","Yes","Low","Medium",1,0
+2,"Graduate","No","Max","High",3,0
+0,"Not Graduate","Yes","Low","High",11,0
+1,"Not Graduate","No","Medium","Low",0,0
+0,"Not Graduate","Yes","Medium","Low",3,1
+4,"Graduate","Yes","Max","Medium",5,1
+3,"Not Graduate","Yes","Low","Medium",0,1
+1,"Not Graduate","Yes","Medium","Max",5,0
+3,"Graduate","No","Max","High",9,1
+4,"Not Graduate","Yes","Max","Max",6,0
+5,"Not Graduate","No","High","Low",10,0
+2,"Graduate","No","High","Medium",0,1
+0,"Graduate","Yes","Low","Low",8,0
+3,"Graduate","No","Low","Max",8,0
+2,"Graduate","No","Medium","High",1,1
+1,"Not Graduate","Yes","High","Medium",5,0
+5,"Not Graduate","No","Medium","High",7,0
+3,"Not Graduate","Yes","Medium","Medium",8,1
+5,"Not Graduate","Yes","High","Low",5,0
+0,"Graduate","Yes","High","Medium",5,1
+3,"Graduate","No","Medium","High",0,0
+2,"Not Graduate","No","Medium","High",8,0
+0,"Graduate","No","Max","Low",7,1
+5,"Graduate","Yes","Medium","Max",12,1
+1,"Not Graduate","Yes","Max","Max",7,0
+4,"Not Graduate","No","Max","Max",4,0
+5,"Graduate","Yes","Low","High",1,0
+5,"Graduate","Yes","High","Max",0,0
+2,"Graduate","No","Low","Medium",5,0
+5,"Not Graduate","Yes","Max","Max",10,0
+1,"Graduate","Yes","High","High",7,0
+3,"Graduate","Yes","Low","Max",11,0
+2,"Not Graduate","Yes","High","Low",1,0
+5,"Not Graduate","No","High","Low",9,1
+3,"Graduate","No","Low","Medium",2,1
+2,"Graduate","Yes","Medium","Low",8,1
+0,"Not Graduate","No","High","High",3,0
+3,"Not Graduate","No","Max","Medium",5,0
+1,"Graduate","Yes","Max","High",3,1
+3,"Graduate","No","Low","Max",11,1
+0,"Not Graduate","Yes","Max","Max",9,1
+3,"Graduate","Yes","Medium","Low",10,1
+3,"Graduate","No","High","Low",10,0
+2,"Not Graduate","Yes","Low","Max",0,1
+0,"Not Graduate","No","Medium","Medium",8,0
+1,"Not Graduate","Yes","Max","Medium",11,1
+1,"Not Graduate","No","Max","Low",2,1
+4,"Not Graduate","No","Max","Max",7,0
+3,"Not Graduate","No","Max","Low",4,0
+2,"Graduate","Yes","Max","High",6,0
+0,"Not Graduate","No","Low","High",6,0
+0,"Not Graduate","No","Medium","High",5,0
+4,"Not Graduate","No","Medium","Low",4,0
+0,"Graduate","No","Low","Max",12,0
+3,"Not Graduate","Yes","Medium","Max",8,1
+1,"Graduate","Yes","Low","Medium",12,1
+2,"Not Graduate","No","Medium","Low",9,1
+3,"Not Graduate","No","Low","Medium",6,0
+3,"Graduate","No","High","High",12,0
+0,"Not Graduate","No","Medium","Medium",9,0
+1,"Graduate","Yes","Low","High",10,1
+3,"Not Graduate","No","Medium","Max",8,1
+1,"Not Graduate","Yes","High","Medium",10,1
+5,"Not Graduate","No","Medium","Max",10,0
+4,"Not Graduate","No","High","High",8,0
+2,"Graduate","No","Low","Low",4,1
+2,"Graduate","Yes","Medium","Medium",1,0
+1,"Not Graduate","No","Medium","Max",2,0
+3,"Graduate","Yes","Low","High",1,0
+1,"Graduate","No","Medium","High",0,1
+1,"Not Graduate","Yes","Low","Medium",10,0
+0,"Not Graduate","Yes","Max","Low",11,0
+4,"Graduate","No","High","Max",2,0
+2,"Graduate","Yes","Max","Medium",10,0
+4,"Not Graduate","No","High","Medium",6,1
+5,"Graduate","Yes","High","Max",6,0
+3,"Not Graduate","Yes","Max","High",6,0
+2,"Not Graduate","Yes","High","Low",12,1
+0,"Not Graduate","Yes","Max","Medium",11,0
+5,"Graduate","Yes","Low","Low",4,0
+1,"Graduate","Yes","Medium","Low",9,1
+2,"Graduate","Yes","High","Medium",8,0
+3,"Graduate","Yes","Low","Max",8,1
+1,"Graduate","No","Medium","Max",0,1
+1,"Not Graduate","No","High","Max",2,1
+5,"Not Graduate","Yes","Max","Low",3,1
+2,"Graduate","Yes","Medium","Low",12,0
+5,"Graduate","No","Max","Medium",3,0
+1,"Graduate","No","Medium","Medium",8,1
+2,"Graduate","Yes","High","Max",7,0
+1,"Graduate","No","High","Medium",7,1
+5,"Not Graduate","No","Max","High",2,1
+4,"Not Graduate","Yes","Low","Low",12,1
+2,"Graduate","No","Medium","Max",1,1
+3,"Not Graduate","Yes","Medium","High",7,1
+1,"Graduate","Yes","Medium","High",6,0
+5,"Graduate","Yes","Medium","Max",4,1
+4,"Not Graduate","No","Medium","Low",2,0
+4,"Not Graduate","Yes","Low","Medium",0,1
+2,"Graduate","No","Max","High",6,0
+4,"Not Graduate","No","Max","Medium",5,0
+4,"Graduate","No","Max","Low",9,0
+5,"Graduate","Yes","High","Medium",9,0
+1,"Not Graduate","No","Max","Medium",11,0
+4,"Not Graduate","Yes","High","Max",12,0
+4,"Graduate","Yes","Medium","Low",5,0
+0,"Graduate","Yes","High","Medium",4,0
+0,"Not Graduate","Yes","High","Medium",5,1
+2,"Not Graduate","No","Medium","Medium",8,0
+5,"Not Graduate","No","Medium","Max",5,1
+1,"Graduate","Yes","Max","High",11,1
+0,"Not Graduate","Yes","Medium","Low",0,1
+0,"Not Graduate","Yes","Medium","Max",6,0
+3,"Graduate","Yes","Medium","High",5,0
+3,"Not Graduate","No","Medium","Max",8,1
+3,"Not Graduate","No","Max","High",6,1
+0,"Not Graduate","Yes","Low","Max",9,0
+1,"Graduate","No","High","Max",12,0
+5,"Graduate","Yes","Medium","High",6,1
+1,"Not Graduate","Yes","High","Low",5,0
+1,"Not Graduate","No","Max","Medium",11,1
+4,"Not Graduate","No","Medium","Max",7,1
+4,"Graduate","No","Low","Max",3,0
+2,"Not Graduate","Yes","High","Max",10,1
+5,"Graduate","Yes","Max","Medium",7,1
+5,"Graduate","No","High","High",6,0
+1,"Graduate","No","High","High",12,0
+5,"Not Graduate","Yes","Max","High",12,0
+5,"Graduate","No","Low","Low",3,1
+3,"Graduate","No","Max","High",8,1
+3,"Not Graduate","Yes","High","High",3,0
+3,"Not Graduate","No","Max","Max",11,1
+2,"Not Graduate","No","Medium","High",10,1
+0,"Not Graduate","Yes","Medium","Max",4,0
+4,"Graduate","No","Medium","Low",7,1
+3,"Not Graduate","No","High","High",2,0
+5,"Graduate","No","High","Medium",2,1
+2,"Graduate","No","High","Low",2,0
+1,"Graduate","No","Medium","Max",4,0
+0,"Graduate","No","High","Max",6,0
+2,"Graduate","Yes","High","Medium",1,0
+4,"Not Graduate","Yes","High","Low",7,1
+5,"Graduate","Yes","Max","Medium",3,0
+3,"Graduate","Yes","Medium","High",1,0
+0,"Not Graduate","Yes","Low","Medium",7,1
+4,"Graduate","No","Low","Max",11,0
+0,"Not Graduate","Yes","Max","Low",12,1
+4,"Graduate","No","Max","Medium",1,0
+4,"Graduate","No","Low","High",12,0
+2,"Not Graduate","Yes","Medium","Max",1,1
+5,"Not Graduate","No","Medium","Max",11,0
+3,"Graduate","Yes","Low","High",12,0
+3,"Not Graduate","No","High","Medium",1,0
+5,"Not Graduate","No","Medium","Medium",1,0
+4,"Not Graduate","Yes","Max","High",2,1
+0,"Graduate","No","Medium","Max",0,0
+3,"Graduate","No","Max","Medium",5,0
+5,"Not Graduate","No","High","Max",8,1
+4,"Graduate","No","Max","Medium",7,1
+0,"Not Graduate","Yes","Low","Medium",6,0
+1,"Graduate","No","Low","High",8,0
+4,"Graduate","No","High","Medium",7,0
+2,"Graduate","No","Medium","Low",10,1
+4,"Not Graduate","No","Max","Max",8,1
+5,"Graduate","Yes","Low","Medium",4,1
+4,"Not Graduate","Yes","Low","Medium",12,0
+3,"Graduate","Yes","Medium","Low",7,0
+4,"Graduate","No","Low","High",8,0
+1,"Graduate","No","High","High",6,1
+2,"Graduate","No","Medium","High",6,1
+0,"Not Graduate","No","High","Low",4,1
+4,"Graduate","Yes","Max","Max",5,1
+0,"Graduate","No","Low","Medium",12,0
+0,"Not Graduate","Yes","Low","Max",4,1
+2,"Not Graduate","No","Low","Low",5,1
+4,"Not Graduate","No","Medium","Medium",4,0
+0,"Not Graduate","Yes","Low","Medium",1,0
+2,"Graduate","Yes","Low","Max",11,0
+3,"Graduate","No","Low","High",12,1
+1,"Graduate","Yes","Low","Max",9,1
+2,"Graduate","No","Low","Max",10,0
+5,"Not Graduate","Yes","Max","Medium",11,0
+4,"Not Graduate","No","High","Medium",6,0
+3,"Not Graduate","Yes","Medium","Max",8,0
+5,"Not Graduate","Yes","Low","Low",11,0
+3,"Graduate","Yes","Low","Medium",7,0
+1,"Not Graduate","No","High","Max",1,0
+4,"Not Graduate","No","Max","Max",10,1
+0,"Not Graduate","No","High","Medium",9,0
+4,"Graduate","No","Max","Low",1,0
+2,"Graduate","Yes","High","High",8,1
+4,"Graduate","Yes","Medium","Low",0,1
+0,"Graduate","No","Medium","High",3,0
+5,"Graduate","No","High","Medium",10,1
+0,"Not Graduate","No","Medium","High",8,0
+2,"Not Graduate","No","Max","Low",11,1
+2,"Not Graduate","No","Medium","Low",3,0
